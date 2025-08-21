@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "0d3da7bc3eca3c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8c066f6f9c0ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04e288838987bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3b - Classes/Syllabus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e59e1b676a6af6b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d457511a16044e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd8613c934de8df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b0ffc36c5f45e99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f90fd19b83ec0b87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "a105260db8988793",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb39acc4ea870d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97737096446c90cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Virtual Memory.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Virtual Memory"
+            }
+          },
+          {
+            "id": "bc407bee70cac52c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main Notes/HW 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HW 2"
+            }
+          },
+          {
+            "id": "0ea2ce5eac663a24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e604632cab9e37b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analytics 2.0.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Analytics 2.0"
+            }
+          },
+          {
+            "id": "43b2567c604a87a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "d04e288838987bb2",
+  "lastOpenFiles": [
+    "3b - Classes/EECS 568 - Intro to Data Mining.md",
+    "6 - Main Notes/Basic Networking Terminology.md",
+    "3b - Classes/EECS 563 - Intro to Comm Networks.md",
+    "6 - Main Notes/Piet.md",
+    "Recently Created.md",
+    "Analytics 2.0.md",
+    "2 - Source Material/images/Pasted image 20250820150221.png",
+    "6 - Main Notes/Untitled.base",
+    "6 - Main Notes/a.md",
+    "3b - Classes/EECS 677 - Software Security Evaluation.md",
+    "6 - Main Notes/Code Abstraction Formats.md",
+    "4 - Indexes/Code Review.md",
+    "4 - Indexes/Reverse Engineering.md",
+    "3b - Classes/Syllabus.md",
+    "6 - Main Notes/Hashtag and Double Hashtag in C.md",
+    "4 - Indexes/ServiceNow.md",
+    "3 - Tags/C.md",
+    "4 - Indexes/Data Structures.md",
+    "2 - Source Material/GPT bad.md",
+    "1 - Rough Notes/Race Conditions.md",
+    "1 - Rough Notes/Pigeonhole Principle.md",
+    "1 - Rough Notes/HTTP in Go.md",
+    "1 - Rough Notes/690 Homework 3.md",
+    "2 - Source Material/images/Pasted image 20250513224501.png",
+    "1 - Rough Notes/565 Note Packet/jumble - 565 Final note sheet 1.md",
+    "1 - Rough Notes/565 Note Packet/jumble - 565 Final sheet 2.md",
+    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
+    "Syllabus.md",
+    "3b - Classes/EECS 581 - Software Engineering 2.md",
+    "2 - Source Material/images/Pasted image 20250606234040.png",
+    "2 - Source Material/images/Pasted image 20250606233855.png",
+    "Pasted image 20250606233650.png",
+    "Pasted image 20250606233806.png",
+    "Pasted image 20250606233741.png",
+    "Pasted image 20250606233712.png",
+    "Pasted image 20250606233706.png",
+    "Pasted image 20250606233702.png",
+    "1 - Rough Notes/565 Note Packet/Midterm",
+    "1 - Rough Notes/Note Sheets",
+    "I",
+    "Kernel",
+    "1 - Rough Notes/565 Note Packet",
+    "Untitled.canvas",
+    "2 - Source Material/Distributed OS and Algorithms",
+    "3b - Classes",
+    "7 - Trash",
+    "6 - Main Notes",
+    "Math/EECS 461 - Stats/Untitled.canvas"
+  ]
+}

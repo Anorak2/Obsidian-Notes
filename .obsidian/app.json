@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "autoPairBrackets": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Main Notes",
+  "autoPairMarkdown": false,
+  "showLineNumber": false,
+  "spellcheck": true
+}

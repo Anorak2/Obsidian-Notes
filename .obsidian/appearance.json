@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "monospaceFontFamily": "",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "fix-table-size"
+  ]
+}

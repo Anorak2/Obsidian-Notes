@@ -19,4 +19,4 @@ or if  |r| < 1
 
 $$ S_n = \frac{a}{1-r}$$
 # References
-
+[[Series]]

@@ -10,7 +10,7 @@
 [[Higher Derivatives]]
 [[Partial Derivatives]]
 
-#### Multivariable calculus 
+#### Mult-ivariable calculus 
 [[Ellipsoid]]
 [[Hyperboloids]]
 [[Paraboloid]]
@@ -18,38 +18,32 @@
 [[Multi-variable limits]]
 [[Partial Derivatives]]
 [[linear approximation]]
-[[Math/Calculus mega folder/Optimization]]
+[[Mathematical Optimization]]
 
 
 **Integrals**
 [[Integrals]]
 [[Iterated integrals]]
 [[vertically vs horizontally simple integrals]]
-[[Changing Coordinate Systems]]
 [[Gradient Vector]]
 [[Jacobian]]
 
 [[Arc-length]]
-[[Vector Fields]]
+[[Vector Fields*]]
 #### Coordinates
-[[Polar Coordinates]]
+[[Polar Coordinates*]]
 [[Spherical Coordinates]]
 [[Cylindrical Coordinates]]
 #### Sequences and Series
+----
+
 [[Sequences]]
 [[Series]]
 [[Geometric Series]]
-[[Power Series]]
+[[Power Series *]]
 [[Taylor Series]]
-[[Taylor Swift Polynomials]]
-
-**divergence tests**
-[[nth term divergence test]]
-[[Alternating Series Test]]
-[[Direct Comparison Test]]
-[[Integral Test]]
-[[Ratio Test]]
-[[Root Test]]
+[[Taylor Polynomials]]
+[[Series Divergence Tests]]  // This was so much of calc 2
 #### Vectors
 [[Vector Definition]]
 [[Vector Algebra]]

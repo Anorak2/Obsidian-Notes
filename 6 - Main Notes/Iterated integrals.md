@@ -1,7 +1,7 @@
 
 Tags: [[Calculus Bibliography]] [[Math]]
 # Iterated integrals
-We can calculate the volume of the area under a surface by Using Fubini's theorem which states we can break up an integral into double or triple [[Definite and Indefinite Integral|integrals]] which we call iterated integrals
+We can calculate the volume of the area under a surface by Using Fubini's theorem which states we can break up an integral into double or triple [[Integrals|integrals]] which we call iterated integrals
 
 $$\int\int\int_Rf(x,y) \space dA = \int^a_b \int_c^d \int_e^f f(x,y)\space dx \space\space dy \space\space dz$$
 

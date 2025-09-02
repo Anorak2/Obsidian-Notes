@@ -1,4 +1,4 @@
-
+[[meta notes]]
 
 # EECS 563 - Intro to Communication Networks
 - 10% In class quizzes 

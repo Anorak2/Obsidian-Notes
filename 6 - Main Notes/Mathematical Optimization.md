@@ -1,6 +1,8 @@
 
-[[Calculus Bibliography]]
+2025-09-02
 
+Tags: [[Calculus Bibliography]] [[Math]]
+# Mathematical Optimization
 $$\nabla f = (f_x,f_y) = \lambda *\nabla g(x,y) $$
 
 **critical points**
@@ -17,3 +19,6 @@ and then you find the [[Determinant of 2x2 Matrix|determinant]] of that to get t
 2. D > 0 and $f_{xx} < 0$ then a,b is a local max
 3. D < 0 then a,b is a saddle point
 4. D = 0 the test is inconclusive
+
+# References
+

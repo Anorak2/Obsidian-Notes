@@ -1,6 +1,6 @@
 
 [[Calculus Bibliography]]
-The spherical coordinates for a point in $R^3$ is $(p,\theta,\phi)$ where p is the distance from the origin, $\theta$ is the angle along the (x,y) plane just like in [[Polar Coordinates]] and [[Cylindrical Coordinates]]. Lastly $\phi$ is the angle from the z axis to the vector $O\to P$, which means that $0 \leq \phi \leq \pi$
+The spherical coordinates for a point in $R^3$ is $(p,\theta,\phi)$ where p is the distance from the origin, $\theta$ is the angle along the (x,y) plane just like in [[Polar Coordinates*]] and [[Cylindrical Coordinates]]. Lastly $\phi$ is the angle from the z axis to the vector $O\to P$, which means that $0 \leq \phi \leq \pi$
 
 #### Spherical to Cartesian
 $$x = p\sin(\phi)\cos(\theta)$$

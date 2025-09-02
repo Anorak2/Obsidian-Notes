@@ -7,3 +7,6 @@
 
 
 [[Data Pre-processing]]
+
+[[Supervised Learning]]
+[[Decision Trees]]

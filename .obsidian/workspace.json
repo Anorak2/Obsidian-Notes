@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d04e288838987bb2",
+            "id": "021859585db174f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3b - Classes/Syllabus.md",
+                "file": "6 - Main Notes/Integrals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,213 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Integrals"
+            }
+          },
+          {
+            "id": "eec337a6d8da217d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus mega folder/vertically vs horizontally simple integrals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "vertically vs horizontally simple integrals"
+            }
+          },
+          {
+            "id": "4fa54afd903e0258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Iterated integrals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Iterated integrals"
+            }
+          },
+          {
+            "id": "0a157511183797e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Limits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Limits"
+            }
+          },
+          {
+            "id": "442154cc0381ff3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Derivatives and Limits of Trig Functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Derivatives and Limits of Trig Functions"
+            }
+          },
+          {
+            "id": "de0a8948f21f1c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Applied Cybersecurity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Applied Cybersecurity"
+            }
+          },
+          {
+            "id": "a596d7fef05e2f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Discrete math and proofs/Discrete math Bibliography.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Discrete math Bibliography"
+            }
+          },
+          {
+            "id": "f64bd388dd531ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus mega folder/Taylor Series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Taylor Series"
+            }
+          },
+          {
+            "id": "62d2205499443569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus mega folder/Taylor Swift Polynomials.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Taylor Swift Polynomials"
+            }
+          },
+          {
+            "id": "83674df5dc2c1939",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -186,58 +389,59 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d04e288838987bb2",
+  "active": "83674df5dc2c1939",
   "lastOpenFiles": [
-    "3b - Classes/EECS 568 - Intro to Data Mining.md",
-    "6 - Main Notes/Basic Networking Terminology.md",
-    "3b - Classes/EECS 563 - Intro to Comm Networks.md",
-    "6 - Main Notes/Piet.md",
-    "Recently Created.md",
-    "Analytics 2.0.md",
-    "2 - Source Material/images/Pasted image 20250820150221.png",
-    "6 - Main Notes/Untitled.base",
-    "6 - Main Notes/a.md",
-    "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "6 - Main Notes/Code Abstraction Formats.md",
-    "4 - Indexes/Code Review.md",
-    "4 - Indexes/Reverse Engineering.md",
+    "2 - Source Material/images/Pasted image 20250313002837.png",
+    "2 - Source Material/images/Pasted image 20250502142308.png",
+    "2 - Source Material/images/Pasted image 20250502142245.png",
+    "2 - Source Material/images/Pasted image 20250121110638.png",
+    "Temp Base.base",
+    "2 - Source Material/images/Pasted image 20250312235042.png",
+    "2 - Source Material/images/Pasted image 20250313003110.png",
+    "2 - Source Material/images/Pasted image 20250512135937.png",
+    "2 - Source Material/images/Pasted image 20250512144612.png",
+    "2 - Source Material/images/Pasted image 20250512142020.png",
+    "2 - Source Material/images/Pasted image 20250312213952.png",
+    "2 - Source Material/images/Pasted image 20250512144106.png",
+    "Math/Calculus mega folder/Taylor Swift Polynomials.md",
+    "Math/Calculus mega folder/vertically vs horizontally simple integrals.md",
+    "4 - Indexes/Calculus Bibliography.md",
+    "6 - Main Notes/Integrals.md",
+    "Math/old Calc/Integral Techniques.md",
+    "6 - Main Notes/Iterated integrals.md",
+    "6 - Main Notes/Derivatives.md",
+    "Math/Calculus mega folder/Taylor Series.md",
+    "Math/Discrete math and proofs/Discrete math Bibliography.md",
+    "Math/Discrete math and proofs/Exhaustive Proof.md",
+    "3 - Tags/Math.md",
+    "4 - Indexes/Applied Cybersecurity.md",
+    "6 - Main Notes/Multi-variable limits.md",
     "3b - Classes/Syllabus.md",
-    "6 - Main Notes/Hashtag and Double Hashtag in C.md",
-    "4 - Indexes/ServiceNow.md",
-    "3 - Tags/C.md",
-    "4 - Indexes/Data Structures.md",
-    "2 - Source Material/GPT bad.md",
-    "1 - Rough Notes/Race Conditions.md",
-    "1 - Rough Notes/Pigeonhole Principle.md",
-    "1 - Rough Notes/HTTP in Go.md",
-    "1 - Rough Notes/690 Homework 3.md",
-    "2 - Source Material/images/Pasted image 20250513224501.png",
-    "1 - Rough Notes/565 Note Packet/jumble - 565 Final note sheet 1.md",
-    "1 - Rough Notes/565 Note Packet/jumble - 565 Final sheet 2.md",
-    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
-    "Syllabus.md",
-    "3b - Classes/EECS 581 - Software Engineering 2.md",
-    "2 - Source Material/images/Pasted image 20250606234040.png",
-    "2 - Source Material/images/Pasted image 20250606233855.png",
-    "Pasted image 20250606233650.png",
-    "Pasted image 20250606233806.png",
-    "Pasted image 20250606233741.png",
-    "Pasted image 20250606233712.png",
-    "Pasted image 20250606233706.png",
-    "Pasted image 20250606233702.png",
+    "6 - Main Notes/Partial Derivatives.md",
+    "6 - Main Notes/Determinant of 2x2 Matrix.md",
+    "6 - Main Notes/Derivatives and Limits of Trig Functions.md",
+    "6 - Main Notes/Higher Derivatives.md",
+    "6 - Main Notes/Limits.md",
+    "Math/Calculus mega folder/Root Test.md",
+    "3 - Tags/meta notes.md",
+    "Math/Calculus mega folder/Limit definition.md",
+    "Math/Calculus mega folder/Quotient Rule.md",
+    "6 - Main Notes/Power rule.md",
+    "Math/Calculus mega folder/Product Rule.md",
+    "Recently Modified and Created.base",
+    "6 - Main Notes/Untitled.base",
+    "6 - Main Notes/Untitled 2.base",
+    "6 - Main Notes/Untitled 1.base",
     "1 - Rough Notes/565 Note Packet/Midterm",
     "1 - Rough Notes/Note Sheets",
     "I",
     "Kernel",
     "1 - Rough Notes/565 Note Packet",
     "Untitled.canvas",
-    "2 - Source Material/Distributed OS and Algorithms",
-    "3b - Classes",
-    "7 - Trash",
-    "6 - Main Notes",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]
 }

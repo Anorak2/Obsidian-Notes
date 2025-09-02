@@ -3,7 +3,7 @@
 
 Tags: [[Calculus Bibliography]] [[Math]]
 # Improper Integrals, Comparing Integrals
-We deal with these by using everyone's favorite, [[Limit definition |Limits]]
+We deal with these by using everyone's favorite, [[Limits|Limits]]
 
 ## Infinite
 ![[Pasted image 20230925110732.png]]

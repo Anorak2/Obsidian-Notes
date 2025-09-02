@@ -1,5 +1,4 @@
 
-2025-05-19
 
 Tags: [[Calculus Bibliography]] [[Math]]
 # Derivatives and Limits of Trig Functions
@@ -23,3 +22,6 @@ These two in particular are very important because you can derive the compositio
 ![[Pasted image 20230823142102.png]]
 
 # References
+[[Derivatives]]
+
+[[Limits]]

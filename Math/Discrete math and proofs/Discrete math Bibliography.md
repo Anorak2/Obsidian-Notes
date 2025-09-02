@@ -1,13 +1,10 @@
-
-[[Math]]
-
 #### Proof Techniques
 [[Exhaustive Proof]]
 [[Direct proofs]]
 [[Proof by Contraposition]]
 [[Proof by Contradiction]]
 [[Proof by Cases]]
-[[Proof by Induction]]
+[[Proof by Induction]]*
 
 [[Existence Proofs]]
 [[Forward and Backwards Reasoning]]
@@ -19,13 +16,13 @@
 
 [[Union]]
 [[Intersection]]
-[[Complement]]
-[[Difference]]
-[[Symmetric Difference]]
+[[Complement]]*
+[[Difference]]*
+[[Symmetric Difference]]*
 
-[[Set Identities]]
-[[Cardinality]]
+[[Set Identities]]*
+[[Cardinality]]*
 [[Power Sets]]
 
 #### Relations
-[[Binary Relations]]
+[[Binary Relations]]*

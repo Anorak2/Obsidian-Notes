@@ -1,17 +1,14 @@
 
 #### Limits
-[[Basic Limit Laws]]
-[[Limits as x goes to Infinity]]
+[[Limits]]
+[[Limit indeterminate forms]]
 [[L'Hopital's Rule]]
 
 #### Derivatives and Integrals
 [[Derivatives]]
-
-**Derivative Techniques**
-[[Chain Rule]]
-[[Product Rule]]
-[[Quotient Rule]]
 [[Derivatives and Limits of Trig Functions]]
+[[Higher Derivatives]]
+[[Partial Derivatives]]
 
 #### Multivariable calculus 
 [[Ellipsoid]]
@@ -25,6 +22,7 @@
 
 
 **Integrals**
+[[Integrals]]
 [[Iterated integrals]]
 [[vertically vs horizontally simple integrals]]
 [[Changing Coordinate Systems]]

@@ -41,7 +41,7 @@
 [[Series]]
 [[Geometric Series]]
 [[Power Series *]]
-[[Taylor Series]]
+[[Taylor Series*]]
 [[Taylor Polynomials]]
 [[Series Divergence Tests]]  // This was so much of calc 2
 #### Vectors

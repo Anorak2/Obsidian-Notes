@@ -25,7 +25,7 @@ Tags: [[Computer Science]] [[Math]]
 
 [[Recursively Enumerable Languages]]
 [[Turing Machines]]
-[[Halting]]
+[[The Halting Problem]]
 [[Unrestricted Grammars]]
 [[Lambda Calculus]]
 [[Equivalence of Unrestricted Grammars and Turing Machines]]

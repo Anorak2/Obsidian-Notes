@@ -19,7 +19,7 @@ The rest API follows six constraints, and if you do all of them then it is said 
 6. (Optional) Code on demand
 
 # References
-[[HTTP Requests]]
+[[HTTP]]
 
 [[HTTP in Go]]
 

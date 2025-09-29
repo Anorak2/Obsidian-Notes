@@ -41,4 +41,4 @@ LOIC is an open source network stress testing application written in C#. It offe
 ```Tribe Flood Network```
 ```Stacheldraht```
 # References
-[[HTTP Requests]]
+[[HTTP]]

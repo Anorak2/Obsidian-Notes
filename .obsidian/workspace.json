@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "021859585db174f9",
+            "id": "53440e2e67b7ddc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Calculus Bibliography.md",
+                "file": "3b - Classes/EECS 677 - Software Security Evaluation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calculus Bibliography"
+              "title": "EECS 677 - Software Security Evaluation"
             }
           },
           {
-            "id": "dd4479c9ceece1d5",
+            "id": "1ed822a1bec211ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Sequences.md",
+                "file": "6 - Main Notes/Buffer Overflows.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,26 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sequences"
+              "title": "Buffer Overflows"
             }
           },
           {
-            "id": "959432646b72baf8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "da010d5c0d301c92",
+            "id": "7d2e9dc02d5e7447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus mega folder/Vector Definition.md",
+                "file": "6 - Main Notes/Malware.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vector Definition"
+              "title": "Malware"
             }
           },
           {
-            "id": "2e7b68406c401e41",
+            "id": "da4abfc75bfbdb19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Integrals.md",
+                "file": "6 - Main Notes/Lattices.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Integrals"
+              "title": "Lattices"
             }
           },
           {
-            "id": "5c5f9494f8e6189d",
+            "id": "e1e337f5729830ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Calculus Bibliography.md",
+                "file": "6 - Main Notes/Control Flow Graphs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,59 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calculus Bibliography"
-            }
-          },
-          {
-            "id": "07b63507f643071c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Series Divergence Tests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Series Divergence Tests"
-            }
-          },
-          {
-            "id": "62d2205499443569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus mega folder/Taylor Polynomials.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Taylor Polynomials"
+              "title": "Control Flow Graphs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,62 +279,60 @@
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "959432646b72baf8",
+  "active": "1ed822a1bec211ae",
   "lastOpenFiles": [
-    "2 - Source Material/images/summation formulas.png",
-    "2 - Source Material/images/ftc-1.png",
-    "Math/old Calc/Area under curves - Integral Def.md",
-    "Math/Calculus mega folder/Vector Definition.md",
-    "6 - Main Notes/Integrals.md",
-    "Math/old Calc/fundamental theorem of Calculus.md",
-    "Math/Calculus mega folder/Vector Algebra.md",
-    "Math/Calculus mega folder/Taylor Series.md",
-    "Math/Calculus mega folder/Series.md",
-    "6 - Main Notes/Sequences.md",
-    "6 - Main Notes/Power Series *.md",
-    "Math/Calculus mega folder/projections onto vectors.md",
-    "Math/Calculus mega folder/Limit Comparison test.md",
-    "6 - Main Notes/Series Divergence Tests.md",
-    "4 - Indexes/Calculus Bibliography.md",
-    "3b - Classes/EECS 568 - Intro to Data Mining.md",
-    "3b - Classes/EECS 581 - Software Engineering 2.md",
-    "3b - Classes/EECS 563 - Intro to Comm Networks.md",
-    "2 - Source Material/images/Pasted image 20231004212748.png",
-    "2 - Source Material/images/Pasted image 20231004212438.png",
-    "2 - Source Material/images/Pasted image 20230422205616.png",
-    "2 - Source Material/images/Pasted image 20231004212216.png",
-    "2 - Source Material/images/Pasted image 20230422210658.png",
-    "2 - Source Material/images/Pasted image 20230422210646.png",
-    "2 - Source Material/images/Pasted image 20231004212337.png",
-    "6 - Main Notes/Cylindrical Coordinates.md",
-    "6 - Main Notes/Arc-length.md",
-    "6 - Main Notes/Vector Fields*.md",
-    "6 - Main Notes/Polar Coordinates*.md",
-    "6 - Main Notes/Spherical Coordinates.md",
-    "6 - Main Notes/Gradient Vector.md",
-    "6 - Main Notes/vertically vs horizontally simple integrals.md",
-    "6 - Main Notes/Jacobian.md",
-    "6 - Main Notes/Mathematical Optimization.md",
-    "2 - Source Material/images/Pasted image 20250902144740.png",
-    "2 - Source Material/images/integral comp 3.png",
-    "Temp Base.base",
+    "6 - Main Notes/Buffer Overflows.md",
+    "3b - Classes/EECS 677 - Software Security Evaluation.md",
+    "6 - Main Notes/Malware.md",
+    "Classes.md",
+    "6 - Main Notes/Threat Models.md",
+    "6 - Main Notes/Dataflow Frameworks.md",
+    "6 - Main Notes/Lattices.md",
+    "1 - Rough Notes/Analysis lecture.md",
+    "6 - Main Notes/Derivatives.md",
+    "1 - Rough Notes/Data Mining Lecture.md",
+    "Pasted image 20250929155208.png",
+    "Pasted image 20250929155201.png",
+    "6 - Main Notes/Control Flow Graphs.md",
+    "6 - Main Notes/Static analysis.md",
+    "6 - Main Notes/Domination.md",
+    "6 - Main Notes/Poset.md",
+    "2 - Source Material/images/Pasted image 20250929150907.png",
+    "Pasted image 20250929150904.png",
+    "2 - Source Material/images/Pasted image 20250929153439.png",
+    "6 - Main Notes/Program Slicing.md",
+    "README.md",
+    "3 - Tags/meta notes.md",
+    "2 - Source Material/Exam Notes/645 Architecture/MIPS.md",
+    "2 - Source Material/Exam Notes/645 Architecture/Arithmetic.md",
+    "z. holder/Pasted image 20250919230054.png",
+    "z. holder/Pasted image 20250919225356.png",
     "Recently Modified and Created.base",
+    "Pasted image 20250919231508.png",
+    "1 - Rough Notes/Temp.md",
+    "1 - Rough Notes/a.md",
+    "Analytics 2.0.md",
+    "6 - Main Notes/Side Channel Attacks.md",
+    "1 - Rough Notes/Networking Homework 2.md",
+    "1 - Rough Notes/Networking Lecture.md",
+    "z. holder",
+    "z. holder/Pasted image 20250919231322.png",
+    "z. holder/Pasted image 20250919230952.png",
+    "2 - Source Material/Exam Notes/645 Architecture/Numbers.md",
+    "2 - Source Material/Exam Notes/645 Architecture",
+    "2 - Source Material/Exam Notes",
+    "1 - Rough Notes/Abandonend?",
+    "Temp Base.base",
     "6 - Main Notes/Untitled.base",
     "6 - Main Notes/Untitled 2.base",
     "6 - Main Notes/Untitled 1.base",
     "1 - Rough Notes/565 Note Packet/Midterm",
-    "1 - Rough Notes/Note Sheets",
-    "I",
-    "Kernel",
-    "1 - Rough Notes/565 Note Packet",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

@@ -25,6 +25,15 @@ After the method, there is the path to the resource that the command applies to.
 	... the rest of the document
 ```
 This is a sample response from the server, it starts with the version and then the [[HTTP status codes|status code]] from the server, and then as a human readable string.
+
+## HTTP 2
+HTTP 2 is also based on TCP but it keeps a persistent connection between the client and the server the reduce friction. HTTP 2 also adds some other features such as allowing for the server to push packets to the client without the client requesting them first.
+
+
+## HTTP 3
+HTTP/3 runs on top of the ```QUIC``` transport protocol which is based on UDP, this is because in a vanilla TCP connection there is no security and also
+
+
 # References
 [[HTTP status codes]]
 

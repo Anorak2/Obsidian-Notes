@@ -1,6 +1,4 @@
 
-[[Calculus Bibliography]]
-
 2025-09-02
 
 Tags: [[Calculus Bibliography]] [[Math]]

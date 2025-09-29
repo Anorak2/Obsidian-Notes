@@ -20,6 +20,6 @@ This type of error is for client codes where there was some kind of error that w
 ```5XX```
 These are errors that happen on the server side of thing, this includes 500 internal server error, 502 bad gateway, and 503 service unavailable
 # References
-[[HTTP Requests]]
+[[HTTP]]
 
 

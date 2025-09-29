@@ -44,4 +44,4 @@ $$ \mu = \frac{1}{\lambda}$$
 
 [[Dynamic Programming]]
 
-[[Taylor Series]]
+[[Taylor Series*]]

@@ -2,19 +2,19 @@ views:
   - type: table
     name: Table
     filters:
-      or:
-        - file.inFolder("6 - Main Notes")
-        - file.inFolder("Math")
-        - file.inFolder("Programming")
+      and:
+        - file.ext != "jpeg"
+        - file.ext != "png"
     order:
       - file.name
       - file.mtime
       - file.ctime
       - file.size
     sort:
-      - property: file.mtime
-        direction: DESC
       - property: file.ctime
+        direction: DESC
+      - property: file.mtime
         direction: DESC
     columnSize:
       file.mtime: 212
+      file.ctime: 207

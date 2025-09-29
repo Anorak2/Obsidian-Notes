@@ -14,7 +14,7 @@ a computing mechanism we call an abstract machine, theoretical model allowing fo
 for our purposes, a procedure represents some underlying mathematical model
 
 **What is an Algorithm**
-For our purposes a computation that always [[Halting|halts]] 
+For our purposes a computation that always [[The Halting Problem|halts]] 
 
 **What is a language?**
 a set of strings with some inherent structure used to express a computation

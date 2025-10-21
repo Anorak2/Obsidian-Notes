@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53440e2e67b7ddc3",
+            "id": "c33770925086ee21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3b - Classes/EECS 677 - Software Security Evaluation.md",
+                "file": "4 - Indexes/High Performance Computing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EECS 677 - Software Security Evaluation"
+              "title": "High Performance Computing"
             }
           },
           {
-            "id": "1ed822a1bec211ae",
+            "id": "87333dc842e3bafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Buffer Overflows.md",
+                "file": "6 - Main Notes/Interconnection networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Buffer Overflows"
+              "title": "Interconnection networks"
             }
           },
           {
-            "id": "7d2e9dc02d5e7447",
+            "id": "9eb2541c479cd6c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Malware.md",
+                "file": "6 - Main Notes/Parallel Architectures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malware"
+              "title": "Parallel Architectures"
             }
           },
           {
-            "id": "da4abfc75bfbdb19",
+            "id": "7a69bf9a48d1f4b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Lattices.md",
+                "file": "6 - Main Notes/Attribute Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,31 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lattices"
-            }
-          },
-          {
-            "id": "e1e337f5729830ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Control Flow Graphs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Control Flow Graphs"
+              "title": "Attribute Types"
             }
           }
         ],
@@ -285,54 +261,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ed822a1bec211ae",
+  "active": "87333dc842e3bafb",
   "lastOpenFiles": [
-    "6 - Main Notes/Buffer Overflows.md",
-    "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "6 - Main Notes/Malware.md",
-    "Classes.md",
-    "6 - Main Notes/Threat Models.md",
-    "6 - Main Notes/Dataflow Frameworks.md",
-    "6 - Main Notes/Lattices.md",
-    "1 - Rough Notes/Analysis lecture.md",
-    "6 - Main Notes/Derivatives.md",
-    "1 - Rough Notes/Data Mining Lecture.md",
-    "Pasted image 20250929155208.png",
-    "Pasted image 20250929155201.png",
-    "6 - Main Notes/Control Flow Graphs.md",
-    "6 - Main Notes/Static analysis.md",
-    "6 - Main Notes/Domination.md",
-    "6 - Main Notes/Poset.md",
-    "2 - Source Material/images/Pasted image 20250929150907.png",
-    "Pasted image 20250929150904.png",
-    "2 - Source Material/images/Pasted image 20250929153439.png",
-    "6 - Main Notes/Program Slicing.md",
-    "README.md",
-    "3 - Tags/meta notes.md",
-    "2 - Source Material/Exam Notes/645 Architecture/MIPS.md",
-    "2 - Source Material/Exam Notes/645 Architecture/Arithmetic.md",
-    "z. holder/Pasted image 20250919230054.png",
-    "z. holder/Pasted image 20250919225356.png",
-    "Recently Modified and Created.base",
-    "Pasted image 20250919231508.png",
-    "1 - Rough Notes/Temp.md",
+    "4 - Indexes/High Performance Computing.md",
+    "6 - Main Notes/Parallel Sorting.md",
+    "6 - Main Notes/Interconnection networks.md",
+    "6 - Main Notes/Parallel Architectures.md",
+    "1 - Rough Notes/Z notes.md",
     "1 - Rough Notes/a.md",
-    "Analytics 2.0.md",
-    "6 - Main Notes/Side Channel Attacks.md",
-    "1 - Rough Notes/Networking Homework 2.md",
+    "1 - Rough Notes/Homework/network 4/Pasted image 20251010225908.png",
+    "1 - Rough Notes/Homework/network 4/net hw 4.md",
+    "1 - Rough Notes/Homework/network 4",
+    "1 - Rough Notes/Homework/network 4/Pasted image 20251010235331.png",
+    "1 - Rough Notes/Homework/network 4/Pasted image 20251010235132.png",
+    "1 - Rough Notes/Homework/network 4/Pasted image 20251010235032.png",
+    "1 - Rough Notes/Homework/network 4/Pasted image 20251010234905.png",
+    "1 - Rough Notes/Homework/network 4/Pasted image 20251010234314.png",
+    "1 - Rough Notes/Homework/network 4/Screenshot from 2025-10-10 22-36-28.png",
     "1 - Rough Notes/Networking Lecture.md",
+    "1 - Rough Notes/Networking Homework 2.md",
+    "6 - Main Notes/Data Quality.md",
+    "3b - Classes/EECS 568 - Intro to Data Mining.md",
+    "6 - Main Notes/Attribute Types.md",
+    "6 - Main Notes/Intro to Data Mining Tasks.md",
+    "Recently Modified and Created.base",
+    "5 - Templates/Main Note.md",
+    "Classes.md",
+    "2 - Source Material/images/Pasted image 20251003141251.png",
+    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
+    "Pasted image 20251003143954.png",
+    "README.md",
+    "2 - Source Material/images/Pasted image 20251003142419.png",
+    "6 - Main Notes/Program Slicing.md",
+    "3b - Classes/EECS 677 - Software Security Evaluation.md",
+    "1 - Rough Notes/Analysis lecture.md",
+    "6 - Main Notes/Control Flow Graphs (CFG).md",
+    "6 - Main Notes/Control Dependence Graph (CDG) and Data Dependence Graph (DDG).md",
+    "6 - Main Notes/Domination and Control Dependence Graph.md",
+    "6 - Main Notes/Information Flow.md",
+    "1 - Rough Notes/Homework/Data Mining HW - 2.md",
+    "1 - Rough Notes/Homework",
+    "6 - Main Notes/CIA Triad.md",
     "z. holder",
-    "z. holder/Pasted image 20250919231322.png",
-    "z. holder/Pasted image 20250919230952.png",
-    "2 - Source Material/Exam Notes/645 Architecture/Numbers.md",
     "2 - Source Material/Exam Notes/645 Architecture",
     "2 - Source Material/Exam Notes",
     "1 - Rough Notes/Abandonend?",
     "Temp Base.base",
     "6 - Main Notes/Untitled.base",
     "6 - Main Notes/Untitled 2.base",
-    "6 - Main Notes/Untitled 1.base",
-    "1 - Rough Notes/565 Note Packet/Midterm",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

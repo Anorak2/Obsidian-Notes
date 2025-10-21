@@ -18,6 +18,8 @@ Tags:
 
 A couple ways we can handle missing values is by eliminating data objects/attributes, estimating missing values, or ignore the missing value during analysis.
 ### Duplicate Data
+Data set may include data objects that are duplicates, or almost duplicates of one another. This can be a major issue when merging data from heterogenous sources. Ex: Same person with multiple email addresses. 
 
+To fix this we have to clean the data, sometimes this can be tricky since duplicates shouldn’t always be removed
 # References
 

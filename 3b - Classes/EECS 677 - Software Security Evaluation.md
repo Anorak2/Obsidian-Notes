@@ -5,7 +5,7 @@
 [[LLVM Calls]]
 
 ## Theorems
-
+[[CIA Triad]]
 [[Code Abstraction Formats]]
 [[Attribute Types]]*
 
@@ -15,16 +15,17 @@
 ## Static: Control Flow Graphs and Lattices
 [[Static analysis]]
 
-[[Control Flow Graphs]]
+[[Control Flow Graphs (CFG)]]
 [[Poset]]
 [[Lattices]]
 [[Dataflow Frameworks]]
+[[Information Flow]]
 
-[[Domination]]
-[[Program Slicing]]**
+[[Domination and Control Dependence Graph]]
+[[Control Dependence Graph (CDG) and Data Dependence Graph (DDG)]]
+[[Program Slicing]]
 
 ## Security
 [[Threat Models]]
 [[Buffer Overflows]]
-
 [[Side Channel Attacks]]

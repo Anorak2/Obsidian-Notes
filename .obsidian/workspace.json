@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/High Performance Computing.md",
+                "file": "4 - Indexes/Power-user Stuff.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High Performance Computing"
+              "title": "Power-user Stuff"
             }
           },
           {
-            "id": "87333dc842e3bafb",
+            "id": "f30b6a873faf67a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Interconnection networks.md",
+                "file": "4 - Indexes/Power-user Stuff.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interconnection networks"
-            }
-          },
-          {
-            "id": "9eb2541c479cd6c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Parallel Architectures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Parallel Architectures"
-            }
-          },
-          {
-            "id": "7a69bf9a48d1f4b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Attribute Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Attribute Types"
+              "title": "Power-user Stuff"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,54 +212,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "87333dc842e3bafb",
+  "active": "c33770925086ee21",
   "lastOpenFiles": [
     "4 - Indexes/High Performance Computing.md",
-    "6 - Main Notes/Parallel Sorting.md",
+    "6 - Main Notes/Managing Music.md",
+    "4 - Indexes/Power-user Stuff.md",
+    "1 - Rough Notes/Homework/Network 6/note.md",
+    "Recently Modified and Created.base",
+    "1 - Rough Notes/Homework/Network 6/Pasted image 20251101203810.png",
+    "1 - Rough Notes/Homework/Network 6/Pasted image 20251101204122.png",
+    "1 - Rough Notes/Homework/Network 6/Pasted image 20251101205040.png",
+    "1 - Rough Notes/Homework/Network 6/Pasted image 20251101204746.png",
+    "1 - Rough Notes/Homework/Network 6/Pasted image 20251101204343.png",
+    "6 - Main Notes/Debugging Dnsmasq.md",
+    "1 - Rough Notes/Homework/network 5/Screenshot from 2025-10-24 23-01-00.png",
+    "1 - Rough Notes/Homework/network 5/Screenshot from 2025-10-24 22-50-22.png",
+    "1 - Rough Notes/Homework/network 5/Pasted image 20251024225241.png",
+    "1 - Rough Notes/Homework/network 5/Pasted image 20251024230122.png",
+    "1 - Rough Notes/Homework/network 5",
+    "1 - Rough Notes/Homework/network 5/Pasted image 20251024225425.png",
+    "Math/Linear Algebra/Linear Algebra Bibliography.md",
+    "1 - Rough Notes/Homework/Network 6",
+    "Math/Linear Algebra/Adjoint.md",
+    "1 - Rough Notes/Homework/network 5/homework 5.md",
     "6 - Main Notes/Interconnection networks.md",
+    "6 - Main Notes/Parallel Sorting.md",
     "6 - Main Notes/Parallel Architectures.md",
     "1 - Rough Notes/Z notes.md",
     "1 - Rough Notes/a.md",
-    "1 - Rough Notes/Homework/network 4/Pasted image 20251010225908.png",
     "1 - Rough Notes/Homework/network 4/net hw 4.md",
     "1 - Rough Notes/Homework/network 4",
-    "1 - Rough Notes/Homework/network 4/Pasted image 20251010235331.png",
-    "1 - Rough Notes/Homework/network 4/Pasted image 20251010235132.png",
-    "1 - Rough Notes/Homework/network 4/Pasted image 20251010235032.png",
-    "1 - Rough Notes/Homework/network 4/Pasted image 20251010234905.png",
-    "1 - Rough Notes/Homework/network 4/Pasted image 20251010234314.png",
-    "1 - Rough Notes/Homework/network 4/Screenshot from 2025-10-10 22-36-28.png",
     "1 - Rough Notes/Networking Lecture.md",
     "1 - Rough Notes/Networking Homework 2.md",
     "6 - Main Notes/Data Quality.md",
     "3b - Classes/EECS 568 - Intro to Data Mining.md",
     "6 - Main Notes/Attribute Types.md",
     "6 - Main Notes/Intro to Data Mining Tasks.md",
-    "Recently Modified and Created.base",
     "5 - Templates/Main Note.md",
     "Classes.md",
-    "2 - Source Material/images/Pasted image 20251003141251.png",
     "3b - Classes/EECS 645 - Computer Systems Architecture.md",
-    "Pasted image 20251003143954.png",
     "README.md",
-    "2 - Source Material/images/Pasted image 20251003142419.png",
     "6 - Main Notes/Program Slicing.md",
     "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "1 - Rough Notes/Analysis lecture.md",
-    "6 - Main Notes/Control Flow Graphs (CFG).md",
-    "6 - Main Notes/Control Dependence Graph (CDG) and Data Dependence Graph (DDG).md",
-    "6 - Main Notes/Domination and Control Dependence Graph.md",
-    "6 - Main Notes/Information Flow.md",
-    "1 - Rough Notes/Homework/Data Mining HW - 2.md",
     "1 - Rough Notes/Homework",
-    "6 - Main Notes/CIA Triad.md",
     "z. holder",
     "2 - Source Material/Exam Notes/645 Architecture",
     "2 - Source Material/Exam Notes",
     "1 - Rough Notes/Abandonend?",
     "Temp Base.base",
-    "6 - Main Notes/Untitled.base",
-    "6 - Main Notes/Untitled 2.base",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

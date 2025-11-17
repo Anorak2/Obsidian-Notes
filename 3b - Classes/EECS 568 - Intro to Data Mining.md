@@ -11,3 +11,12 @@
 [[Decision Trees]]
 [[Splitting on Decision Trees]]
 [[Overfitting and Underfitting]]
+
+## Weak Learners
+[[Logistic Regression]]
+[[Decision Tree]]
+[[SVM]]
+
+## Strong Learners
+[[Strong Learners]]
+

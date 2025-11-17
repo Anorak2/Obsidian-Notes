@@ -5,11 +5,11 @@ Tags: [[Operating Systems]] [[Operating Systems]]
 # OS Memory Hierarchy
 
 The Memory hierarchy, with the faster but more expensive options listed first 
-1. Registers
-2. Cache
-3. Main memory
-4. solid state disk
-5. hard disk
+1. Registers   (1 cycle)      
+2. Cache   (~10 cycles)
+3. Main memory(RAM)   (~100 cycles)
+4. solid state disk    (~1M cycles)
+5. hard disk   (~10M cycles)
 6. optical disk
 7. magnetic tapes
 

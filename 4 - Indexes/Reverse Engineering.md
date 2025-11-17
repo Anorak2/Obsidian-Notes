@@ -16,7 +16,7 @@
 [[Binary Rewriting]]
 [[LD Preload]]
 
-[[Useful commands]]
+[[6 - Main Notes/Useful commands]]
 [[Reverse Homework]]
 1. file
 2. ltrace

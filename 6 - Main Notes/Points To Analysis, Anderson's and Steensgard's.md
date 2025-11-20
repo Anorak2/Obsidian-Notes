@@ -22,7 +22,7 @@ In the worst case this analysis will take Cubic time which is not good, we can h
 
 To address some of the drawbacks we remember that **Simpler abstractions reach fix-points faster**. Steensgard's Analysis is an alternative form of analysis that aims for near linear time points-to analysis by helping us reduce our search space. 
 
-To do this we do away with the notion of subsets and introduce equality constraints where we declare two variables functionally equivalent. This means that nodes can only point to one other node, and that if a node ever points to two nodes we merge both of those nodes.
+To do this we do away with the notion of subsets and introduce equality constraints where we declare two variables functionally equivalent. This means that nodes can only point to one other node, and that if a node ever points to two nodes we merge them.
 ![[Pasted image 20251116193924.png]]
 
 **Ex:**

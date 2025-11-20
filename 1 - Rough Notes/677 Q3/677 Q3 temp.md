@@ -80,6 +80,7 @@ If at any point in the analysis we said something like `c=&y` then B would point
 
 ## Old Mobile Sec
 What is the difference between static instrumentation and static analysis?
+
 #### Spoiler
 - what is static instrumentation about
 - what is the difference between an inline reference monitor and static instrumentation

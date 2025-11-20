@@ -13,8 +13,7 @@ At it's core dynamic analysis is just about running the program and seeing what 
 
 **Limitations of Ordinary Testing**
 - Property may not be immediately observable from output alone
-- The circumstances under which the
-issue occurs may not be obvious
+- The circumstances under which the issue occurs may not be obvious
 
 ## Testing and Suites
 The fundamental concept is that we create input/output pairs and then check if the program does what it is supposed to do. Ideally we want to capture a variety of behaviors though, and we refer to the collection of test cases as our test suite. Something else we have to be aware of is factoring out **non-determinism**, this means that we have to factor out details like time into the environment: time is an input, random seed is an input, network response is an input.

@@ -9,8 +9,6 @@ Static analysis is the process of reviewing code without running it, the simples
 
 **Benefits:**
 - "Analyst's Sieve" It allows us to sift out programs such that everything left is a definitely good program.
-	- Completeness (No false negatives) of bug finding
-	- Soundness (No false positives ) of verification
 - Non-Interactive
 	- It can run in the background and by using abstractions we don't need inputs
 

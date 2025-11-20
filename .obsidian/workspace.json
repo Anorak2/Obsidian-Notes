@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c07c8c011f70288",
+            "id": "f5e4a5138b14e0f7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3b - Classes/EECS 677 - Software Security Evaluation.md",
+                "file": "3b - Classes/EECS 563 - Intro to Comm Networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,16 +30,16 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "EECS 677 - Software Security Evaluation"
+              "title": "EECS 563 - Intro to Comm Networks"
             }
           },
           {
-            "id": "f1b5a3019fbdf6f3",
+            "id": "f2dfd964dfd21066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Control Flow Integrity.md",
+                "file": "6 - Main Notes/DHCP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,131 +54,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Control Flow Integrity"
-            }
-          },
-          {
-            "id": "ce9ecaf5b66b7832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/677 Q3/677 Q3 temp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "677 Q3 temp"
-            }
-          },
-          {
-            "id": "e480f61c34297458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Test Driven Development*.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Test Driven Development*"
-            }
-          },
-          {
-            "id": "02ce490521e09e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Symbolic Execution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Symbolic Execution"
-            }
-          },
-          {
-            "id": "da3aa64a59017c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Concolic Execution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Concolic Execution"
-            }
-          },
-          {
-            "id": "7e50fc1a3dcc8c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/SMT Solving.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SMT Solving"
+              "title": "DHCP"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,44 +214,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7e50fc1a3dcc8c1b",
+  "active": "f5e4a5138b14e0f7",
   "lastOpenFiles": [
-    "3b - Classes/EECS 581 - Software Engineering 2.md",
-    "6 - Main Notes/SMT Solving.md",
-    "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
-    "3b - Classes/EECS 568 - Intro to Data Mining.md",
+    "6 - Main Notes/Network IP assignment.md",
+    "6 - Main Notes/IP v4 Protocol.md",
     "3b - Classes/EECS 563 - Intro to Comm Networks.md",
-    "6 - Main Notes/P=NP?.md",
-    "6 - Main Notes/Concolic Execution.md",
-    "6 - Main Notes/Symbolic Execution.md",
-    "2 - Source Material/images/Pasted image 20251116232504.png",
-    "2 - Source Material/images/Pasted image 20251116233048.png",
-    "2 - Source Material/images/Pasted image 20251116231729.png",
+    "6 - Main Notes/IP v6 Protocol.md",
+    "Analytics 2.0.md",
+    "Pasted image 20251120014033.png",
+    "6 - Main Notes/Network Address Translation (NAT).md",
+    "6 - Main Notes/Routers.md",
+    "6 - Main Notes/Network Layer Responsibilities.md",
+    "6 - Main Notes/DHCP.md",
+    "Pasted image 20251120010656.png",
+    "6 - Main Notes/Parallel Multiprocessing Scheduling algorithms.md",
+    "2 - Source Material/images/Pasted image 20251120003312.png",
+    "2 - Source Material/images/Pasted image 20251120001609.png",
+    "2 - Source Material/images/Pasted image 20251119231843.png",
+    "6 - Main Notes/Practical CPU Scheduling Algorithms.md",
+    "4 - Indexes/High Performance Computing.md",
+    "6 - Main Notes/Basic Multiprocessor Scheduling Algorithms.md",
+    "2 - Source Material/images/Pasted image 20251120001424.png",
+    "2 - Source Material/images/Pasted image 20251120001353.png",
+    "6 - Main Notes/Congestion Control.md",
+    "6 - Main Notes/Pipelined Protocols.md",
+    "6 - Main Notes/Sockets.md",
+    "6 - Main Notes/UDP.md",
+    "6 - Main Notes/TCP.md",
+    "2 - Source Material/images/Pasted image 20251119222205.png",
+    "2 - Source Material/images/Pasted image 20251119230838.png",
+    "2 - Source Material/images/Pasted image 20251119224814.png",
+    "6 - Main Notes/Reliable Data Transfer (RDT).md",
+    "3b - Classes/EECS 568 - Intro to Data Mining.md",
+    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
     "Classes.md",
-    "6 - Main Notes/SAT Solving.md",
-    "2 - Source Material/images/Pasted image 20251116231830.png",
-    "6 - Main Notes/Control Flow Integrity.md",
-    "2 - Source Material/images/Pasted image 20251116204832.png",
+    "6 - Main Notes/Cache Policies.md",
+    "6 - Main Notes/Useful commands.md",
     "1 - Rough Notes/677 Q3/677 Q3 temp.md",
-    "6 - Main Notes/Reference Monitors.md",
-    "6 - Main Notes/Fuzzing.md",
-    "6 - Main Notes/Test Driven Development*.md",
-    "6 - Main Notes/Dynamic Analysis.md",
-    "6 - Main Notes/Dynamic Instrumentation.md",
-    "6 - Main Notes/Static Instrumentation.md",
-    "2 - Source Material/images/Pasted image 20251116204848.png",
-    "2 - Source Material/images/Pasted image 20251116204751.png",
-    "2 - Source Material/images/Pasted image 20251116204523.png",
-    "2 - Source Material/images/Pasted image 20251116203430.png",
-    "6 - Main Notes/Control Flow Graphs (CFG).md",
-    "6 - Main Notes/Program Instrumentation.md",
-    "6 - Main Notes/CHA and RTA.md",
-    "6 - Main Notes/Mod-Ref Analysis.md",
-    "6 - Main Notes/Points To Analysis, Anderson's and Steensgard's.md",
-    "6 - Main Notes/Tracing.md",
-    "6 - Main Notes/Static analysis.md",
-    "2 - Source Material/images/Pasted image 20251116194120.png",
     "Recently Modified and Created.base",
     "1 - Rough Notes/NEt hw",
     "1 - Rough Notes/Data Mining HW 3",

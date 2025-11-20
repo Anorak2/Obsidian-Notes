@@ -3,8 +3,11 @@
 [[Integer Overflow]]
 [[Floating Point]]
 
-**Memory**
+**Caching**
 [[OS Memory Hierarchy]]
 [[Cache Basics]]
 [[Direct Mapped Caches]]
 [[Cache Associativity]]
+[[Cache Policies]]
+
+Study lecture 18 practice problem 3

@@ -10,11 +10,10 @@
           {
             "id": "f5e4a5138b14e0f7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3b - Classes/EECS 563 - Intro to Comm Networks.md",
+                "file": "3b - Classes/EECS 645 - Computer Systems Architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,18 +27,17 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "EECS 563 - Intro to Comm Networks"
+              "title": "EECS 645 - Computer Systems Architecture"
             }
           },
           {
-            "id": "f2dfd964dfd21066",
+            "id": "6ad2f2678ba253e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/DHCP.md",
+                "file": "3b - Classes/EECS 568 - Intro to Data Mining.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DHCP"
+              "title": "EECS 568 - Intro to Data Mining"
+            }
+          },
+          {
+            "id": "efd63cc041b15df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Useful commands.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Useful commands"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,43 +237,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f5e4a5138b14e0f7",
+  "active": "efd63cc041b15df1",
   "lastOpenFiles": [
-    "6 - Main Notes/Network IP assignment.md",
-    "6 - Main Notes/IP v4 Protocol.md",
-    "3b - Classes/EECS 563 - Intro to Comm Networks.md",
-    "6 - Main Notes/IP v6 Protocol.md",
-    "Analytics 2.0.md",
-    "Pasted image 20251120014033.png",
-    "6 - Main Notes/Network Address Translation (NAT).md",
+    "3b - Classes/EECS 568 - Intro to Data Mining.md",
+    "6 - Main Notes/Virtual Memory and Paging.md",
     "6 - Main Notes/Routers.md",
-    "6 - Main Notes/Network Layer Responsibilities.md",
+    "6 - Main Notes/Routing Protocols.md",
+    "6 - Main Notes/BGP.md",
+    "6 - Main Notes/OSPF and Intra IP Routing.md",
+    "6 - Main Notes/ICMP.md",
+    "3b - Classes/EECS 563 - Intro to Comm Networks.md",
+    "3b - Classes/EECS 581 - Software Engineering 2.md",
+    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
+    "3b - Classes/EECS 677 - Software Security Evaluation.md",
+    "2 - Source Material/images/Pasted image 20251120032954.png",
+    "Analytics 2.0.md",
+    "6 - Main Notes/LAN's.md",
+    "6 - Main Notes/MAC Addresses.md",
+    "6 - Main Notes/ARP.md",
+    "6 - Main Notes/Link Layer Error Detection.md",
     "6 - Main Notes/DHCP.md",
-    "Pasted image 20251120010656.png",
-    "6 - Main Notes/Parallel Multiprocessing Scheduling algorithms.md",
-    "2 - Source Material/images/Pasted image 20251120003312.png",
-    "2 - Source Material/images/Pasted image 20251120001609.png",
-    "2 - Source Material/images/Pasted image 20251119231843.png",
-    "6 - Main Notes/Practical CPU Scheduling Algorithms.md",
-    "4 - Indexes/High Performance Computing.md",
-    "6 - Main Notes/Basic Multiprocessor Scheduling Algorithms.md",
-    "2 - Source Material/images/Pasted image 20251120001424.png",
-    "2 - Source Material/images/Pasted image 20251120001353.png",
-    "6 - Main Notes/Congestion Control.md",
-    "6 - Main Notes/Pipelined Protocols.md",
-    "6 - Main Notes/Sockets.md",
+    "6 - Main Notes/Ethernet.md",
+    "2 - Source Material/images/Pasted image 20251120053502.png",
+    "6 - Main Notes/IP v6 Protocol.md",
+    "6 - Main Notes/IP v4 Protocol.md",
+    "2 - Source Material/images/Pasted image 20251120034226.png",
+    "2 - Source Material/images/Pasted image 20251120034008.png",
+    "2 - Source Material/images/Pasted image 20251120010656.png",
+    "2 - Source Material/images/Pasted image 20251120031206.png",
+    "2 - Source Material/images/Pasted image 20251120030612.png",
+    "6 - Main Notes/Graphs Shortest Path Problem - Dijkstra's.md",
+    "2 - Source Material/images/Pasted image 20251120024827.png",
+    "2 - Source Material/images/Pasted image 20251120021033.png",
+    "2 - Source Material/images/Pasted image 20251120020951.png",
     "6 - Main Notes/UDP.md",
     "6 - Main Notes/TCP.md",
-    "2 - Source Material/images/Pasted image 20251119222205.png",
-    "2 - Source Material/images/Pasted image 20251119230838.png",
-    "2 - Source Material/images/Pasted image 20251119224814.png",
+    "6 - Main Notes/Sockets.md",
     "6 - Main Notes/Reliable Data Transfer (RDT).md",
-    "3b - Classes/EECS 568 - Intro to Data Mining.md",
-    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
-    "Classes.md",
-    "6 - Main Notes/Cache Policies.md",
-    "6 - Main Notes/Useful commands.md",
-    "1 - Rough Notes/677 Q3/677 Q3 temp.md",
+    "6 - Main Notes/Pipelined Protocols.md",
     "Recently Modified and Created.base",
     "1 - Rough Notes/NEt hw",
     "1 - Rough Notes/Data Mining HW 3",

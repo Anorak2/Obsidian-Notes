@@ -47,6 +47,6 @@ reuse those same pages right up until we need to write to one, and then we copy 
 
 
 # References
-[[Virtual Memory]]
+[[Virtual Memory and Paging]]
 
 [[Processes]]

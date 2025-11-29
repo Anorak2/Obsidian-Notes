@@ -17,7 +17,7 @@
 [[Practical CPU Scheduling Algorithms]]
 
 **Memory** ---------------
-[[Virtual Memory]]
+[[Virtual Memory and Paging]]
 [[Virtual Memory 2]]
 [[Kernel Level Virtual Memory]] 
 

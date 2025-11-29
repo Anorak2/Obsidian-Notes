@@ -16,6 +16,6 @@ This works through 6-4 tunneling (RFC 3056) where packets are automatically enca
 # References
 [[IP v4 Protocol]]
 
-[[OSPF]]
+[[OSPF and Intra IP Routing]]
 
 [[BGP]]

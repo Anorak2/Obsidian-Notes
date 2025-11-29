@@ -1,16 +1,21 @@
 
 2025-04-09
 
-Tags: [[Operating Systems]] [[Operating Systems]] [[Data]]
+Tags: [[Operating Systems]] [[Operating Systems]] [[Data]] [[EECS 645 - Computer Systems Architecture]]
 # Virtual Memory
 We often have this abstraction where each process gets a certain amount of memory, but in practice we have to be much more conservative with our memory and the memory has to be shared with many other processes. There are a few ways to do this such as with a MMU (memory management unit) or a TLB (translation look-aside buffer) for hardware support, and for OS supported options Manage MMU and determine address mapping. Although alternatively we don't need to do virtual memory, and many real time operating systems (RTOS) don't have virtual memory.
+
+**Problems without virtual memory**
+- Not enough ram to satisfy every program
+- there are gaps in our address space, we can't currently assign a continuous address space to our programs 
+- Programs/process might write over eachother, so we want isolation
 
 **Memory Management goals:**
 - Easy to use abstraction
 - Isolation among processes
 - Don't waste memory
 
-**MMU**
+#### External MMU
 A memory management unit is a hardware unit that transfers virtual addresses to physical addresses, and it operates as a middleman between the hardware and processes. We could define a very simple MMU as just:
 	```BaseAddr```: Base Register
 	```Paddr```: ```Vaddr``` + ```BaseAddr```
@@ -31,9 +36,12 @@ Then we can map pages onto frames using a frame -> page table. The main advantag
 
 The issues with paging are: that translation speed can be a problem, which isn't as big of a deal due to TLB, and the table size being large.
 
-**Translation Look-aside Buffer**
-To help mitigate MMU speed issues we can use a TLB, which will cache frequent address translations so that the CPU doesn't need to access the page table all the time which makes it much faster.
+#### Translation Look aside Buffer
+To help mitigate MMU speed issues we can use a TLB, which will cache frequent address translations so that the CPU doesn't need to access the page table all the time which makes it much faster. This buffer becomes extremely important in optimizing for cpu speed.
 
+
+## Optimizing Pages
+---
 **Page Sizing**
 We need to be careful with page sizing, if we make it very small then we minimize the amount of wasted space but we now need a very large table. If we make pages big then we have a lot of wasted space, although now the page table is small. A decent balance between the two that is commonly used in practice is 4 Kilobytes, which for a 4 GB and 32 Bit system means 1 million pages.
 

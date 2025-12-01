@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5e4a5138b14e0f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3b - Classes/EECS 645 - Computer Systems Architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EECS 645 - Computer Systems Architecture"
-            }
-          },
-          {
             "id": "6ad2f2678ba253e3",
             "type": "leaf",
             "state": {
@@ -54,33 +30,8 @@
               "icon": "lucide-file",
               "title": "EECS 568 - Intro to Data Mining"
             }
-          },
-          {
-            "id": "efd63cc041b15df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Useful commands.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Useful commands"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +188,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "efd63cc041b15df1",
+  "active": "9dd8613c934de8df",
   "lastOpenFiles": [
+    "1 - Rough Notes/Homework/data mining 4/Data Mining HW-4.md",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201010014.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201010200.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000121.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000238.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000219.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000213.png",
+    "6 - Main Notes/Useful commands.md",
+    "2 - Source Material/images/Pasted image 20251116204751.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251130233224.png",
+    "1 - Rough Notes/Data Mining HW 3/Pasted image 20251113233055.png",
+    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251130234740.png",
+    "1 - Rough Notes/Homework/data mining 4",
+    "Analytics 2.0.md",
     "3b - Classes/EECS 568 - Intro to Data Mining.md",
     "6 - Main Notes/Virtual Memory and Paging.md",
     "6 - Main Notes/Routers.md",
@@ -250,31 +215,17 @@
     "3b - Classes/EECS 581 - Software Engineering 2.md",
     "3b - Classes/EECS 645 - Computer Systems Architecture.md",
     "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "2 - Source Material/images/Pasted image 20251120032954.png",
-    "Analytics 2.0.md",
     "6 - Main Notes/LAN's.md",
     "6 - Main Notes/MAC Addresses.md",
     "6 - Main Notes/ARP.md",
     "6 - Main Notes/Link Layer Error Detection.md",
     "6 - Main Notes/DHCP.md",
     "6 - Main Notes/Ethernet.md",
-    "2 - Source Material/images/Pasted image 20251120053502.png",
     "6 - Main Notes/IP v6 Protocol.md",
     "6 - Main Notes/IP v4 Protocol.md",
-    "2 - Source Material/images/Pasted image 20251120034226.png",
-    "2 - Source Material/images/Pasted image 20251120034008.png",
-    "2 - Source Material/images/Pasted image 20251120010656.png",
-    "2 - Source Material/images/Pasted image 20251120031206.png",
-    "2 - Source Material/images/Pasted image 20251120030612.png",
     "6 - Main Notes/Graphs Shortest Path Problem - Dijkstra's.md",
-    "2 - Source Material/images/Pasted image 20251120024827.png",
-    "2 - Source Material/images/Pasted image 20251120021033.png",
-    "2 - Source Material/images/Pasted image 20251120020951.png",
     "6 - Main Notes/UDP.md",
     "6 - Main Notes/TCP.md",
-    "6 - Main Notes/Sockets.md",
-    "6 - Main Notes/Reliable Data Transfer (RDT).md",
-    "6 - Main Notes/Pipelined Protocols.md",
     "Recently Modified and Created.base",
     "1 - Rough Notes/NEt hw",
     "1 - Rough Notes/Data Mining HW 3",
@@ -284,7 +235,6 @@
     "1 - Rough Notes/Homework/network 4",
     "1 - Rough Notes/Homework",
     "z. holder",
-    "2 - Source Material/Exam Notes/645 Architecture",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

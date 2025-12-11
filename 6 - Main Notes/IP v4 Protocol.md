@@ -39,6 +39,11 @@ Fragmentation allows for:
 - if we don't want to deal with any fragmentation problems then we can set the DF bit so that no router is "allowed" to fragment it.
 - If the router can't deliver a packet and can't fragment it then it is supposed to return a "Destination Unreachable Message"
 
+#### Multicast
+IP multicast is a way to efficiently deliver packets to multiple recipients at the same time, with the idea of sending to all recipients (broadcast) rather than a single recipient (unicast).
+
+Any address in the range from 224.0.0.0 to 233.255.255.255 is specifically reserved for multicast.
+
 # References
 [[Routers]]
 

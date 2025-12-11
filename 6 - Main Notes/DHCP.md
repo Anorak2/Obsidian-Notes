@@ -10,11 +10,18 @@ The Dynamic Host Control Protocol is how we are able to assign IP addresses to a
 - DHCP server responds with DHCP offer message \[optional]  
 - host requests IP address: DHCP request message  
 - DHCP server sends address: DHCP ACK message
+
+- DHCP Negative Acknowledgement when the server receives a request that is invalid
+- DHCP Decline when a client finds the offered parameters are different or invalid
+- DHCP Release when a client ends its lease early and voluntarily
+- DHCP Inform is when a client has manually obtained an IP address
 ![[Pasted image 20251120010656.png]]
 **Other things that DHCP can return include:**
 - address of first-hop router for client  
 - name and IP address of local DNS sever  
 - network mask (indicating network versus host portion of address)
+
+
 
 
 # References

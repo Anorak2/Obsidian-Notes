@@ -14,6 +14,17 @@ http://www.orangepi.org/orangepiwiki/index.php/Orange_Pi_5
 - `sudo screen /dev/tty0 1500000`
 ![[Pasted image 20251113174903.png]]
 
+**generate ssh keypair -> send to keepassxc**
+	`ssh-keygen -o -f keepassxc -C johndoe@example`
+
+**GPG**
+```
+gpg --cipher-algo AES256 --output test.gpg --symmetric test.out
+```
+```
+gpg --output test.out -d test.gpg 
+```
+
 
 
 [[Debugging Dnsmasq]]

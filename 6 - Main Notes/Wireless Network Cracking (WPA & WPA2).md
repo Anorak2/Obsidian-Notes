@@ -41,3 +41,5 @@ open a root terminal since otherwise this will suck
 [[Wireless Network Cracking (WEP)]]
 
 [[WPA 3]]
+
+[[Wireless Networks]]

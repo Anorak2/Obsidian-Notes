@@ -19,16 +19,7 @@ This server belongs to an organization and it is responsible for providing autho
 **Local DNS Servers**
 These don't belong in any particular place in the hierarchy, and it is maintained by each ISP. When a host makes a DNS query, a query is sent to the local DNS server that has a cache of recent name to address pairs, although this cache can be out of date.
 
-
-**Iterated Query**
-![[Untitled.png]]
-In this type each server replies with the name of the server to ask next. "I don't know this name, but ask this server"
-
-**Recursive Query**
-![[Pasted image 20250910235919.png]]
-In this version all of the burden is placed on the contacted name server, and it creates an enormous load on the top layer of the hierarchy.
-
-**Caching and time to live**
-Once any server learns the request it caches the result so that it can quickly give that answer if it receives another request. These caches can be out of date so they get refreshed periodically according their time to live (TTL). One side effect is that after a change is made it may take some amount of time for the whole internet to become aware of the change.
 # References
+[[IP v4 Protocol]]
+[[IP v6 Protocol]]
 

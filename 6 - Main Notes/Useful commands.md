@@ -32,7 +32,7 @@ export LD_LIBRARY_PATH
 echo $LD_LIBRARY_PATH
 source ~/.bashrc
 
-**generate ssh keypair -> send to keepassxc**
-	`ssh-keygen -o -f keepassxc -C johndoe@example`
+
+
 # References
 

@@ -1,23 +1,30 @@
 [[Basic Networking Terminology]]
 [[OSI Model]]
 
-
-
-[[DNS Servers]]
+## 2 - Application Layer
+---
 [[SMTP]]
 [[Alternative Mail Access Protocols]]
+[[HTTP]]
+[[HTTP status codes]]
+[[P2P Applications]]
+[[Ports]]
+[[Web Sockets]]
 
-## Transport Layer Protocols
+[[DNS Servers]]
+[[DNS Queries]]
+
+## 3 - Transport Layer Protocols
 ---
-[[Sockets]]
+[[Ports]]
+
 [[Reliable Data Transfer (RDT)]]
 [[Pipelined Protocols]]
 [[TCP]]
 [[UDP]]
-
 [[Congestion Control]]
 
-## Network Layer - Data Plane
+## 4 - Network Layer - Data Plane
 ---
 [[Network Layer Responsibilities]]
 [[Routers]]
@@ -28,17 +35,22 @@
 
 [[DHCP]]
 [[Network IP assignment]]
-## Network Layer - Control Plane
+## 5 - Network Layer - Control Plane
 ---
 [[OSPF and Intra IP Routing]]
 [[BGP]]
 [[Routing Protocols]]
 [[ICMP]]
 
-## Link Layer
+## 6 - Link Layer
 ---
 [[Link Layer Error Detection]]
 [[MAC Addresses]]
 [[LAN's]]
 [[ARP]]
 [[Ethernet]]
+
+## 7 - Physical Layer
+---
+[[Wireless Networks]]
+[[Multiple Access Protocols]]

@@ -4,20 +4,34 @@ https://www.calculator.net/grade-calculator.html?d1=Attendance&s1=75&l1=a&w1=4&d
 [[Attribute Types]]
 [[Types of Data Sets]]
 [[Data Quality]]
-
-
 [[Data Pre-processing]]
 
 [[Supervised Learning]]
 [[Decision Trees]]
 [[Splitting on Decision Trees]]
 [[Overfitting and Underfitting]]
-
-## Weak Learners
+## Simple Categorical - Weak Learners
+**Weak Learners:**
 [[Logistic Regression]]
 [[Decision Tree]]
-[[SVM]]
+[[Support Vector Machines (SVM) *]]
 
-## Strong Learners
 [[Strong Learners]]
 
+## Neural Networks
+[[Artificial Neuron and Artificial Neural Networks]]
+[[Loss Functions]]
+[[Convolutional Neural Networks]]
+[[Recurrent Neural Networks]]
+
+[[DBSCAN]]
+[[Association Rule Mining]]
+[[Attention Neural Network]]
+[[Large Language Models (LLM)]]
+
+## Clustering
+[[Clustering and Clustering Analysis]]
+[[K-means]]
+[[Hierarchical Clustering]]
+
+[[Anomaly Detection]]

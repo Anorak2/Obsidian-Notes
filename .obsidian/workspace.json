@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ad2f2678ba253e3",
+            "id": "31ba3c6a7125606c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2 - Source Material/images/Pasted image 20251210200847.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251210200847"
+            }
+          },
+          {
+            "id": "1783a61f58282f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3b - Classes/EECS 568 - Intro to Data Mining.md",
+                "file": "6 - Main Notes/Hierarchical Clustering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +40,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EECS 568 - Intro to Data Mining"
+              "title": "Hierarchical Clustering"
+            }
+          },
+          {
+            "id": "57580c991f47b2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/K-means.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "K-means"
             }
           }
         ]
@@ -104,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Virtual Memory.md",
+                "file": "3b - Classes/EECS 563 - Intro to Comm Networks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Virtual Memory"
+              "title": "Backlinks for EECS 563 - Intro to Comm Networks"
             }
           },
           {
@@ -190,42 +226,44 @@
   },
   "active": "9dd8613c934de8df",
   "lastOpenFiles": [
-    "1 - Rough Notes/Homework/data mining 4/Data Mining HW-4.md",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201010014.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201010200.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000121.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000238.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000219.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251201000213.png",
-    "6 - Main Notes/Useful commands.md",
-    "2 - Source Material/images/Pasted image 20251116204751.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251130233224.png",
-    "1 - Rough Notes/Data Mining HW 3/Pasted image 20251113233055.png",
-    "1 - Rough Notes/Homework/data mining 4/Pasted image 20251130234740.png",
-    "1 - Rough Notes/Homework/data mining 4",
-    "Analytics 2.0.md",
     "3b - Classes/EECS 568 - Intro to Data Mining.md",
-    "6 - Main Notes/Virtual Memory and Paging.md",
-    "6 - Main Notes/Routers.md",
-    "6 - Main Notes/Routing Protocols.md",
-    "6 - Main Notes/BGP.md",
-    "6 - Main Notes/OSPF and Intra IP Routing.md",
-    "6 - Main Notes/ICMP.md",
-    "3b - Classes/EECS 563 - Intro to Comm Networks.md",
-    "3b - Classes/EECS 581 - Software Engineering 2.md",
+    "6 - Main Notes/Hierarchical Clustering.md",
+    "6 - Main Notes/K-means.md",
+    "2 - Source Material/images/Pasted image 20251210223544.png",
+    "2 - Source Material/images/Pasted image 20251210223541.png",
+    "2 - Source Material/images/Pasted image 20251210223535.png",
+    "2 - Source Material/images/Pasted image 20251210223454.png",
+    "2 - Source Material/images/Pasted image 20251210223429.png",
+    "2 - Source Material/images/Pasted image 20251210212520.png",
+    "2 - Source Material/images/Pasted image 20251210212456.png",
+    "6 - Main Notes/Clustering and Clustering Analysis.md",
+    "Main.md",
+    "6 - Main Notes/Recurrent Neural Networks.md",
+    "2 - Source Material/images/Pasted image 20251210205817.png",
+    "6 - Main Notes/Strong Learners.md",
+    "2 - Source Material/images/Pasted image 20251210201240.png",
+    "2 - Source Material/images/Pasted image 20251210201138.png",
+    "6 - Main Notes/Convolutional Neural Networks.md",
+    "6 - Main Notes/Loss Functions.md",
+    "6 - Main Notes/Artificial Neuron and Artificial Neural Networks.md",
+    "Analytics 2.0.md",
+    "6 - Main Notes/Support Vector Machines (SVM) *.md",
+    "3b - Classes/Syllabus.md",
     "3b - Classes/EECS 645 - Computer Systems Architecture.md",
+    "6 - Main Notes/Virtual Memory and Paging.md",
+    "6 - Main Notes/Cache Basics.md",
+    "6 - Main Notes/Cache Policies.md",
+    "6 - Main Notes/Cache Associativity.md",
+    "6 - Main Notes/Direct Mapped Caches.md",
+    "4 - Indexes/Useful Commands.md",
+    "6 - Main Notes/Useful commands.md",
+    "6 - Main Notes/Debugging Dnsmasq.md",
     "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "6 - Main Notes/LAN's.md",
-    "6 - Main Notes/MAC Addresses.md",
-    "6 - Main Notes/ARP.md",
-    "6 - Main Notes/Link Layer Error Detection.md",
-    "6 - Main Notes/DHCP.md",
-    "6 - Main Notes/Ethernet.md",
-    "6 - Main Notes/IP v6 Protocol.md",
-    "6 - Main Notes/IP v4 Protocol.md",
-    "6 - Main Notes/Graphs Shortest Path Problem - Dijkstra's.md",
-    "6 - Main Notes/UDP.md",
-    "6 - Main Notes/TCP.md",
+    "3b - Classes/EECS 581 - Software Engineering 2.md",
+    "6 - Main Notes/581 Exam Materials.md",
+    "6 - Main Notes/P2P Applications.md",
+    "1 - Rough Notes/Homework/Network 8",
+    "1 - Rough Notes/Homework/data mining 4",
     "Recently Modified and Created.base",
     "1 - Rough Notes/NEt hw",
     "1 - Rough Notes/Data Mining HW 3",
@@ -234,7 +272,6 @@
     "1 - Rough Notes/Homework/Network 6",
     "1 - Rough Notes/Homework/network 4",
     "1 - Rough Notes/Homework",
-    "z. holder",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

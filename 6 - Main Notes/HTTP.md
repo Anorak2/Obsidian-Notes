@@ -1,8 +1,6 @@
 
 2024-12-24
 
-Status:
-
 Tags: [[Programming]] [[Web]]
 # HTTP Requests
 ![[Pasted image 20241224154851.png]]
@@ -39,3 +37,4 @@ HTTP/3 runs on top of the ```QUIC``` transport protocol which is based on UDP, t
 
 [[HTTP in Go]]
 
+[[TCP]]

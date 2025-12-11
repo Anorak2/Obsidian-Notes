@@ -25,4 +25,4 @@ $$e_{ensemble}=\sum^{25}_{i=13}{25 \choose i}e^i(1-\epsilon)^{25-i}=.06$$
 
 [[Decision Tree]]
 
-[[SVM]]
+[[Support Vector Machines (SVM) *]]

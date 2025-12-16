@@ -1,7 +1,7 @@
 
 2025-12-05
 
-Tags: [[Networking]] [[3b - Classes/Networking]]
+Tags: [[Networking]] 
 # Wireless Networks
 Wireless networks allow for devices to connect to a network non-physically, and they are composed to a base station and a wireless link. Base stations are typically connected to the wired network and they act as a relay, responsible for sending packets to the wired network. The wireless links are use to connect the mobile devices to the base stations using multiple access protocols to coordinate access.
 

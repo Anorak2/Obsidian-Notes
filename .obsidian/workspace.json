@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/MAC Addresses.md",
+                "file": "6 - Main Notes/Wireless Networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MAC Addresses"
+              "title": "Wireless Networks"
             }
           }
         ]
@@ -84,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 644.5
+    "width": 344.5
   },
   "right": {
     "id": "a105260db8988793",
@@ -189,9 +188,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b0ffc36c5f45e99",
+  "active": "c5f7d824c05584ab",
   "lastOpenFiles": [
     "3b - Classes/Networking.md",
+    "6 - Main Notes/HTTP status codes.md",
+    "6 - Main Notes/OSI Model.md",
+    "6 - Main Notes/Alternative Mail Access Protocols.md",
+    "6 - Main Notes/Basic Networking Terminology.md",
+    "6 - Main Notes/Network Layer Responsibilities.md",
+    "6 - Main Notes/Network Address Translation (NAT).md",
+    "6 - Main Notes/Network IP assignment.md",
+    "6 - Main Notes/Web Sockets.md",
     "6 - Main Notes/MAC Addresses.md",
     "6 - Main Notes/OSPF and Intra IP Routing.md",
     "3 - Tags/Networking.md",
@@ -209,21 +216,13 @@
     "6 - Main Notes/Clustering and Clustering Analysis.md",
     "6 - Main Notes/Recurrent Neural Networks.md",
     "6 - Main Notes/581 Exam Materials.md",
-    "6 - Main Notes/Cache Policies.md",
-    "4 - Indexes/Useful Commands.md",
-    "6 - Main Notes/Useful commands.md",
-    "6 - Main Notes/Association Rule Mining.md",
     "2 - Source Material/images/Pasted image 20251210212456.png",
     "2 - Source Material/images/Pasted image 20251210223454.png",
-    "6 - Main Notes/Hierarchical Clustering.md",
     "2 - Source Material/images/Pasted image 20251210223429.png",
     "2 - Source Material/images/Pasted image 20251210223544.png",
-    "6 - Main Notes/Loss Functions.md",
     "2 - Source Material/images/Pasted image 20251210200934.png",
     "2 - Source Material/images/Pasted image 20251210201240.png",
     "2 - Source Material/images/Pasted image 20251210200847.png",
-    "6 - Main Notes/Convolutional Neural Networks.md",
-    "6 - Main Notes/Artificial Neuron and Artificial Neural Networks.md",
     "2 - Source Material/images/Pasted image 20251210184348.png",
     "2 - Source Material/images/Pasted image 20251210195151.png",
     "2 - Source Material/images/Pasted image 20251210194159.png",

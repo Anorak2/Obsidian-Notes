@@ -1,7 +1,7 @@
 
 2025-12-07
 
-Tags: [[Networking]] [[3b - Classes/Networking]]
+Tags: [[Networking]] 
 # DNS Queries and Record Types
 ## Query Types
 ---

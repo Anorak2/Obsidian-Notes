@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[3b - Classes/Networking]] [[Networking]]
+Tags: [[Networking]]
 # TCP
 TCP, or the Transmission Control Protocol, exists to provide reliable in order communication with congestion control, flow control, and congestion setup baked in. TCP is described in `RFC 793`
 

@@ -1,7 +1,7 @@
 
 2025-12-05
 
-Tags: [[Networking]] [[3b - Classes/Networking]] 
+Tags: [[Networking]] 
 # Multiple Access Protocols
 A multiple access protocol is when there is a single shared channel and when two or more nodes may simultaneously transmit. A multiple access protocol is a distributed protocol determining how nodes share a channel. This is tricky because **all** communication must share the channel itself.
 

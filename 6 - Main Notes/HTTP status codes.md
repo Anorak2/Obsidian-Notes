@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Programming]] [[Web]]
+Tags: [[Programming]] [[Web]] [[Networking]]
 # HTTP status codes
 ```1XX```
 This category is reserved for informational requests, and for the most part you just shouldn't use this category except when experimenting.

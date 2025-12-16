@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[3b - Classes/Networking]] [[Networking]]
+Tags: [[Networking]]
 # Routers
 The main function of a router is to connect multiple networks and forward data packets from one network to another. A router also has multiple interfaces that each belong to a different IP network.
 

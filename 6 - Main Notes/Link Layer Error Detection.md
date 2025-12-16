@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[3b - Classes/Networking]] [[Networking]]
+Tags: [[Networking]]
 # Link Layer Error Detection
 At the link layer error detection has to be added, with a section of data (D) and a section for ensuring validity (EDC) for error detection and correction. Conceptually this works because we map "data words" into a larger space where they become separated.
 

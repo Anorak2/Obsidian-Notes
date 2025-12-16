@@ -1,7 +1,7 @@
 
 2025-12-07
 
-Tags: [[3b - Classes/Networking]] [[Networking]]
+Tags: [[Networking]]
 # P2P Applications
 P2P architecture assumes no always on central server that is able to serve as the head/distributor, instead peers request service from other peers and provide service in return. Since the system is composed of arbitrary end nodes the system self scales, any node added also adds capacity to the system.
 

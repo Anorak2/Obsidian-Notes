@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[3b - Classes/Networking]] [[Networking]]
+Tags: [[Networking]]
 # Pipelined Protocols
 ## Stop and Wait
 --- 

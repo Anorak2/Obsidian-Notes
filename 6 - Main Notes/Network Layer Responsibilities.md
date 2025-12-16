@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[3b - Classes/Networking]] [[Networking]] 
+Tags: [[Networking]] 
 # Network Layer Responsibilities
 The network plane is responsible for transporting a segment ([[TCP]], [[UDP]], ...) from the sending host to the receiving host. The network layer is present in every device, whether hosts or routers.
 

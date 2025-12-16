@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[3b - Classes/Networking]] [[Networking]]
+Tags: [[Networking]]
 # Network Address Translation (NAT)
 NAT is an interesting technique where all devices in local network share just one IPv4 address as far as outside world is concerned. All of the datagrams leaving the network will have the same source IP address but different source port numbers, and all of the addressing in the local network will be done with a reserved IP address like 10/8, 172.16/12, 192.168/16 that can **only** be used locally.
 

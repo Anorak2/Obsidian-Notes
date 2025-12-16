@@ -1,7 +1,7 @@
 
 2025-09-10
 
-Tags: [[3b - Classes/Networking]]
+Tags: [[Networking]]
 # Alternative Mail Access Protocols
 While SMTP is likely the oldest mail protocol, others such as POP3 and IMAP also exist as alternatives.
 

@@ -1,7 +1,7 @@
 
 2025-12-07
 
-Tags: [[3b - Classes/Networking]] [[HTTP]] [[Web]]
+Tags: [[Networking]] [[HTTP]] [[Web]]
 # Web Sockets
 
 

@@ -7,7 +7,7 @@
 [[Databases]]
 [[Data Mining]]
 #### Communication
-[[3b - Classes/Networking]]
+[[Networking]]
 #### Security
 [[Reverse Engineering]]
 [[Security]]

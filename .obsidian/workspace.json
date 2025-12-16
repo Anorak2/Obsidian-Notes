@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Wireless Networks.md",
+                "file": "6 - Main Notes/HTTP status codes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wireless Networks"
+              "title": "HTTP status codes"
             }
           }
         ]
@@ -191,10 +191,14 @@
   "active": "c5f7d824c05584ab",
   "lastOpenFiles": [
     "3b - Classes/Networking.md",
+    "6 - Main Notes/P2P Applications.md",
     "6 - Main Notes/HTTP status codes.md",
-    "6 - Main Notes/OSI Model.md",
+    "6 - Main Notes/HTTP.md",
     "6 - Main Notes/Alternative Mail Access Protocols.md",
+    "6 - Main Notes/SMTP.md",
+    "6 - Main Notes/OSI Model.md",
     "6 - Main Notes/Basic Networking Terminology.md",
+    "6 - Main Notes/Wireless Networks.md",
     "6 - Main Notes/Network Layer Responsibilities.md",
     "6 - Main Notes/Network Address Translation (NAT).md",
     "6 - Main Notes/Network IP assignment.md",
@@ -212,10 +216,6 @@
     "3b - Classes/Data Mining.md",
     "3b - Classes/Computer Architecture.md",
     "6 - Main Notes/K-means Clustering.md",
-    "6 - Main Notes/DBSCAN.md",
-    "6 - Main Notes/Clustering and Clustering Analysis.md",
-    "6 - Main Notes/Recurrent Neural Networks.md",
-    "6 - Main Notes/581 Exam Materials.md",
     "2 - Source Material/images/Pasted image 20251210212456.png",
     "2 - Source Material/images/Pasted image 20251210223454.png",
     "2 - Source Material/images/Pasted image 20251210223429.png",

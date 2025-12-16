@@ -1,7 +1,7 @@
 
 2024-12-24
 
-Tags: [[Programming]] [[Web]]
+Tags: [[Programming]] [[Web]] [[Networking]]
 # HTTP Requests
 ![[Pasted image 20241224154851.png]]
 

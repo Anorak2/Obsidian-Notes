@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[Security]] [[EECS 677 - Software Security Evaluation]]
+Tags: [[Security]] [[Software Security Evaluation]]
 # CIA Triad
 ![[Screenshot from 2025-09-29 20-42-07.png]]o
 

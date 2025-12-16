@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Data]]
+Tags: [[Software Security Evaluation]] [[Data]]
 # Domination and Control Dependence Graph
 The problem we are having is that a line of code very often depends on the lines of code that executes before it, and visualizing this can be tricky. To deal with this we introduce several terms that relate to the interactions between code blocks.
 

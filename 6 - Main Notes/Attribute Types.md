@@ -1,7 +1,7 @@
 
 2025-08-21
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Data]]
+Tags: [[Data Mining]] [[Data]]
 # Attribute Types
 - Nominal values provide only enough information to distinguish one object from another
 - Ordinal attributes provide data on how the node relates to other nodes, if a chip is the 3rd best then that tells us data not only on that chip.

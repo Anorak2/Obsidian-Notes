@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Computer Science]]
+Tags: [[Software Security Evaluation]] [[Computer Science]]
 # Points To Analysis, Anderson's and Steensgard's
 The problem currently is that approaches such as RTA fail to consider multiple functions together leading to unsound analysis. By considering pointers across multiple functions we seek to help remedy that. First though we have to acknowledge that finding pointsTo sets is expensive and that inter-procedural analysis and flow sensitive analysis are out of scope, so Drew chose to focus on flow insensitive algorithms.
 

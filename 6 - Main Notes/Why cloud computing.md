@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Why cloud computing
 
 ## Pro's

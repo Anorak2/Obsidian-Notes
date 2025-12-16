@@ -1,6 +1,6 @@
 Status: 
 
-Tags: [[Database]] [[Data Structures]]
+Tags: [[Databases]] [[Data Structures]]
 
 # BCNF
 Requirements:

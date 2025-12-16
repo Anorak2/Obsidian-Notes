@@ -1,7 +1,7 @@
 
 2025-04-27
 
-Tags: [[Security]] [[Applied Cybersecurity]] [[tool]]
+Tags: [[Security]] [[Software Security Evaluation]] [[tool]]
 # Metasploit Basics
 
 

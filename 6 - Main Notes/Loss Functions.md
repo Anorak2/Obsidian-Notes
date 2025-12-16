@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[EECS 568 - Intro to Data Mining]]
+Tags: [[Data Mining]]
 # Loss Functions
 The loss function measures the cost incurred at the output (prediction), or put another way just how close our predictions are to reality.
 

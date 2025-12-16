@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Security]] 
+Tags: [[Software Security Evaluation]] [[Security]] 
 # Buffer Overflows
 A buffer overflow is a type of security exploit where a malicious actor is able to write to memory outside of the allocated buffer. Historically this was often done by bringing your own script by injecting it into the buffer with a NOP sled which would hijack the program's control flow.  There are a number of countermeasures, as listed below, that makes it significantly harder to hijack control flow but the fundamental problem is still present.
 

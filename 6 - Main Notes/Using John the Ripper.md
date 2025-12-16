@@ -1,7 +1,7 @@
 
 2025-04-27
 
-Tags: [[Security]] [[tool]] [[Applied Cybersecurity]]
+Tags: [[Security]] [[tool]] [[Software Security Evaluation]]
 # Using John the Ripper
 https://www.openwall.com/john/
 

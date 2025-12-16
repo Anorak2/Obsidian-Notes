@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Good DB design
 
 1. Each tuple should only represent one entity/thing or relationship entity. We do this because it prevents anomalies

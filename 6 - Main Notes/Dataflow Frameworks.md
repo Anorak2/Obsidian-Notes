@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Data]]
+Tags: [[Software Security Evaluation]] [[Data]]
 # Dataflow Frameworks
 ![[Pasted image 20250929155208.png]]
 - Mark each block to indicate all possible values coming into that program point

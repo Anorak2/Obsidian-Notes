@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Security]]
+Tags: [[Software Security Evaluation]] [[Security]]
 # Control Flow Integrity
 So the problem is rather simple, it's when the program jumps to places where it shouldn't which is often used as an attack vector. The problem is how to implement?
 #### Naive Approach

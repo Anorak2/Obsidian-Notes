@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Object Relational Databases
 
 Object relational data models provide a richer type system with complex data types and object orientation. This makes sense because applications are often written in oop languages like [[Java]] and it can be a little odd when the type system doesn't match the [[Structured Data|relational system]] 

@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # Pipelined Protocols
 ## Stop and Wait
 --- 

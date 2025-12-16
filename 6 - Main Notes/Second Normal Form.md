@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Second Normal Form
 
 First to be in 2NF, a schema must be in the [[First Normal Form]] as well as every non-prime attribute must be dependent on the entire primary key

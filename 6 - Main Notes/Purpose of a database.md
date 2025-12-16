@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # DB Purpose
 
 Atomicity of Updates

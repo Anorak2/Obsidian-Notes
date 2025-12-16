@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Artificial Intelligence]]
+Tags: [[Data Mining]] [[Artificial Intelligence]]
 # Supervised Learning
 
 ## Setup

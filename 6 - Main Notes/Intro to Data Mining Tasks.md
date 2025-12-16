@@ -1,7 +1,7 @@
 
 2025-08-21
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Data]]
+Tags: [[Data Mining]] [[Data]]
 ## Models
 > Models are a way to represent our predictions about what will happen in the future based on what has been predicted to be statistically likely so that we can infer results.
 

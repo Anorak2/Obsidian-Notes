@@ -1,7 +1,7 @@
 
 2025-08-22
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Code Abstraction Formats]]
+Tags: [[Software Security Evaluation]] [[Code Abstraction Formats]]
 # LLVM Bitcode
 > LLVM stands for low level virtual machine and it is a set of program manipulation tools built around a "mid-level" abstraction instruction set, and it is really a language independent framework.
 

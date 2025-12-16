@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31ba3c6a7125606c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2 - Source Material/images/Pasted image 20251210200847.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251210200847"
-            }
-          },
-          {
-            "id": "1783a61f58282f9c",
+            "id": "c5f7d824c05584ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Hierarchical Clustering.md",
+                "file": "6 - Main Notes/MAC Addresses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hierarchical Clustering"
-            }
-          },
-          {
-            "id": "57580c991f47b2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/K-means.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "K-means"
+              "title": "MAC Addresses"
             }
           }
         ]
@@ -100,7 +64,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -120,11 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 644.5
   },
   "right": {
     "id": "a105260db8988793",
@@ -224,44 +189,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9dd8613c934de8df",
+  "active": "4b0ffc36c5f45e99",
   "lastOpenFiles": [
-    "3b - Classes/EECS 568 - Intro to Data Mining.md",
-    "6 - Main Notes/Hierarchical Clustering.md",
-    "6 - Main Notes/K-means.md",
-    "2 - Source Material/images/Pasted image 20251210223544.png",
-    "2 - Source Material/images/Pasted image 20251210223541.png",
-    "2 - Source Material/images/Pasted image 20251210223535.png",
-    "2 - Source Material/images/Pasted image 20251210223454.png",
-    "2 - Source Material/images/Pasted image 20251210223429.png",
-    "2 - Source Material/images/Pasted image 20251210212520.png",
-    "2 - Source Material/images/Pasted image 20251210212456.png",
-    "6 - Main Notes/Clustering and Clustering Analysis.md",
+    "3b - Classes/Networking.md",
+    "6 - Main Notes/MAC Addresses.md",
+    "6 - Main Notes/OSPF and Intra IP Routing.md",
+    "3 - Tags/Networking.md",
+    "3b - Classes/Software Security Evaluation.md",
     "Main.md",
+    "4 - Indexes/Applied Cybersecurity.md",
+    "4 - Indexes/Security.md",
+    "4 - Indexes/Databases.md",
+    "6 - Main Notes/Locking.md",
+    "3b - Classes/EECS 581 - Software Engineering 2.md",
+    "3b - Classes/Data Mining.md",
+    "3b - Classes/Computer Architecture.md",
+    "6 - Main Notes/K-means Clustering.md",
+    "6 - Main Notes/DBSCAN.md",
+    "6 - Main Notes/Clustering and Clustering Analysis.md",
     "6 - Main Notes/Recurrent Neural Networks.md",
-    "2 - Source Material/images/Pasted image 20251210205817.png",
-    "6 - Main Notes/Strong Learners.md",
-    "2 - Source Material/images/Pasted image 20251210201240.png",
-    "2 - Source Material/images/Pasted image 20251210201138.png",
-    "6 - Main Notes/Convolutional Neural Networks.md",
-    "6 - Main Notes/Loss Functions.md",
-    "6 - Main Notes/Artificial Neuron and Artificial Neural Networks.md",
-    "Analytics 2.0.md",
-    "6 - Main Notes/Support Vector Machines (SVM) *.md",
-    "3b - Classes/Syllabus.md",
-    "3b - Classes/EECS 645 - Computer Systems Architecture.md",
-    "6 - Main Notes/Virtual Memory and Paging.md",
-    "6 - Main Notes/Cache Basics.md",
+    "6 - Main Notes/581 Exam Materials.md",
     "6 - Main Notes/Cache Policies.md",
-    "6 - Main Notes/Cache Associativity.md",
-    "6 - Main Notes/Direct Mapped Caches.md",
     "4 - Indexes/Useful Commands.md",
     "6 - Main Notes/Useful commands.md",
-    "6 - Main Notes/Debugging Dnsmasq.md",
-    "3b - Classes/EECS 677 - Software Security Evaluation.md",
-    "3b - Classes/EECS 581 - Software Engineering 2.md",
-    "6 - Main Notes/581 Exam Materials.md",
-    "6 - Main Notes/P2P Applications.md",
+    "6 - Main Notes/Association Rule Mining.md",
+    "2 - Source Material/images/Pasted image 20251210212456.png",
+    "2 - Source Material/images/Pasted image 20251210223454.png",
+    "6 - Main Notes/Hierarchical Clustering.md",
+    "2 - Source Material/images/Pasted image 20251210223429.png",
+    "2 - Source Material/images/Pasted image 20251210223544.png",
+    "6 - Main Notes/Loss Functions.md",
+    "2 - Source Material/images/Pasted image 20251210200934.png",
+    "2 - Source Material/images/Pasted image 20251210201240.png",
+    "2 - Source Material/images/Pasted image 20251210200847.png",
+    "6 - Main Notes/Convolutional Neural Networks.md",
+    "6 - Main Notes/Artificial Neuron and Artificial Neural Networks.md",
+    "2 - Source Material/images/Pasted image 20251210184348.png",
+    "2 - Source Material/images/Pasted image 20251210195151.png",
+    "2 - Source Material/images/Pasted image 20251210194159.png",
     "1 - Rough Notes/Homework/Network 8",
     "1 - Rough Notes/Homework/data mining 4",
     "Recently Modified and Created.base",

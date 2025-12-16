@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Data]]
+Tags: [[Data Mining]] [[Data]]
 # Convolutional Neural Networks
 CNN's are used for comparing data where each data point is a vector, the most obvious example is for learning on image data. This is a very hard problem, so part of how CNN's work is by searching for specific smaller problems such as a birds beak.
 

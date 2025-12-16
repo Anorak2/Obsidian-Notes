@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]]
+Tags: [[Software Security Evaluation]]
 # Static Instrumentation
 Static instrumentation tends to be **easier**, often we do this earlier in development in a basic form by using print statements to see if they get hit and executed. Often Static Instrumentation tools are built directly into compilers, including cases like LLVM coverage tools and GCC coverage tools, there is also google's Closure compiler is also relevant here. 
 

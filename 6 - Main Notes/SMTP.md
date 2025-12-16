@@ -1,7 +1,7 @@
 
 2025-09-10
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # SMTP
 Email has three major components: user agents, mail servers, and Simple Mail Transfer Protocol (SMTP). It is defined in RFC 821.
 

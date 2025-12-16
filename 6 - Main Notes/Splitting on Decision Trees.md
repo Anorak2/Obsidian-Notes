@@ -1,7 +1,7 @@
 
 2025-09-11
 
-Tags: [[EECS 568 - Intro to Data Mining]]
+Tags: [[Data Mining]]
 # Splitting on Decision Trees
  **Finding the best attribute for a split**
 

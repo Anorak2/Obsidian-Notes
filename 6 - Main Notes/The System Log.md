@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # System Log
 
 The system log keeps track of [[Transactions|transaction]] operations by maintaining a sequential, append only file. Because of this its not affected by failure, except disk or catastrophic. To avoid it from being too slow we also keep a **log buffer**, which is the main memory buffer, and when its full it gets appended to the log file on disk. This allows for undo and redo operations to be done based on what the log says.

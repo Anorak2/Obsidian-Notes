@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Computer Science]]
+Tags: [[Software Security Evaluation]] [[Computer Science]]
 # Mod-Ref Analysis
 The basic idea of Mod/Ref analysis is that we ignore all pointers, parameters, and locals for the time being and instead build a simple call graph which can be repurposed with the dataflow algorithm. This approach allows us to quickly get a very simple initial approximation.
 

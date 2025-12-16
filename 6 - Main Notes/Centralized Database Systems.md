@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Centralized Database Systems
 
 Centralized database systems are ones that run on a single computer system which can be either for a single user or a multi-user system that could serve many users.

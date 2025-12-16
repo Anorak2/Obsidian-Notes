@@ -1,7 +1,7 @@
 
 2025-02-04
 
-Tags: [[Security]] [[Applied Cybersecurity]]
+Tags: [[Security]] [[Software Security Evaluation]]
 # Basic Reconnaissance
 
 Step 1, open source intelligence gathering

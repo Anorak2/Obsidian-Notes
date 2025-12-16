@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Data]]
+Tags: [[Data Mining]] [[Data]]
 # Artificial Neuron and Artificial Neural Networks
 ## Artificial Neurons
 ---
@@ -14,6 +14,7 @@ $$Output = (Non\text{-}linear \space activation \space Function)(constant+\sum^m
 ---
 An Activation Function is a function that adds a degree of non-linearity to the function, this is important since otherwise no matter how large our network is our output will be linear. Adding a non-linear component allows us to model arbitrarily complex functions rather than basic ones.
 ![[Pasted image 20251210192053.png]]
+
 ## Types of Neuron Connections
 ---
 **Multi-Layer Perceptron**

@@ -1,7 +1,7 @@
 
 2025-09-09
 
-Tags: [[EECS 563 - Intro to Comm Networks]]
+Tags: [[3b - Classes/Networking]]
 # OSI Model
 The open systems interconnection model was created in 1970's as a theoretical model with multiple layers, the benefit is that by having multiple layers they could be developed or improved asynchronously and swapped out for something else that fills the role. The important thing is that each layer **must** know how to talk to the layer above and the layer below it.
 

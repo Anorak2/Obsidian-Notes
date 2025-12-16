@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # Reliable Data Transfer (RDT)
 The principles of reliable data transfer are something of an abstract framework for how to create reliability in data transport without being a fully formed practical implementation.
 

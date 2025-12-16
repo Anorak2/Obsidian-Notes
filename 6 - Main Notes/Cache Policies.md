@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[EECS 645 - Computer Systems Architecture]]
+Tags: [[Computer Architecture]]
 # Cache Policies
 This document is mainly focused on the disconnect between main memory and the ram/cache. Mainly that we can't directly operate on the main memory due to performance but we also have to make sure that the mismatched state doesn't lead to serious issues.
 # Write Hits

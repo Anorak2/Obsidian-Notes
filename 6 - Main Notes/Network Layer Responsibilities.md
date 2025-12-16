@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]] 
+Tags: [[3b - Classes/Networking]] [[Networking]] 
 # Network Layer Responsibilities
 The network plane is responsible for transporting a segment ([[TCP]], [[UDP]], ...) from the sending host to the receiving host. The network layer is present in every device, whether hosts or routers.
 

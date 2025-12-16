@@ -1,7 +1,7 @@
 
 2025-11-12
 
-Tags: [[EECS 645 - Computer Systems Architecture]]
+Tags: [[Computer Architecture]]
 # Cache Associativity
 **Fully Associative** caches are when we allow a given block to go in any place in the cache, but this requires that all entries are searched O(N) and it is expensive since it requires a comparator per entry.
 

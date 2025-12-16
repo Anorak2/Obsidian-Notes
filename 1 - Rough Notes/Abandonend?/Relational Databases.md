@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Relational Models
 
 

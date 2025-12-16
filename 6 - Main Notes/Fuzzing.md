@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Dynamic Analysis]]
+Tags: [[Software Security Evaluation]] [[Dynamic Analysis]]
 # Fuzzing
 How do we generate good test cases?
 - Cases that exercise unexpected behavior

@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # Routers
 The main function of a router is to connect multiple networks and forward data packets from one network to another. A router also has multiple interfaces that each belong to a different IP network.
 

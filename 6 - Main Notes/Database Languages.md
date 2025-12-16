@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Database Languages
 
 DDL. or data definition language is a notation for defining the database schema. The DDL compiler generates a set of table templates stored in a data dictionary.

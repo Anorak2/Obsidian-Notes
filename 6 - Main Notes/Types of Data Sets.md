@@ -1,7 +1,7 @@
 
 2025-08-26
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Data]] [[Data Structures]]
+Tags: [[Data Mining]] [[Data]] [[Data Structures]]
 # Types of Data Sets
 ## Record
 
@@ -14,6 +14,9 @@ Tags: [[EECS 568 - Intro to Data Mining]] [[Data]] [[Data Structures]]
 **Transaction Data**
 > This is a special type of record data where each record (transaction) involves a set of items. In a grocery store this would be what each customer purchased when they checked out.
 
+**Market Basked Data**
+> A large set of items, e.g., things sold in a supermarket.
+> A large set of baskets, each of which is a small subset of the items, e.g. the things one customer buys on one day
 ## Graph Data
 Some examples of graph data would be a generic graph, social network, or web pages and graphs store the relations/connections between nodes or items.
 ![[Pasted image 20250826141659.png]]

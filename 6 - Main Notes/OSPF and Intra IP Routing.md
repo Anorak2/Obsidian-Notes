@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # OSPF
 Often in the other networking layer steps we've been assuming relatively flat, ideal networks. In practice though we can't store billions of connections in every router. Instead we aggregate routers into "autonomous-zones" or domains, this includes Google, Facebook, Apple, etc where each AS is given an Autonomous Systems Number. In north America this number is given by ARIN (American Registry for Internet Numbers).
 

@@ -1,7 +1,7 @@
 
 2025-11-12
 
-Tags: [[EECS 645 - Computer Systems Architecture]]
+Tags: [[Computer Architecture]]
 # Direct Mapped Caches
 ---
 In a direct mapped cache each word can only go to **one** location in the cache, or in other words the associativity is 1. We can determine this address by taking the block address from the CPU modulo the number of blocks in the cache. The block address can be found by `floor(byte address)/block size`

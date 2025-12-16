@@ -1,7 +1,7 @@
 
 2025-02-06
 
-Tags: [[Basic Reconnaissance]] [[Applied Cybersecurity]] [[Security]] [[tool]
+Tags: [[Basic Reconnaissance]] [[Software Security Evaluation]] [[Security]] [[tool]
 # Network Scanning
 We scan hosts connected to a network to determine live hosts, network topology, OS on each host, ports on each host, and vulnerabilities.
 

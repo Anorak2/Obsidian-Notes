@@ -1,4 +1,4 @@
-https://www.calculator.net/grade-calculator.html?d1=Quiz+1&s1=98&l1=a&w1=13&d2=Quiz+2&s2=86&l2=b&w2=13&d3=Project+1&s3=100&l3=b%2B&w3=12.5&d4=In+class+ex&s4=91.6&l4=&w4=10&d5=Quiz+3&s5=94&l5=&w5=13&d6=&s6=&l6=&w6=&d7=&s7=&l7=&w7=&d8=&s8=&l8=&w8=&sgoal=A&lgoal=&wremain=38.5&format=p&weight=p&plan=1&printit=0&ftype=1&x=Calculate
+# Theoretical
 ## LLVM
 [[LLVM Bitcode]]
 [[LLVM Memory]]
@@ -62,3 +62,33 @@ https://www.calculator.net/grade-calculator.html?d1=Quiz+1&s1=98&l1=a&w1=13&d2=Q
 **Ensuring Valid State**
 [[Reference Monitors]]
 [[Control Flow Integrity]]
+
+# Practical
+---
+**Scouting**
+[[TheHarvester]] * 
+[[Basic Reconnaissance]] *
+[[Vulnerability Scans]]  *
+
+**Password Cracking**
+[[Password Cracking]] 
+[[Using John the Ripper]] ~
+
+**Network Based**
+[[Basic Networking Terminology]]
+[[Network scanning (Nmap and Nessus)]]
+[[Sniffing Network Traffic]]
+
+[[Wireless Network Cracking (WEP)]]
+[[Wireless Network Cracking (WPA & WPA2)]]
+[[WPA 3]]
+[[Denial of Service Attacks and DDoS Attacks]]
+
+[[Firewalls]]
+
+**Other**
+[[SQL Injections]]
+[[Intrusion Detection Systems]]
+[[Rootkits]]
+[[Exploit Definition]]
+[[Metasploit Basics]] * 

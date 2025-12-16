@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Security]] [[Computer Science]]
+Tags: [[Software Security Evaluation]] [[Security]] [[Computer Science]]
 # Dynamic Analysis and testing
 ---
 At it's core dynamic analysis is just about running the program and seeing what happens, often used to try and understand a program and to identify bugs.

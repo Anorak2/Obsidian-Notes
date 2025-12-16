@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Computer Science]]
+Tags: [[Software Security Evaluation]] [[Computer Science]]
 # SMT Solving
 SMT, or Satisfiable Modulo Theories, is where we call out to specific theories in order to find satisfying assignments. One reason we might do this is to concertize specific states in Concolic execution since a program won't accept $\alpha$.
 

@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] 
+Tags: [[Software Security Evaluation]] 
 # Program Slicing
 > What if we want to ignore all data that is "irrelevant" for a particular case? The CDG and PDG show all of the information related to the control flow and and dataflow
 

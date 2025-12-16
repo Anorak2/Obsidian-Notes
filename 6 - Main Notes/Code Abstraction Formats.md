@@ -1,7 +1,7 @@
 
 2025-08-20
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Code Review]]
+Tags: [[Software Security Evaluation]] [[Code Review]]
 # Code Abstractions
 
 # Flow Charts

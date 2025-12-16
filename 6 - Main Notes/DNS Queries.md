@@ -1,7 +1,7 @@
 
 2025-12-07
 
-Tags: [[Networking]] [[EECS 563 - Intro to Comm Networks]]
+Tags: [[Networking]] [[3b - Classes/Networking]]
 # DNS Queries and Record Types
 ## Query Types
 ---

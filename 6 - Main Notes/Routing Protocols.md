@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # Routing Protocols
 The goal of routing is to determine a "good" path from the sending host to the receiving host through a network of routers where good means: least "cost", "fastest", "least congested"
 

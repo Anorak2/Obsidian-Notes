@@ -1,6 +1,6 @@
 Status: 
 
-Tags: [[Database]] [[Servers]]
+Tags: [[Databases]] [[Servers]]
 # Concurrency Control
 
 Concurrency control is needed since transactions submitted by various users may execute and these users can access and update the same items.

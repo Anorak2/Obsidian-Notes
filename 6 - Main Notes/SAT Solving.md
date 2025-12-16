@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[Computer Science]] [[EECS 677 - Software Security Evaluation]] [[Math]]
+Tags: [[Computer Science]] [[Software Security Evaluation]] [[Math]]
 # SAT Solving
 ![[Pasted image 20251116231830.png]]
 As a brief overview P=NP is about a class of problems NP here a solution can be generated in polynomial time by a nondeterministic [[Turing Machines|Turing machine]] and a solution can be verified in polynomial time by a deterministic turing machine.

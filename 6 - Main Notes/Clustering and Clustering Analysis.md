@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data]] [[EECS 568 - Intro to Data Mining]]
+Tags: [[Data]] [[Data Mining]]
 # Clustering and Clustering Analysis
 **Definition:** Given a set of objects, grouping them such that the objects in the same group (cluster) are similar (or related) to one another and that the objects are different from (or unrelated to) the objects in other groups. We try to minimize the distance between points in a cluster and maximize the distances between clusters. Clustering is also **subjective**, someone may choose to cluster by gender, job, age, etc. The notion of a cluster can also be very ambiguous.
 
@@ -27,5 +27,19 @@ Tags: [[Data]] [[EECS 568 - Intro to Data Mining]]
 - Density-based clusters
 	- A cluster is a dense region of points, which is separated by low-density regions, from other regions of high density.
 	- Used when the clusters are irregular or intertwined, and when noise and outliers are present
-# References
 
+## Cluster Evaluation
+---
+**Why and How?** 
+
+#### Unsupervised Measures
+
+#### Supervised Measures
+
+#### Correlation
+# References
+[[K-means Clustering]]
+
+[[Hierarchical Clustering]]
+
+[[DBSCAN]]

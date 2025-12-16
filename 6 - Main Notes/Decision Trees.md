@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[EECS 568 - Intro to Data Mining]] 
+Tags: [[Data Mining]] 
 # Decision Trees
 ![[Pasted image 20250902144740.png]]
 Fig 1. An example of a decision tree

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Programming]] [[Servers]] [[Database]]
+Tags: [[Programming]] [[Servers]] [[Databases]]
 # Three Layer Architecture
 The basic idea behind a three layer structure is that we want to limit the permissions of users and design our software in a scalable way.
 

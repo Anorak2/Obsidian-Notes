@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # Link Layer Error Detection
 At the link layer error detection has to be added, with a section of data (D) and a section for ensuring validity (EDC) for error detection and correction. Conceptually this works because we map "data words" into a larger space where they become separated.
 

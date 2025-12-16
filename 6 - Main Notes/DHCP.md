@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # DHCP
 The Dynamic Host Control Protocol is how we are able to assign IP addresses to a host. The goal is to have a host dynamically get assigned an IP when it joins the network where it can later renew its lease for an in-use address and allows for reuse of addresses by recycling IP's no longer in use.
 

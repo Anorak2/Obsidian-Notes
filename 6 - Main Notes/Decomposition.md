@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Decomposition
 
 Often times the only way to prevent duplication of information or to achieve a certain [[Normalization|form]] is to break down a table into two individual tables. Ideally we also usually want to achieve **lossless decomposition** which means decomposing in such a way that we can re-join the tables without losing any data. Another way of expressing this is that we should design schema so that we can use natural joins without loss.

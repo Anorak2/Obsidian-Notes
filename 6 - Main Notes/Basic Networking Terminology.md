@@ -1,7 +1,7 @@
 
 2025-01-30
 
-Tags: [[Networking]] [[Applied Cybersecurity]]
+Tags: [[Networking]] [[Software Security Evaluation]]
 ##  Basic Networking Terminology
 
 To interact with the internet you need a N.I.C. card, short for network interface card. This can plug into an ethernet cable, or an RJ45 connection

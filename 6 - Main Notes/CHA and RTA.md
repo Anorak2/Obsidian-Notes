@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[Computer Science]] [[EECS 677 - Software Security Evaluation]] [[Security]]
+Tags: [[Computer Science]] [[Software Security Evaluation]] [[Security]]
 # Class Hierarchy Analysis and Rapid Type Analysis
 ---
 Previously we talked about [[Mod-Ref Analysis|Mod/Ref Analysis]] but the problem is that for situations more complex than globals only our analysis can become tricky very quickly. **Class Hierarchy Analysis** is where in an object oriented language we create the inheritance tree. Notably in CHA we use a "safe over-approximation" where we include all defined classes whether or not they are used. **Rapid Type Analysis** is a refinement on CHA where we consider only initialized classes and consider only reachable code.

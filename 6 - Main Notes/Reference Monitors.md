@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Dynamic Analysis]] [[Security]]
+Tags: [[Software Security Evaluation]] [[Dynamic Analysis]] [[Security]]
 # Reference Monitors
 Often detection might not be enough, so what if instead we try to keep "bad" things from happening during execution. In the simple version we just kill the program if something bad is happening, though we may also try to sanitize the data.
 

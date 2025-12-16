@@ -1,7 +1,7 @@
 
 2025-09-10
 
-Tags: [[EECS 563 - Intro to Comm Networks]]
+Tags: [[3b - Classes/Networking]]
 # DNS Servers
 DNS, or Domain Name System, is a distributed database that exists as a hierarchy of name servers that allows for the internet to convert a name like www.jellyatoll.xyz into an IP address like ```127.0.0.1```. 
 

@@ -1,7 +1,7 @@
 
 2025-04-24
 
-Tags: [[Security]] [[Applied Cybersecurity]]
+Tags: [[Security]] [[Software Security Evaluation]]
 # Intrusion Detection Systems
 There are many different types of detection systems including:
 - Network Intrusion Detection System

@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Dynamic Analysis]]
+Tags: [[Software Security Evaluation]] [[Dynamic Analysis]]
 # Symbolic Execution
 Dynamic analysis is great, but as mentioned in some previous notes it has a significant coverage problem. So what if instead on every path we explored both options? 
 

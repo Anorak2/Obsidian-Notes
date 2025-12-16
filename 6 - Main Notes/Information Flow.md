@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Data]]
+Tags: [[Software Security Evaluation]] [[Data]]
 # Information Flow
 We must first remember the [[CIA Triad]], balancing between confidentiality, availability, and integrity. When formalized into what it means with respect to data flow:
 - **Confidentiality**: high security data should not influence low security functionality

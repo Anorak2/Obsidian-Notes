@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Armstrong Axioms
 
 All implied [[Functional Dependencies]] can be figured out using the Armstrong axioms. What this means is that if we know the [[Functional Dependencies|FD's]] we can derive all implied FD's using the Armstrong axioms and help us determine a key for a relation

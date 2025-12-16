@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Math]] [[Computer Science]]
+Tags: [[Software Security Evaluation]] [[Math]] [[Computer Science]]
 # Lattices
 A lattice is a [[Poset]] in which each pair of elements has:
 - A least upper bound (the join)

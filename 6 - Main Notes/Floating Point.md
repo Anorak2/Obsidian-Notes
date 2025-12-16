@@ -1,7 +1,7 @@
 
 2025-08-25      // another one that I learned well before these notes
 
-Tags: [[EECS 645 - Computer Systems Architecture]] [[Data]] 
+Tags: [[Computer Architecture]] [[Data]] 
 # Floating Point
 > Floating point allows us to represent very large numbers by not maintaining a continuous sequence of bits the way two's complement does, instead floats represent numbers similar to scientific notation ex: 1.363 * 10^33.
 

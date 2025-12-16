@@ -1,7 +1,7 @@
 
 2025-04-22
 
-Tags: [[Security]] [[Applied Cybersecurity]]
+Tags: [[Security]] [[Software Security Evaluation]]
 # Logging
 We need to log record to store entries for successful and/or failed:
 - User logins and logouts

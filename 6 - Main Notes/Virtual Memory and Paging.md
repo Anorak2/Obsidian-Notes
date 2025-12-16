@@ -1,7 +1,7 @@
 
 2025-04-09
 
-Tags: [[Operating Systems]] [[Operating Systems]] [[Data]] [[EECS 645 - Computer Systems Architecture]]
+Tags: [[Operating Systems]] [[Operating Systems]] [[Data]] [[Computer Architecture]]
 # Virtual Memory
 We often have this abstraction where each process gets a certain amount of memory, but in practice we have to be much more conservative with our memory and the memory has to be shared with many other processes. There are a few ways to do this such as with a MMU (memory management unit) or a TLB (translation look-aside buffer) for hardware support, and for OS supported options Manage MMU and determine address mapping. Although alternatively we don't need to do virtual memory, and many real time operating systems (RTOS) don't have virtual memory.
 

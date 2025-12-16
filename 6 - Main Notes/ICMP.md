@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # ICMP
 The Internet Context Management Protocol is used by hosts and routers to communicate network-level information. This is useful for a number of cases, including error reporting such as unreachable host, network, port, protocol or to echo request/reply (in the case of a ping). This  network layer is "above" IP, ICMP messages are carried in IP datagrams.
 

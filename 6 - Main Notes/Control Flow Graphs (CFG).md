@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Computer Science]]
+Tags: [[Software Security Evaluation]] [[Computer Science]]
 # Control Flow Graphs
 > A control flow graph is graph representation of all possible paths through a program during its execution
 > ![[Pasted image 20250929150907.png]]

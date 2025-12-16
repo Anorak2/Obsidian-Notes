@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # Network IP assignment
 While local IP assignment can be done through DHCP it gets more complicated when the network needs to get it's IP address. The network gets allocated a portion of the ISP's total addressing space and it can then go out and tell the internet to send anything beginning with a certain prefix to that ISP, ex: anything beginning with 199.31.0.0/20 or 200.23..18.0 may go to ISP-r-us where it can then serve that traffic to a lower level organization with an IP address such a 200.23.18.0/23
 

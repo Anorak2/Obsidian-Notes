@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # ARP
  ARP, or the address resolution protocol, is used for finding the conversion between IP address and MAC address on a LAN. ARP operates at level 3 but often interacts with link layer due to it's nature. Since we don't want to send an ARP request for every packet we also have an **ARP cache** that stores mac addresses for future use, with a timeout to add resiliency. Often the time to live of an ARP cache is 20 minutes.
 

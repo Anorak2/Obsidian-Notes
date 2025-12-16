@@ -1,7 +1,7 @@
 
 2025-04-01
 
-Tags: [[Security]] [[Networking]] [[Applied Cybersecurity]]
+Tags: [[Security]] [[Networking]] [[Software Security Evaluation]]
 # Sniffing Network Traffic
 Network sniffing is the process of intercepting and reading the network traffic of other network users. To sniff in a wired environment we need to have the router in promiscuous mode since otherwise the router will refuse to share the relevant information.
 

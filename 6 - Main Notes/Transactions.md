@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]] 
+Tags: [[Databases]] 
 # Transactions
 
 A transaction is just an executing program that forms the unit for database processing. These can be read only or write only transactions, they can also request [[Locking|locks]] to prevent anomalies.

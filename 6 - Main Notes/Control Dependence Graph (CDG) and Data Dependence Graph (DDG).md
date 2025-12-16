@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[EECS 677 - Software Security Evaluation]]
+Tags: [[Software Security Evaluation]]
 # Control Dependence Graph (CDG) 
 
 **Control Dependence Graph:** This is the graph that shows which statements must run before another statement is able to execute. 

@@ -1,9 +1,8 @@
 
 2025-12-10
 
-Tags: [[EECS 568 - Intro to Data Mining]] [[Data]]
-# K-means
-
+Tags: [[Data Mining]] [[Data]] [[Algorithms]]
+# K-means Clustering
 ## Algorithm
 ---
 Partitional clustering approach:

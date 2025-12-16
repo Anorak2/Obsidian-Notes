@@ -1,7 +1,7 @@
 
 [[Good database design principles]]
 [[Purpose of a database]]
-****
+
 **Normalization**
 [[Armstrong Axioms]]
 [[Boyce-Codd normal form]]

@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Dynamic Analysis]]
+Tags: [[Software Security Evaluation]] [[Dynamic Analysis]]
 # Program Instrumentation
 The basic idea here is to write code into the executable to gather information.  This addresses the two major issues with basic testing, property may not be observable on output alone and non-obvious circumstances. Program Instrumentation can report upon program state and even program path.
 

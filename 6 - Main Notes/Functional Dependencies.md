@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]] [[Data]]
+Tags: [[Databases]] [[Data]]
 # Functional Dependencies
 
 Functional Dependencies describe the relations between attributes, with one attribute determining in some way what the other value is.

@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Normalization
 
 Normalization is a systemic process that formally helps organize data, minimize redundancy, improve data integrity, and simplify data maintenance.

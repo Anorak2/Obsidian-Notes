@@ -1,7 +1,7 @@
 
 2025-09-24
 
-Tags: [[EECS 677 - Software Security Evaluation]] [[Security]]
+Tags: [[Software Security Evaluation]] [[Security]]
 # Side Channel Attacks
 Sometimes we have to deal with unconventional adversaries and threats we don't typically think about. A side channel is one such threat where an adversary is able to glean some type of information about our program. Examples include how hot our computers are (or how heavy the fans are running), electromagnetic emissions, execution time, and certainly others.
 

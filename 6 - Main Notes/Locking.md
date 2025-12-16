@@ -1,6 +1,6 @@
 Status:
 
-Tags: [[Database]]
+Tags: [[Databases]]
 # Locking
 
 Locking is a way of dealing with [[Concurrency Control|Concurrency Problems]] and when a transaction needs some assurance that the object its interested in will not change in some unpredictable way it puts a lock on that object to prevent other [[Transactions]] from messing with it

@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[EECS 563 - Intro to Comm Networks]] [[Networking]]
+Tags: [[3b - Classes/Networking]] [[Networking]]
 # IP v6 Protocol
 ![[Pasted image 20251120014033.png]]
 The IPv6 Protocol was designed to fix the problems with IPv4 by eliminating unnecessary headers and by increasing the address space enormously. When compared to IPv4 IPv6 is missing:

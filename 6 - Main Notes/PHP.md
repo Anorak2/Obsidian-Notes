@@ -1,5 +1,3 @@
-Status:
-
 tags: [[Languages]] [[Web]]
 # PHP
 

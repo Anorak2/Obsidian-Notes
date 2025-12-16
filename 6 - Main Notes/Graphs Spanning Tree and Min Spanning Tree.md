@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Graphs]] [[Algorithms]]
 
 # Spanning Tree and Minimum Spanning Tree

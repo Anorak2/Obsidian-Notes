@@ -1,8 +1,6 @@
 
 2024-12-28
 
-Status:
-
 Tags: [[Algorithms]] [[Sorting]] [[Computer Science]]
 # Adversary to Quicksort
 

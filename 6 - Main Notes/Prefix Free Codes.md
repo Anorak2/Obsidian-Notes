@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Algorithms]] [[Data]]
 # Prefix Free Codes
 

@@ -1,8 +1,6 @@
 
 2024-12-27
 
-Status:
-
 Tags:[[Programming]] [[3 - Tags/Optimization|Optimization]] [[Compilers]]
 # Vectorization
 

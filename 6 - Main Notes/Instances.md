@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Virtualization]], [[ServiceNow]]
 # Instances
 

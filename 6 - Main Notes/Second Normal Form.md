@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Databases]]
 # Second Normal Form
 

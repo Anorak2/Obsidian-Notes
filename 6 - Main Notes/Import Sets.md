@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[ServiceNow]]
 # Import Sets
 

@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Databases]]
 # Object Relational Databases
 

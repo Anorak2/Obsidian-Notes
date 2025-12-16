@@ -1,8 +1,6 @@
 
 2024-12-25
 
-Status:
-
 Tags: [[Programming]] [[Servers]]
 # API
 

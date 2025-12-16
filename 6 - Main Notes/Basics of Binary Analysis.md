@@ -1,8 +1,6 @@
 
 2025-01-22
 
-Status:
-
 Tags: [[Reverse Engineering]] [[Computer Science]]
 # Basics of Binary Analysis
 Why? We do binary analysis since its pretty common for the source code to be unavailable, this can be for a variety of reasons such as the source code simply being lost or because of a malicious adversary the code to their virus isn't public. Knowing how to recover the software allows for us to understand it, and in the case of viruses lets us protect ourselves from that danger.

@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Data Structures]] [[Algorithms]] [[3 - Tags/Optimization|Optimization]]
 # Runtime Complexities
 **Data Structures**

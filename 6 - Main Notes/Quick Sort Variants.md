@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Algorithms]] [[Sorting]]
 # Quick Sort Variants
 As discussed in [[Quick Sort]] this is the fastest algorithm, but problematically only if we make good decisions about the Pivot selection, partition algorithm, and how we deal with the worst case

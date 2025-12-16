@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Data Structures]]
 # Graphs
 

@@ -1,5 +1,3 @@
-Status:
-
 Tag: [[Data]]
 # Textual Data
 

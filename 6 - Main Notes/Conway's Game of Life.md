@@ -2,8 +2,6 @@
 
 2024-12-24
 
-Status:
-
 Tags: [[Math]] [[Computer Science]]
 # Conway's Game of Life
 

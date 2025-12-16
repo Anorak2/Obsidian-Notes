@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Data Structures]]
 # Red Black Trees
 Red Black trees are, fundamentally, the same as [[B-Trees]] and therefore also very similar to [[Binary Search Trees]]. However, red black trees fix a lot of the implementation problems and performance problems that [[B-Trees]] have.

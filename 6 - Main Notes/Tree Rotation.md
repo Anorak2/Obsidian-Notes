@@ -1,8 +1,6 @@
 
 2024-12-27
 
-Status:
-
 Tags: [[Data Structures]]
 # Tree Rotation
 Tree rotation is an operation that lets us change the structure without messing with the order of the elements contained by a tree.

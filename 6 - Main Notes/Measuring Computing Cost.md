@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Algorithms]] [[3 - Tags/Optimization|Optimization]]
 # Measuring Computing Cost
 ### Technique 1 - Time it

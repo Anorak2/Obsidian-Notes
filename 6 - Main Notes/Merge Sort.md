@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Algorithms]] [[Sorting]]
 # Merge Sort
 

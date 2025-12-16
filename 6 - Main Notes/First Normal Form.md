@@ -1,5 +1,3 @@
-Status:
-
 tags: [[Databases]]
 # First Normal Form
 

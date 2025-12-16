@@ -1,5 +1,3 @@
-Status:
-
 tags: [[Algorithms]]
 # Kruskal's Algorithm
 

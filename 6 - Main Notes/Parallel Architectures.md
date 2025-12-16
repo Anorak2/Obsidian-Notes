@@ -1,8 +1,6 @@
 
 2025-01-24
 
-Status:
-
 Tags: [[High Performance Computing]] [[Computer Science]]
 # Parallel Architectures
 There are four main types of parallel architectures; SISD, SIMD, MISD, and MIMD. These can really be simplified though to systems with a sequential instruction set (SI) or multiple (MI) and systems with either a single source of data or multiple data sources. SISD is the most basic, and its just like a serial one core computer. SIMD would be like a graphics card since it is able to be parallelized but it has one instruction set, SIMD is fantastic for performing one operation on a matrix. There are no MISD systems, and MIMD is the realm of super computing, servers, and clusters.

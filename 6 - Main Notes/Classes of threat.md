@@ -1,8 +1,6 @@
 
 2025-01-23
 
-Status:
-
 Tags: [[Security]]
 # Classes of threat
 Some types of threads:

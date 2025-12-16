@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Languages]] [[Databases]]
 
 NoSQL databases are often used for [[Semi-Structured Data]] and [[Unstructured Data]], and works around flexible formats (CSV, JSON, XML). 

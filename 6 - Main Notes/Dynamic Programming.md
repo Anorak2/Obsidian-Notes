@@ -1,8 +1,6 @@
 
 2024-12-30
 
-Status:
-
 Tags: [[Programming]] 
 # Dynamic Programming
 The main idea here is to store the solutions to sub-problems so that we only need to solve each sub-problem once. To solve DP problems what we do is write a recursive problem in a way that there are overlapping problems.

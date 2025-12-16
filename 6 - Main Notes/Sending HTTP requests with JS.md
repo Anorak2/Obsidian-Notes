@@ -1,8 +1,6 @@
 
 2024-12-27
 
-Status:
-
 Tags: [[Javascript]] [[Web]]
 # Sending HTTP requests with JS
 ```

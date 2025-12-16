@@ -1,8 +1,6 @@
 
 2024-12-28
 
-Status:
-
 Tags: [[Programming]] [[Golang]]
 # Go Mutexes - Concurrency Control
 

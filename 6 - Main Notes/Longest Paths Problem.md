@@ -1,8 +1,6 @@
 
 2024-12-27
 
-Status:
-
 Tags: [[Algorithms]] [[Open Problems]] [[Computer Science]]
 # Longest Paths Problem
 

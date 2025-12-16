@@ -1,8 +1,6 @@
 
 2024-12-27
 
-Status:
-
 Tags: [[Algorithms]] [[Data]] [[Data Structures]]
 # Huffman Coding
 

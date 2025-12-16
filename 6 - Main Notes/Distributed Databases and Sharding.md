@@ -1,5 +1,3 @@
-Status:
-
 Tags: [[Databases]] [[Servers]]
 # Distributed Databases
 

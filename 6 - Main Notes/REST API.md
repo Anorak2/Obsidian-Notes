@@ -1,8 +1,6 @@
 
 2024-12-25
 
-Status:
-
 Tags:[[Programming]] [[Web]]
 # REST API
 REST, or Representational State Transfer is a set of constraints used for creating web services that are typically based around HTTP methods or using XML/JSON to send data.

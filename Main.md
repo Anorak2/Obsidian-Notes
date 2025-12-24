@@ -1,4 +1,6 @@
 
+[[Performance Measurement & Reliability]]
+[[Concurrency]]
 #### Algorithms 
 [[Algorithms]]
 [[High Performance Computing]]
@@ -12,13 +14,12 @@
 [[Reverse Engineering]]
 [[Security]]
 [[Software Security Evaluation]]
-[[Software Security Evaluation]]
 #### Low Level
 [[Operating Systems]]
 [[Computer Architecture]]
 
-
-
+**Meta:**
+[[Software Project Management]]
 
 
 

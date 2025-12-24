@@ -30,7 +30,7 @@ This solution meets all three requirements since $P0$ and $P1$ can't be in the c
 # References
 [[Race Conditions]]
 
-[[High Level Synchronization Control]]
+[[Locks and Semaphores]]
 
 [[Processes]]
 

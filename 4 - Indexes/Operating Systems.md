@@ -1,20 +1,20 @@
 [[Boot Sectors]]
 
 **Basic Structures**
-[[Evolution of Operating Systems]]
-[[OS Memory Hierarchy]]
-[[OS Basic Services]]
-[[OS Structures]]
+- [[Evolution of Operating Systems]]
+- [[OS Memory Hierarchy]]
+- [[OS Basic Services]]
+- [[OS Structures]]
 
 **Processes and Threads**
-[[Processes]]
-[[Inter-Process Communication]]
-[[Threads]]
-[[Basic Synchronization Control]]
-[[High Level Synchronization Control]]
+- [[Processes]]
+- [[Inter-Process Communication]]
+- [[Threads]]
+- [[Basic Synchronization Control]]
+- [[Locks and Semaphores]]
 
-[[Deadlocks]]
-[[Practical CPU Scheduling Algorithms]]
+- [[Deadlocks]]
+- [[Practical CPU Scheduling Algorithms]]
 
 **Memory** ---------------
 [[Virtual Memory and Paging]]

@@ -18,6 +18,9 @@ The class output is decided by democracy where we combine the "opinions" of each
 
 $$e_{ensemble}=\sum^{25}_{i=13}{25 \choose i}e^i(1-\epsilon)^{25-i}=.06$$
 
+#### Bagging
+Use majority vote (sign of sum of predictions) to determine class of ensemble classifier. Bagging can increase the representation capacity of simple classifiers such as decision stumps
+
 
 
 # References

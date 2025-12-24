@@ -27,4 +27,4 @@ This is a very simple way to lock a structure so that only one thing can access 
 
 [[Concurrency Control]]
 
-[[High Level Synchronization Control]]
+[[Locks and Semaphores]]

@@ -5,7 +5,6 @@ Tags: [[Performance Measurement & Reliability]]
 # Designing Software Benchmarks
 
 What is a benchmark? One definition is a "Standard tool for the **competitive** evaluation and comparison of competing systems or components according to speciﬁc characteristics, such as performance, dependability, or security" (1). Most of this sheet will be heavily based on that paper, what can I say the authors did a good job.
-
 ## Three General Categories:
 #### Speciﬁcation Based:
 Speciﬁcation-based benchmarks describe functions that must be achieved, required input parameters and expected outcomes. The implementation to achieve the speciﬁcation is left to the individual running the benchmark. Speciﬁcation-based benchmarks begin with a deﬁnition of a business problem to be simulated by the benchmark. The key criteria for this deﬁnition are the relevance topics discussed in section 3 and novelty. Speciﬁcation-based benchmarks have the advantage of allowing innovative software to address the business problem of the benchmark by proving the speciﬁed requirements of the new implementation. On the other hand, speciﬁcation-based benchmarks require substantial development prior to running the benchmark, and may have challenges proving that all the requirements of the benchmark are met.

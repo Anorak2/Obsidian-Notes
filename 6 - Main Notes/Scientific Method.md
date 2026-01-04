@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Computer Science]]
+Tags: [[Computer Science]] [[Problem Solving Strategies]]
 # Scientific Method
 The scientific method is an empirical method for gaining knowledge by carefully observing, applying rigorous skepticism, hypothesis testing, and experimental validation
 

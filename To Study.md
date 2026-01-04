@@ -1,10 +1,13 @@
 
 https://logit.io/blog/post/performance-profiling-optimization-enterprise-guide/
+https://www.youtube.com/watch?v=6g3QiE4IB-4
+https://www.youtube.com/watch?v=sYwC7lhccis
 ## Things I need to finish
 - [x] Scientific Method
 - [x] Finish Data Mining LLM slides
-- [ ] Test Driven Development
-- [ ] SDLC
+- [x] Test Driven Development
+- [x] SDLC
+- [ ] Building Projects in C
 - [ ] LAN's
 - [ ] GIT - 6h total
 	- [ ] 2h
@@ -14,6 +17,7 @@ https://logit.io/blog/post/performance-profiling-optimization-enterprise-guide/
 - [x] Review 645 slides 10-15
 - [x] Architecture
 - [ ] Review OS
+- [x] Make tools index
 ## Performance Measurement & Profiling
 - [x] Performance measurement methodology
 - [x] Benchmark design

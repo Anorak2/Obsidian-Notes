@@ -32,8 +32,81 @@
               "icon": "lucide-file",
               "title": "To Study"
             }
+          },
+          {
+            "id": "cd148018d8d2e3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Performance Measurement & Reliability.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Performance Measurement & Reliability"
+            }
+          },
+          {
+            "id": "614056a88039502c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Disjoint Sets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Disjoint Sets"
+            }
+          },
+          {
+            "id": "b79e454d68d739f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytics 2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Analytics 2.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +263,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "754968acfb2a62fc",
+  "active": "cd148018d8d2e3af",
   "lastOpenFiles": [
+    "6 - Main Notes/Dynamic Programming Design Patterns.md",
+    "Analytics 2.0.md",
+    "To Study.md",
+    "Pasted image 20260102182512.png",
+    "6 - Main Notes/Disjoint Sets.md",
+    "4 - Indexes/Data Structures.md",
+    "4 - Indexes/Algorithms.md",
+    "Programming/EECS 510 - Computing theory/Chomsky Normal Form.md",
+    "Programming/EECS 510 - Computing theory/basic definitions.md",
+    "5 - Templates/Main Note.md",
+    "4 - Indexes/Networking.md",
+    "Main.md",
+    "4 - Indexes/Tools.md",
+    "4 - Indexes/Useful Commands.md",
+    "6 - Main Notes/Useful commands.md",
+    "6 - Main Notes/Git CLI Commands.md",
+    "6 - Main Notes/DIG and nslookup.md",
+    "3 - Tags/tool.md",
+    "6 - Main Notes/DNS Servers.md",
+    "6 - Main Notes/DNS Queries.md",
+    "Math/EECS 461 - Stats/Markov Inequality.md",
+    "6 - Main Notes/Network scanning (Nmap and Nessus).md",
+    "4 - Indexes/Reverse Engineering.md",
+    "6 - Main Notes/Malloc and Free*.md",
+    "6 - Main Notes/A3 Problem Solving.md",
+    "3 - Tags/C.md",
+    "2 - Source Material/images/Pasted image 20251225021435.png",
+    "2 - Source Material/images/Pasted image 20251225014209.png",
     "2 - Source Material/images/Pasted image 20251220174838.png",
     "2 - Source Material/images/Pasted image 20251207145337.png",
     "2 - Source Material/images/Pasted image 20251206192527.png",
@@ -199,35 +300,6 @@
     "2 - Source Material/images/Pasted image 20251116193838.png",
     "2 - Source Material/images/Pasted image 20251110202324.png",
     "2 - Source Material/images/Pasted image 20251210200912.png",
-    "2 - Source Material/images/Pasted image 20251110225658.png",
-    "2 - Source Material/images/Pasted image 20251210223535.png",
-    "2 - Source Material/images/Pasted image 20251210201138.png",
-    "2 - Source Material/images/Pasted image 20251110231357.png",
-    "6 - Main Notes/Machine Code Analyzers (MCA).md",
-    "Analytics 2.0.md",
-    "1 - Rough Notes/Z notes.md",
-    "1 - Rough Notes/Analysis lecture.md",
-    "1 - Rough Notes/Data Mining Lecture.md",
-    "1 - Rough Notes/Networking Lecture.md",
-    "1 - Rough Notes/Networking Homework 2.md",
-    "1 - Rough Notes/677 Q3/677 Q3 temp.md",
-    "6 - Main Notes/Chaos Testing.md",
-    "6 - Main Notes/Locks and Semaphores.md",
-    "6 - Main Notes/CPU Branch Prediction.md",
-    "4 - Indexes/Computer Architecture.md",
-    "To Study.md",
-    "4 - Indexes/Performance Measurement & Reliability.md",
-    "4 - Indexes/Software Security Evaluation.md",
-    "4 - Indexes/Software Project Management.md",
-    "6 - Main Notes/Statistical Profiling.md",
-    "4 - Indexes/Operating Systems.md",
-    "6 - Main Notes/Basic Synchronization Control.md",
-    "6 - Main Notes/Locking.md",
-    "4 - Indexes/Data Structures.md",
-    "6 - Main Notes/Multi-Data Path and Pipelining.md",
-    "6 - Main Notes/Designing Software Benchmarks.md",
-    "6 - Main Notes/CPU Forwarding.md",
-    "4 - Indexes/Data Mining.md",
     "Recently Modified and Created.base",
     "1 - Rough Notes/Homework/Network 8",
     "1 - Rough Notes/Homework/data mining 4",

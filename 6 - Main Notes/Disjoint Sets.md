@@ -1,3 +1,4 @@
+
 Tags: [[Data Structures]]
 # Disjoint Sets
 
@@ -9,7 +10,7 @@ Time complexities of weighted quick union:
 | --------- | -------------- | ------------- |
 | O(N)      | O($n \log n$ ) | O($n \log n$) |
 
-**Weighted Quick Union (Best implementation**
+**Weighted Quick Union (Best implementation)**
 The list of sets kinda sucked, and quick find is optimized for checking if nodes are connected. What if we could optimize the connect method. The way we can improve this is by turning the index of each value into a pointer, say:
 $$[-1, 0,1,-1,0,2,-1]$$
 Where each non negative value points to an index, and the benefit of this approach is that all we need to do in order to connect two nodes is to change the value of the root. The problem with this specific approach though is balancing trees since we only get log n with bushy trees. We fix this using Weighted quick union which means storing the size of each tree, and always merging the smaller tree with the larger tree. That last list would look like:

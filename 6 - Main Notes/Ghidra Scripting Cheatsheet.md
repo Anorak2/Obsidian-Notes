@@ -1,7 +1,7 @@
 
 2025-04-22
 
-Tags: [[Reverse Engineering]] [[tool]]
+Tags: [[Reverse Engineering]] [[Tools]]
 # Ghidra Scripting Cheatsheet
 
 We have access to the whole ```FlatprogramAPI``` which allows us to do a lot of things, documentation is listed at:

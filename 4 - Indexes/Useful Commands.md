@@ -25,6 +25,13 @@ gpg --cipher-algo AES256 --output test.gpg --symmetric test.out
 gpg --output test.out -d test.gpg 
 ```
 
+## Zip
+```
+zip out.zip dir
+```
+```
+zip --encrypt out.zip dir
+```
 
 
 [[Debugging Dnsmasq]]

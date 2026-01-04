@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Software Project Management]] [[Performance Measurement & Reliability]]
+Tags: [[Software Engineering]] [[Performance Measurement & Reliability]]
 # Software Metrics
 A metric is a measurement of the degree to which a property is present in a software system / posses some property. Often metric is used as a synonym to a measurement.
 
@@ -30,7 +30,7 @@ Extra Reading:
 https://dl.acm.org/doi/epdf/10.1145/1839379.1839400
 
 # References
-[[Software Development Life Cycle (SDLC)*]]
+[[Software Development Life Cycle (SDLC)]]
 
 https://www.geeksforgeeks.org/software-engineering/software-measurement-and-metrics/
 

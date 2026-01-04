@@ -10,15 +10,10 @@ Once we've broken out the instruction into independent segments, something you m
 
 ![[Pasted image 20251220181641.png]]
 
-**Hazards:**
-Something you may notice about pipelining is that sometimes instructions overlap in dangerous ways, it's easy to imagine a situation where the next instruction depends on the previous instruction resulting in an inaccuracy. This is what we call hazards, or situations that prevent the next instruction from starting in the next cycle. There are three general kinds of hazards
-- Structural hazards where a resource is busy. Ex a load and store with single memory access
-- Data hazards where we need to wait for the previous instruction to finish it's read/write. There are three types, a read after write (`RAW`), a write after read (`WAR`), and write after write (`WAR`)
-- Control hazards where deciding on a control action depends on a previous instruction
-
 **Forwarding:**
 - Forwarding allows for us to use a result immediately after it is computed, for example allowing us to pass a result from the Ex stage of one instruction directly to the ALU so it can be used for calculating the result of the next instruction.
 - This doesn't work for everything, since we can't forward a load-use dependency for example.
 - A `NOP`, or a stall, can be used to generate correct results regardless. These slow down the program but are sometimes required to get correct results, although an intelligent compiler can rearrange instructions in order to limit stalls.
 # References
 - [[CPU Data Path]]
+- [[Pipeline Hazards]]

@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Software Project Management]] [[Performance Measurement & Reliability]]
+Tags: [[Software Engineering]] [[Performance Measurement & Reliability]] 
 # Software Development Life Cycle (SDLC)
 
 

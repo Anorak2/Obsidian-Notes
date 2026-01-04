@@ -1,7 +1,7 @@
 
 2025-12-17
 
-Tags: [[Programming]] [[Software Project Management]]
+Tags: [[Programming]] [[Software Engineering]]
 # Architecture Types
 key design factors:
 - Development: Modularity, Testability, Ease of Integration  
@@ -69,6 +69,6 @@ Why use patterns?
 Architecture built around reusable services that represent business capabilities. Idea is to break down monolithic code into interoperable services. The core concepts are service, loose coupling, service contract, and service composition.
 
 # References
-[[Software Development Life Cycle (SDLC)*]]
+[[Software Development Life Cycle (SDLC)]]
 
 [[Performance Measurement & Reliability]]

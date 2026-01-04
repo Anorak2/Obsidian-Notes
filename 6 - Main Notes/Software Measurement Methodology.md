@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Software Project Management]]
+Tags: [[Software Engineering]]
 # Software Measurement Methodology 
 **Basic Process:**
 1. Formulation: The derivation of software measures and metrics appropriate for the representation of the software that is being considered.
@@ -22,4 +22,4 @@ Note that this is basically identical to the scientific method and to the Data M
 # References
 [[Scientific Method]]
 
-[[Software Development Life Cycle (SDLC)*]]
+[[Software Development Life Cycle (SDLC)]]

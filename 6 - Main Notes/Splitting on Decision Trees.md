@@ -1,7 +1,7 @@
 
 2025-09-11
 
-Tags: [[Data Mining]]
+Tags: [[Data Mining and Machine Learning]]
 # Splitting on Decision Trees
  **Finding the best attribute for a split**
 
@@ -63,4 +63,4 @@ The classification error at a node *t*
 $$Error(t)=1-\max_i[p_i(t)]$$
 This assigns the class with the most data as the prediction for the entire node. It has a **Maximum** of 1-1/c when records are equally distributed among all classes, implying the least interesting situation. Minimum of 0 when all records belong to one class, implying the most interesting situation.
 # References
-
+- [[Decision Trees]]

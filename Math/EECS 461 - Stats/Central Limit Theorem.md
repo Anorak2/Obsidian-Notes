@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 Given variables $X_1, X_2,...$, a sequence of iid variables with expected value $\mu_x$ and variance $\sigma_X^2$, the CDF of $Z_n$ is:
 

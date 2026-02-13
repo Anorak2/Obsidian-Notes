@@ -1,7 +1,7 @@
 
 2025-12-07
 
-Tags: [[Networking]] [[HTTP]] [[Web]]
+Tags: [[Networking and Network Security]] [[HTTP]] [[Web]]
 # Web Sockets
 
 

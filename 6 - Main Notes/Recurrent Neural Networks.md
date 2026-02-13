@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data Mining Lecture]] [[Data]]
+Tags: [[Data Mining and Machine Learning]] [[Data]]
 # Recurrent Neural Networks
 ![[Pasted image 20251210200847.png]]
 While CNNs are designed to process image data, RNNs are designed to handle sequential information. RNNs introduce state variables to store past information, together with the current inputs, to determine the current outputs. Due to the way RNNs loop they can actually be thought of as multiple "copies" of the same network, with each copy passing a message to a successor. There are downsides, notably in RNNs they struggle to remember state over the long term.
@@ -53,7 +53,7 @@ What information to forget
 $$C_t=f_t*C_{t-1}+i_t*C^{\sim}_t$$
 
 # References
-[[Artificial Neuron and Artificial Neural Networks]]
+[[Neural Networks]]
 
 [[Loss Functions]]
 

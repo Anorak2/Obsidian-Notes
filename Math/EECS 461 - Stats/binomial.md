@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 Binomial PMF counts the number of 1's in a block of n bits
 

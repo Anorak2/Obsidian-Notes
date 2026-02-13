@@ -15,6 +15,10 @@ Cache memory is the level of memory hierarchy closest to the CPU. Each line in t
 
 **Ideally** each word in memory directly refers to a unique address in the cache and the location is determined by memory address. The challenges with that is mismatched memory size, say the cache might be 8 MiB and the Ram might be 4 GB. Also, the operating system generates a fixed address that is often 64 or sometimes 32 bits long but a 2 MB cache would only need 15 bits leading to wasted space.
 
+## Instruction Caches
+While data and code used to be treated the exact same, engineers long ago realized that it was more efficient to have separate caches for code and for data. One example of how that might look is below.
+![[Pasted image 20260119223622.png]]
+The main reason why we do this is that the memory regions for the data and instruction caches are essentially independent, so by separating the two of them interference is reduced. 
 ## Useful Equations
 ![[Pasted image 20251112152841.png]]
 

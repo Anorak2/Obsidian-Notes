@@ -1,7 +1,7 @@
 
 2025-08-26
 
-Tags: [[Data Mining]] [[Data]] [[Data Structures]]
+Tags: [[Data Mining and Machine Learning]] [[Data]] [[Data Structures]]
 # Types of Data Sets
 ## Record
 

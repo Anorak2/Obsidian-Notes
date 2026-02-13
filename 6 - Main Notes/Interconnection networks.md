@@ -1,7 +1,7 @@
 
 2025-06-06
 
-Tags: [[Networking]] [[High Performance Computing]]
+Tags: [[Networking and Network Security]] [[High Performance Computing]]
 # Interconnection networks
 **Metrics**
 - Cost, the total number of links

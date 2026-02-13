@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[Networking]]
+Tags: [[Networking and Network Security]]
 # Congestion Control
 
 ## Causes of Congestion

@@ -1,7 +1,7 @@
 
 2025-12-07
 
-Tags: [[Networking]] 
+Tags: [[Networking and Network Security]] 
 # DNS Queries and Record Types
 ## Query Types
 ---

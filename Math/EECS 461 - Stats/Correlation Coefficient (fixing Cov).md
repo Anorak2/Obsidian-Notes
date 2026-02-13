@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 This should be called the [[Covariance]] coefficient but it isn't. this is what we use to normalize [[Covariance]] so that we can tell what a "lot" of covariance is.
 
 **DEFINITION** 

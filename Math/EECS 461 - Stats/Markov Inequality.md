@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 The Markov inequality is like the [[Chebychev Inequality]] and the [[Chernoff Boundary]] in that it deals with the bounds on RV tail probabilities. These are probabilities for values far from the mean.
  

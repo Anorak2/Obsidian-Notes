@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data Mining]] [[Data]] [[Algorithms]]
+Tags: [[Data Mining and Machine Learning]] [[Data]] [[Algorithms]]
 # DBSCAN
 DBSCAN is a Density-Based Clustering algorithm, In density based clustering we partition points into dense regions separated by not-so-dense regions. With DBSCAN the two main questions are how do we measure density, and what is a dense region.
 
@@ -39,7 +39,7 @@ DBSCAN
 - Space: $O(n)$ – only need to store point label
 
 # References
-[[Clustering and Clustering Analysis]]
+[[Clustering and Clustering Analysis*]]
 
 [[K-means Clustering]]
 

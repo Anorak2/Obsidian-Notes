@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 We already have results for a specific case since any linear combination of [[Gaussian (normal) CRV|Gaussian]] CRVs is Gaussian.
 

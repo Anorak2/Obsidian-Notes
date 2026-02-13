@@ -7,5 +7,7 @@
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "fix-table-size"
-  ]
+  ],
+  "nativeMenus": false,
+  "showRibbon": false
 }

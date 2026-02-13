@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Data Mining]] [[Artificial Intelligence]]
+Tags: [[Data Mining and Machine Learning]] [[Artificial Intelligence]]
 # Supervised Learning
 
 ## Setup

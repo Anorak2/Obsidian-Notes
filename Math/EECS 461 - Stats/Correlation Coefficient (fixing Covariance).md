@@ -1,2 +1,2 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]

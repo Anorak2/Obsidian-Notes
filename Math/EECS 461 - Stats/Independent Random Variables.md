@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 Two RVs are independent iff the joint PMF/PDF is the product of the marginals
 
 **PROPERTIES IF TWO VARS ARE INDEPENDENT**

@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 Erlang CRV is often used to model the time until the nth arrival of a Poisson arrival process
 
 **PDF**

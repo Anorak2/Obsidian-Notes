@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data Mining]] [[Data]] [[Algorithms]]
+Tags: [[Data Mining and Machine Learning]] [[Data]] [[Algorithms]]
 # Hierarchical Clustering
 This form of clustering Produces a set of nested clusters organized as a hierarchical tree. It can be visualized in a few ways, as a dendrogram, a tree like diagram that records the sequences of merges or splits, or the X-axis: data points, Y-axis: distance between clusters.
 ![[Pasted image 20251210225138.png]]
@@ -61,6 +61,6 @@ Several different approaches:
 	- Difficulty handling clusters of different sizes and non-globular shapes
 	- Breaking large clusters
 # References
-[[Clustering and Clustering Analysis]]
+[[Clustering and Clustering Analysis*]]
 
 [[K-means Clustering]]

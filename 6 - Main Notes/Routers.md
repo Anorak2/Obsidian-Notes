@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[Networking]]
+Tags: [[Networking and Network Security]]
 # Routers
 The main function of a router is to connect multiple networks and forward data packets from one network to another. A router also has multiple interfaces that each belong to a different IP network.
 

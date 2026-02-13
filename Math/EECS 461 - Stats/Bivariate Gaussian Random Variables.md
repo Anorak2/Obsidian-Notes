@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 **FORMULA**
 $$(2\pi \sigma_G \sigma_H \sqrt{1-\rho_{GH}^2})^{-1} (-1)\space exp((2(1-\rho_{GH}^2))^{-1}(\frac{g-\mu_G}{\sigma_g})^2+(\frac{2\rho_{GH}(g-\mu_G)(h-\mu_H)}{\sigma_g \sigma_H})^2+(\frac{h-\mu_H}{\sigma_h})^2)$$
 Where $\mu_G$ and $\mu_H$ are the means/EVs of G and H

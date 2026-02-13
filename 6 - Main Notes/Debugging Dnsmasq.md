@@ -20,6 +20,12 @@ if it exists go do:
 
 if these steps don't work then you are in uncharted territory o7
 
+
+## When Done
+```sudo systemctl disable dnsmasq```
+```sudo systemctl stop dnsmasq```
+
+pay attention to `dnsmasq.service`
 # References
 
 

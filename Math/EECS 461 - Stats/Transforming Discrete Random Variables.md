@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 It's often very useful or needed to transform a Random value into one or more derived RVs by math functions
 

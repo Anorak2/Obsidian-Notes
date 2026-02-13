@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 **PROPERTIES**
 - Te Sum/Integral of joint PMF/PDF over all variable values is 1

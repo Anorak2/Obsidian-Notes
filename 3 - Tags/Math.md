@@ -5,4 +5,4 @@
 
 [[Linear Algebra Bibliography]]
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]

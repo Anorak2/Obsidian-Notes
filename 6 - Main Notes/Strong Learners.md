@@ -1,7 +1,7 @@
 
 2025-11-13
 
-Tags:
+Tags: [[Data Mining and Machine Learning]]
 # Strong Learners
 ![[Pasted image 20251113141901.png]]
 Strong learners aren't anything particularly novel, instead a strong learner is the combination of several other weak learners that are combined to form a stronger classifier.
@@ -24,8 +24,7 @@ Use majority vote (sign of sum of predictions) to determine class of ensemble cl
 
 
 # References
-[[Logistic Regression]]
-
-[[Decision Tree]]
-
-[[Support Vector Machines (SVM) *]]
+- [[Logistic Regression]]
+- [[Decision Trees]]
+- [[Discriminate Analysis Quantifiers]]
+- [[Random Forest]]

@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 **PDF**
 $$P[k,p] = \begin{cases}  

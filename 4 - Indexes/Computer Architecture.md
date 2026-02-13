@@ -9,14 +9,13 @@
 - [[Multi-Data Path and Pipelining]]
 - [[CPU Branch Prediction]]
 
-**Caching**
+**Memory**
 - [[OS Memory Hierarchy]]
+- [[RAM Types]]
 - [[Cache Basics]]
 - [[Direct Mapped Caches]]
 - [[Cache Associativity]]
 - [[Cache Policies]]
-
-**Virtual Memory**
 - [[Virtual Memory and Paging]]
 
 

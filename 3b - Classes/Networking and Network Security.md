@@ -1,6 +1,7 @@
+
 [[Basic Networking Terminology]]
 [[OSI Model]]
-
+# Networking
 ## 2 - Application Layer
 ---
 [[SMTP]]
@@ -54,3 +55,17 @@
 ---
 [[Wireless Networks]]
 [[Multiple Access Protocols]]
+# Network Security
+- [[Network scanning (Nmap and Nessus)]]
+- [[Sniffing Network Traffic]]
+- [[Denial of Service Attacks and DDoS Attacks]]
+- [[ARP Attacks*]]
+- [[OSPF attack and defenses]]
+- [[BGP Security]]
+
+Wifi:
+- [[Wireless Network Cracking (WEP)]]
+- [[Wireless Network Cracking (WPA & WPA2)]]
+- [[WPA 3]]
+
+- [[Firewalls]]

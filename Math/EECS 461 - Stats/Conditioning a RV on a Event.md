@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 Given an event E with P[E] > 0, we can form the univariate/bivariate conditional PMF/PDF simply by:
 - Dividing the original PMF/PDF by P[E] AND

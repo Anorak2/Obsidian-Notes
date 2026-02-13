@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 Bivariate RVs are when we have exactly two random variables. Univariate RVs deal with points on a line, but bivariate RVs on the other hand deal with planes. The problem is with bivariate CDFs is that it can take any kind of geometric shape which is sometimes difficult to model.
 

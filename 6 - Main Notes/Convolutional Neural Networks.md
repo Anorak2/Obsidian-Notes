@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data Mining]] [[Data]]
+Tags: [[Data Mining and Machine Learning]] [[Data]]
 # Convolutional Neural Networks
 CNN's are used for comparing data where each data point is a vector, the most obvious example is for learning on image data. This is a very hard problem, so part of how CNN's work is by searching for specific smaller problems such as a birds beak.
 
@@ -47,7 +47,21 @@ Pooling is a way of taking an input and turning it into a smaller input that can
 #### Flattening
 Flattening is when we take our various arrays of inputs and literally flatten them, essentially just lining them up in a row to be used as an input in a neural network. For example if we have a 2d array with a fixed size width we can represent it as a 1d array and just translate the way we access it, same exact thing.
 
+## Building a CNN
+Keep the feature space wide and shallow in the initial stages of the network, and
+then make it narrower and deeper towards the end.
+
+1. Start by using smaller filters to collect as much local information as possible.
+2. Gradually increase the filter width to reduce the generated feature space width to represent more global, high-level and representative information.
+3. Use `3x3`, `5x5`, and `7x7` filter sizes for the convolutional layers for a moderate or small-sized image with a stride of 2. Stride is the number of pixels shifts over the input matrix, e.g., when the stride is 1 then we move the filters 1 pixel at a time.
+4. Use `2x2` or `3x3` filter sizes for Max Pooling.
+5. Larger filter sizes and strides may be used to shrink a large image to a moderate size and then go further as described above.
+6. Use classic networks like MobileNet, ShuffleNet, LeNet, AlexNet, VGG-16, VGG- 19 etc. as inspirations while building the architectures for your models.
+
+[More Details](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7)
+[More Details](https://towardsdatascience.com/mnist-cnn-python-c61a5bce7a19)
+- [Built on Keras](https://keras.io/)
 # References
-[[Artificial Neuron and Artificial Neural Networks]]
+[[Neural Networks]]
 
 [[Loss Functions]]

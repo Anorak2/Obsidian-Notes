@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 A random Variable **RV** maps outcomes of a sample space to numbers, though an RV is neither random nor a variable.
 
 RV: Y (upper case)

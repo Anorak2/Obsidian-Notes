@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data Mining]] [[Data]] [[Algorithms]]
+Tags: [[Data Mining and Machine Learning]] [[Data]] [[Algorithms]]
 # K-means Clustering
 ## Algorithm
 ---
@@ -51,5 +51,5 @@ K-means has problems when the data contains outliers.
 - One possible solution is to remove outliers before clustering
 
 # References
-[[Clustering and Clustering Analysis]]
+[[Clustering and Clustering Analysis*]]
 

@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 Describes cases where "things" happen randomly in time but with a known average number of occurrences over a unit of time
 
 **PMF**

@@ -1,15 +1,16 @@
 
 [[Performance Measurement & Reliability]]
 [[Concurrency]]
+[[Software Development]]
 #### Algorithms 
 [[Algorithms]]
 [[High Performance Computing]]
 #### Data
 [[Data Structures]]
 [[Databases]]
-[[Data Mining]]
+[[Data Mining and Machine Learning]]
 #### Communication
-[[Networking]]
+[[Networking and Network Security]]
 #### Security
 [[Reverse Engineering]]
 [[Security]]

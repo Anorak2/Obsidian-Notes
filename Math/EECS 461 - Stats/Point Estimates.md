@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 **Properties**
 Some of the properties of point estimates include bias, consistency, and accuracy

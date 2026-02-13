@@ -1,7 +1,7 @@
 
 2025-08-26
 
-Tags: [[Data Mining]] [[Data]]
+Tags: [[Data Mining and Machine Learning]] [[Data]]
 # Data Pre-processing
 
 **Aggregation**

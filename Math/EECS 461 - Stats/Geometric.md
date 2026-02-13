@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 What geometric does is count the number of events until we see a 1, this is also actually just a special case of the [[Pascal]] where k = 1
 
 **PMF**

@@ -1,6 +1,6 @@
 
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 Not to be confused with[[Correlation Coefficient (fixing Cov)| The correlation coefficient]]. 
 
 **DEFINITION**

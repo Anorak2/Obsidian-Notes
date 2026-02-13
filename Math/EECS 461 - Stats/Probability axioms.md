@@ -1,6 +1,6 @@
 
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 **Mathematical definition**: Probability is a mapping of events to numbers in [0, 1]
 
 So, if A is an event then 0<= P[A] <= 1, according to axioms

@@ -1,7 +1,7 @@
 
 2025-12-10
 
-Tags: [[Data Mining]] [[Data]]
+Tags: [[Data Mining and Machine Learning]] [[Data]]
 # Association Rule Mining
 Given a set of transactions, find rules that will predict the occurrence of an item based on the occurrences of other items in the transaction.
 

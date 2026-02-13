@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 
 This inequality is based on the [[Markov Inequality]] but it is much more useful. This is in part since the Chebychev is generally a tighter bound than the Markov, but what's interesting is that it requires both the mean and variance of Y 
 

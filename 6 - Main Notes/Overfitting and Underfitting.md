@@ -1,7 +1,7 @@
 
 2025-09-11
 
-Tags: [[Data Mining Lecture]]
+Tags: [[Data Mining and Machine Learning]]
 # Overfitting and Underfitting
 ![[Pasted image 20250911003704.png]]
 

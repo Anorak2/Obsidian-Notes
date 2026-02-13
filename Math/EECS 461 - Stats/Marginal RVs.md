@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 A [[Bivariate RVs|Joint PMF]] contains information about both RVs G and H, and their relationship. Information about the individual RVs is contained in the PMFs $P_g(g)$ and $P_H(h)$ which are called the **marginal PMFs** 
 
 **FINDING**

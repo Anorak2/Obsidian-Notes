@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 This one is related to [[Geometric]] and [[Poisson]], and actually just using a ceiling function will convert this into a geometric DRV
 
 **PDF**

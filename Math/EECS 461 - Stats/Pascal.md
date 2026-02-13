@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 The idea of how many number of events until we observe k 1's, except here we split that into $Y$ and $Z$.
 $Y =$ there are k-1 bits in the first e-1 bits
 Z = 1 in the $e^{th}$ bit. We stop counting when we see the last 1

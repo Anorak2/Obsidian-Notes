@@ -1,4 +1,5 @@
 
+ [[Math]]
 # Basic
 Every function has a two sections, the declarations and the predicates. Z works by combining set theory, where we model data as sets, and predicate logic to define clear rules.
 

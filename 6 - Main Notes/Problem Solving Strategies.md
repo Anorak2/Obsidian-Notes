@@ -31,7 +31,7 @@ Break a large problem down into component problems
 Approach the problem from an uncommon angle
 
 **Means-end Analysis**
-choose an action at each step that pushes you closer towards the goal
+Examine the situation and specifically the difference between the current state and the goal state and choose an action that pushes you closer towards the goal
 
 **Morphological**
 Examine the inputs and outputs of the system as a whole

@@ -1,5 +1,5 @@
 
-[[Stats Bibliography]]
+[[Statistics Bibliography]]
 **PDF**
 Y is a uniform(a,b) CRV if the PDF is form
 

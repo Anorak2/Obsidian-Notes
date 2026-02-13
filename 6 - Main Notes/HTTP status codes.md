@@ -1,7 +1,7 @@
 
 2024-12-24
 
-Tags: [[Programming]] [[Web]] [[Networking]]
+Tags: [[Programming]] [[Web]] [[Networking and Network Security]]
 # HTTP status codes
 ```1XX```
 This category is reserved for informational requests, and for the most part you just shouldn't use this category except when experimenting.

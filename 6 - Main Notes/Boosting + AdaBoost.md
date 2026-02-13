@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Data Mining]]
+Tags: [[Data Mining and Machine Learning]]
 # Boosting + AdaBoost
 An iterative procedure to adaptively change distribution of training data by focusing more on previously misclassified records
 - Initially, all N training instances are assigned equal weights

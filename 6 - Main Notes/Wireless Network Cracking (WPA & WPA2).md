@@ -1,7 +1,7 @@
 
 2025-04-24
 
-Tags: [[Security]] [[Networking]] [[Software Security Evaluation]] [[Tools]]
+Tags: [[Security]] [[Networking and Network Security]] [[Software Security Evaluation]] [[Tools]]
 # Wireless Network Cracking (WPA & WPA2)
 
 WPA, or Wireless Protected Access is a wireless communication protocol that is much more secure than a protocol like WEP.

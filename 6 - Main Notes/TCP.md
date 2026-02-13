@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[Networking]]
+Tags: [[Networking and Network Security]]
 # TCP
 TCP, or the Transmission Control Protocol, exists to provide reliable in order communication with congestion control, flow control, and congestion setup baked in. TCP is described in `RFC 793`
 
@@ -39,19 +39,27 @@ What happens if the network layer delivers faster than the application layer rem
 
 To fix this TCP "advertises" the free buffer space in the `rwnd` field of the TCP header. The Receiver buffer is often set to 4096 bits but many operating systems auto adjust the `rcvnbuffer`. The sender then limits the amount of unacked in flight data to the received `rwnd`, guaranteeing the buffer won't overflow.
 #### Three Way Handshake and Closing
-Client                                           Server
-------                                           ------
-   |                                                                                  |
-   | ----------------- SYN (Synbit =1, Seq = x) --------------------------> |
-   |                                                                                  |
-   | <--- SYN + ACK (Synbit = 1, Seq = y, AckBit = 1,  Ack = x+1) --------- |
-   |                                                                                  |
-   | ---------------- ACK (Ackbit = 1, Ack = y+1) ------------------------> |
-   |                                                                                  |
-   |  Connection Established
+```mermaid
+sequenceDiagram
+    Client->>+Server: SYN (Synbit =1, Seq = x)
+	Server->>+Client: SYN + ACK (Synbit = 1, Seq = y, AckBit = 1,  Ack = x+1)
+    Client->>+Server: ACK (Ackbit = 1, Ack = y+1)
+    Note over Client, Server: Connection Established
+```
+
 
 **Closing a Connection**
 ![[Pasted image 20251119230838.png]]
+
+```mermaid
+sequenceDiagram
+    Client->>+Server: FIN
+	Server->>+Client: ACK 
+    Server->>+Client: FIN
+	Client->>+Server: ACK 
+    Note over Client, Server: Connection Fully Closed
+```
+
 Fin ->        <- Ack       // One who sent fin can no longer send but still receive
 Ack ->      <- Fin
 

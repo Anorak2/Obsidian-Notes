@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Data Mining]]
+Tags: [[Data Mining and Machine Learning]]
 # Self Attention Networks (Transformer)
 Pipelined approach:
 Tokenization -> Input Layer -> Attention -> Feed Forward -> Output
@@ -18,6 +18,6 @@ This stage is where we understand the context of each token, or put another way 
 
 
 # References
-[[Artificial Neuron and Artificial Neural Networks]]
+[[Neural Networks]]
 
 [[Recurrent Neural Networks]]

@@ -39,7 +39,7 @@
 ## 5 - Network Layer - Control Plane
 ---
 [[OSPF and Intra IP Routing]]
-[[BGP]]
+[[Border Gateway Protocol (BGP)]]
 [[Routing Protocols]]
 [[ICMP]]
 
@@ -62,6 +62,7 @@
 - [[ARP Attacks*]]
 - [[OSPF attack and defenses]]
 - [[BGP Security]]
+- [[TCP Security]]
 
 Wifi:
 - [[Wireless Network Cracking (WEP)]]

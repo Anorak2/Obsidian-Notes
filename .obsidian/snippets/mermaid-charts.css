@@ -1,0 +1,4 @@
+.markdown-preview-view .mermaid svg {
+  max-width: 500px;
+  height: auto;
+}

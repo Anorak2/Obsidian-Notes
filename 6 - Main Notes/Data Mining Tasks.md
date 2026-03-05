@@ -45,4 +45,4 @@ Usually 99.9% of the data is considered normal and to create a classification mo
 - Interpretation / Knowledge
 
 # References
-
+- [[Dimensionality Reduction]]

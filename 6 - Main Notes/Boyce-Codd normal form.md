@@ -1,7 +1,5 @@
-Status: 
 
 Tags: [[Databases]] [[Data Structures]]
-
 # BCNF
 Requirements:
 - A schema is in the [[Third Normal Form]]

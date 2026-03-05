@@ -1,4 +1,5 @@
 
+docker exec -it postgres psql -U user -d db 
 2025-11-16
 
 Tags: [[Software Security Evaluation]] [[Dynamic Analysis]]

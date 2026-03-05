@@ -22,7 +22,7 @@
 - [[Quick Sort Variants]]
 - [[Counting Sort]]
 - [[Radix Sort]]
-- [[Best Sorting Algorithm]]
+- [[Optimal Sorting Algorithm*]]
 
 **File Compression**
 - [[Prefix Free Codes]]

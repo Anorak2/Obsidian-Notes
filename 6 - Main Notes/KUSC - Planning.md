@@ -1,8 +1,10 @@
-
+Next Meeting
+- set up static ip pool
+- get ansible scripts for install dependencies (vim, hpl) update etc
 
 ## Orange PI's
 **Turning Them ON**
-Use the good usb serial converter, don't daisy chain wires or it fucking breaks. If trying to screen in then unplug the ethernet first
+Use the good usb serial converter, don't daisy chain wires or it fucking breaks. If you're trying to screen in then unplug the ethernet first, and probably hdmi for good measure.
 
 **Providing Power to the Orange Pi's**
 viewing the pin stack so that it's close to you, on farthest right side there is one empty pin, then purple, then white. Purple if 5v and white is ground
@@ -13,8 +15,9 @@ viewing the pin stack so that it's close to you, on farthest right side there is
 http://www.orangepi.org/orangepiwiki/index.php/Orange_Pi_5
 - `sudo screen /dev/tty0 1500000`
 
- **Serial into Pi5**
+ **Getting into Pi5**
 - `screen /dev/ttyUSB0 1500000`
+- `ssh orangepi@ip.addr`
 
 ## Network Planning
 Ethernet connections:
@@ -29,3 +32,11 @@ if you view the ethernet ports from the front (where you plug it in) then WAN is
 | wan       | enP3p49s0               |
 | lan       | enP4p65s0               |
 
+Find the orangepi with `nmap -sN -p 22 172.16.50.*' 
+arp scan
+`sudo arp-scan --interface= -l`
+
+The dchp server 
+`isc-dhcp-server.service`
+
+## Ansible

@@ -15,3 +15,7 @@ First to be in 2NF, a schema must be in the [[First Normal Form]] as well as eve
 [[Third Normal Form]]
 
 [[Functional Dependencies]]
+
+
+
+

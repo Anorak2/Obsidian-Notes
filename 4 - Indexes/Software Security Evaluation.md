@@ -69,7 +69,7 @@ Ensuring valid state:
 
 ## Recon / Scouting
 - [[TheHarvester]] *
-- [[Basic Reconnaissance]] *
+- [[Basic Reconnaissance*]] *
 - [[Vulnerability Scans]] *
 
 ---

@@ -20,4 +20,4 @@ This stage is where we understand the context of each token, or put another way 
 # References
 [[Neural Networks]]
 
-[[Recurrent Neural Networks]]
+[[Recurrent Neural Networks (RNN)]]

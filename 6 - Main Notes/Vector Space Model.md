@@ -12,6 +12,8 @@ The vector space model has a t-dimensional vector space with the size of the voc
 **Model:**
 Represent the query as a weighted TF-IDF vector, represent each document as a weighted TF-IDF vector. Compute the cosine similarity score for the query vector and each document vector rank documents with respect to the query by score. Return the top K (e.g., K = 10) to the user.
 
+**Bag of Words Model**
+A bag of words model is a lot like a set but it allows for duplicates.
 ### Distance Measures
 **Euclidean Distance**
 Our first intuition should be to use euclidean distance, but this is a bad idea because it punishes vectors with different lengths. for example "good" and "good good" will be marked as far away despite the query being identical to the document.
@@ -48,7 +50,7 @@ $$BM25 = \sum_{t\in q} idf(t)\cdot\frac{tf_{t,d}(k_1+1)}{tf_{t,d}+k_1(1-b+b\cdot
 
 
 # References
-- [[Boolean Model]]
-- [[Document Frequency]]
+- [[Boolean Information Retrieval Model]]
+- [[Document Frequency Measures]]
 - [[Distance Measures]]
 

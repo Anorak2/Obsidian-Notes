@@ -31,6 +31,6 @@ This is when we divide a relation vertically by the columns and only keeping cer
 Mixing both of the previous two
 
 # References:
-[[CAP Theorem]]
+[[Security CAP Theorem]]
 
 [[Database Federation]]

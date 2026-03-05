@@ -52,7 +52,7 @@ A monitor is based around having a lock for mutual exclusion and condition varia
 
 Monitors, unlike semaphores, only allow one thread in at a time.
 # References
-[[Basic Synchronization Control]]
+[[Peterson's Synchronization Control]]
 
 [[Locking]]
 

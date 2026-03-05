@@ -77,8 +77,9 @@ When the connection begins, increase the rate exponentially until the first loss
 - Cut the `cwnd` to half on a triple dupe
 - Cut the `cwnd` to 1 MSS after timeout
 # References
-[[UDP]]
-[[Ports]]
-[[Reliable Data Transfer (RDT)]]
-[[Pipelined Protocols]]
-[[Congestion Control]]
+- [[UDP]]
+- [[Ports]]
+- [[Reliable Data Transfer (RDT)]]
+- [[Pipelined Protocols]]
+- [[Congestion Control]]
+- [[TCP Security]]

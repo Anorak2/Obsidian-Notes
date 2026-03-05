@@ -25,11 +25,11 @@ The worst way to do this would be to store every single edge connecting nodes, w
 | O(N)<br>  | O(N)    | O(N)        |
 
 **Quick Find** 
-We could, rather than that other stuff, just use an [[Arrays|array]] of integers such as 
+We could, rather than that other stuff, just use an [[Arrays*|array]] of integers such as 
 $$[4,4,4,5,4,5,6]$$ This is an appealing approach because this operation has an O(1) time for comparison since we can just look at two positions using array lookup and see if the integers match.
 
 | Construct | Connect | IsConnected |
 | --------- | ------- | ----------- |
 | O(N)      | O(N)    | O(N)        |
 # References
-[[Arrays]]
+[[Arrays*]]

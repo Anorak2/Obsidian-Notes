@@ -1,5 +1,5 @@
 Tags: [[Databases]]
-# CAP Theorem
+# Security CAP Theorem
 
 **Consistency**
 This is where we have the database in a consistent state, so an example where we care about consistency would be like having a bank account balance. On the other hand, if we don't care that might be say the number of likes on a twitter post.

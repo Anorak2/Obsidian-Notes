@@ -1,7 +1,7 @@
 
 2025-02-06
 
-Tags: [[Basic Reconnaissance]] [[Software Security Evaluation]] [[Security]] [[tool]
+Tags: [[Basic Reconnaissance*]] [[Software Security Evaluation]] [[Security]] [[tool]
 # Network Scanning
 We scan hosts connected to a network to determine live hosts, network topology, OS on each host, ports on each host, and vulnerabilities.
 
@@ -47,4 +47,4 @@ Sends a TCP ACK to a target port (violating TCP specification). If an RST is ret
 ## Open VAS
 https://github.com/greenbone/openvas-scanner
 # References
-[[Basic Reconnaissance]]
+[[Basic Reconnaissance*]]

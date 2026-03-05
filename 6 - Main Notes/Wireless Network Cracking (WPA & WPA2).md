@@ -8,7 +8,7 @@ WPA, or Wireless Protected Access is a wireless communication protocol that is m
 
 **WPA** uses the ```TKIP``` encryption and MIC (provides stronger Integrity than the ```CRC``` used in WEP) -> flaw in ```TKIP``` (retrieve the key stream from short packets to use for re-injection and spoofing)
 
-**WPA2** uses ```CCMP``` ([[Advanced Encryption Standard (AES)|AES]] based encryption mechanism) and MIC (message integrity check)
+**WPA2** uses ```CCMP``` ([[Advanced Encryption Standard (AES)*|AES]] based encryption mechanism) and MIC (message integrity check)
 ### Modes and Vulnerabilities
 **WPA Personal:**
 Also known as WPA-PSK or WPA2-PSK it's designed for home and small office networks and it doesn't require an authentication server. Each wireless network device authenticates with the access point using the same 256-bit key generated from a password or passphrase. Not requiring an authentication server is convenient but this means that it is vulnerable to offline password cracking.

@@ -74,5 +74,5 @@ BGPsec provides path validation by requiring Autonomous Systems to sign each of 
 The benefit is that path shortening attacks can't work in this system but it comes with challenges. This system leads to computation overhead at routers and there is the problem of being a first adopter due to limited support.
 
 # References
-- [[BGP]]
+- [[Border Gateway Protocol (BGP)]]
 

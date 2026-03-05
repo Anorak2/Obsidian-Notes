@@ -1,7 +1,7 @@
 
 2025-11-12
 
-Tags:
+Tags: [[Computer Architecture]] [[Data]]
 # Cache Basics
 Cache memory is the level of memory hierarchy closest to the CPU. Each line in the cache is also called a block and each block can store multiple words of 32 bits. If we find the data we are looking for in the cache we call that a **hit**, otherwise we call it a cache **miss**. On a cache hit we proceed as normal but on miss we stall the CPU pipeline and fetch the block from the next level of hierarchy.
 

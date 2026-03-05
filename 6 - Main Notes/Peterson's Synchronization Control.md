@@ -2,7 +2,7 @@
 2025-03-24
 
 Tags: [[Operating Systems]] [[Operating Systems]] [[Algorithms]]
-# Basic Synchronization Control
+# Peterson's Synchronization Control
 The most basic form of synchronization control is just having a producer and a consumer with a buffer in between. The problem is that sometimes we encounter a race condition. Race conditions are strictly bad since they lead to unintended behavior. 
 
 Some solutions include mutual exclusion (only one is allowed in at a time), progress (if no one executes a critical section then someone can enter its critical section), and bounded waiting such as waiting a certain amount of time.
@@ -28,10 +28,7 @@ This solution meets all three requirements since $P0$ and $P1$ can't be in the c
 
 
 # References
-[[Race Conditions]]
-
-[[Locks and Semaphores]]
-
-[[Processes]]
-
-[[Threads]]
+- [[Race Conditions]]
+- [[Locks and Semaphores]]
+- [[Processes]]
+- [[Threads]]

@@ -52,9 +52,82 @@ What information to forget
 	- $i_t$  decides how much we decided to update each state value.
 $$C_t=f_t*C_{t-1}+i_t*C^{\sim}_t$$
 
+## LLM usage
+Problem Formulation:
+- Train an RNN to write text, in this case patent abstracts.
+- Input a sequence of words and train the model to predict the very next word.
+- The words will be mapped to integers and then to vectors using an embedding matrix before being passed into an LSTM layer.
+- To write a new patent abstract:
+	1. pass in a starting sequence of words
+	2. make a prediction for the next word
+	3. update the input sequence
+	4. make another prediction
+	5. add the word to the sequence
+	6. continue for however many words we want to generate
+
+What Johnson just described above is exactly what generative AI does but with a transformer rather than a LSTM layer, and gargantuan datasets.
+
+Example Layers:
+![[Pasted image 20260222011639.png]]
+
+## Practical
+Features and Classes
+```Python
+features = []
+labels = []
+training_length = 50
+# Iterate through the sequences of tokens
+for seq in sequences:
+	# Create multiple training examples from each sequence
+	for i in range(training_length, len(seq)):
+		# Extract the features and label
+		extract = seq[i - training_length:i + 1]
+		# Set the features and label
+		features.append(extract[:-1])
+		labels.append(extract[-1])
+		features = np.array(features)
+```
+```Python
+from keras.models import Sequential
+from keras.layers import LSTM, Dense, Dropout, Masking, Embedding
+model = Sequential()
+# Embedding layer
+model.add(
+	Embedding(input_dim=num_words,
+		input_length = training_length,
+		output_dim=100,
+		weights=[embedding_matrix],
+		trainable=False,
+		mask_zero=True))
+		
+# Masking layer for pre-trained embeddings
+model.add(Masking(mask_value=0.0))
+
+# Recurrent layer (LSTM module)
+model.add(LSTM(64, return_sequences=False,
+	dropout=0.1, recurrent_dropout=0.1))
+	
+# Fully connected layer
+model.add(Dense(64, activation='relu'))
+
+# Dropout for regularization
+model.add(Dropout(0.5))
+
+# Output layer
+model.add(Dense(num_words, activation='softmax'))
+
+# Compile the model
+model.compile(
+optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+```
+
+Other approaches can be seen in [this repository](https://github.com/WillKoehrsen/recurrent-neural-networks/blob/master/notebooks/Deep%20Dive%20into%20Recurrent%20Neural%20Networks.ipynb), some options are:
+ - Two LSTM layers stacked on each other
+ - Or, one Bidirectional LSTM layer that processes sequences from both directions
+ - Or, more Dense layers
 # References
-[[Neural Networks]]
-
-[[Loss Functions]]
-
-[[Convolutional Neural Networks]]
+- [[Neural Networks]]
+- [[Loss Functions]]
+- [[Convolutional Neural Networks]]
+- [[Large Language Models (LLM's)]]
+- [[Tokenization]]

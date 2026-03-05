@@ -17,4 +17,4 @@ Common SDLC has the problem where testing occurs only at the very end, which can
 # References
 [[Software Metrics]]
 
-[[Architecture Types]]
+[[Common Architecture Types]]

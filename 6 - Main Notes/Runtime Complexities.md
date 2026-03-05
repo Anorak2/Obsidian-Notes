@@ -6,7 +6,7 @@ Tags: [[Data Structures]] [[Algorithms]] [[3 - Tags/Optimization|Optimization]]
 | ------------------------------------------------- | ----------- | ----------- | ----------- |
 | [[Binary Search Trees\|Bushy BST]]                | Comparable  | $O(\log n)$ | $O(\log n)$ |
 | [[Hash Tables\|RSC Hash Table]]                   | Hashable    | $O(1)^*$    | $O(1)^*$    |
-| [[Arrays\|Data Indexed Array]]                     | Chars/ASCII | $O(1)$      | $O(1)$      |
+| [[Arrays*\|Data Indexed Array]]                     | Chars/ASCII | $O(1)$      | $O(1)$      |
 | [[Tries]](BST, Hash Table, data indexed char map) | Strings     | $O(1)$      | $O(1)$      |
 **Graph Algorithms**
 

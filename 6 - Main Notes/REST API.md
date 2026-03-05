@@ -21,4 +21,4 @@ The rest API follows six constraints, and if you do all of them then it is said 
 
 [[HTTP in Go]]
 
-[[API]]
+[[API Definition]]

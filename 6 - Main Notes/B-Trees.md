@@ -9,7 +9,7 @@ B-Trees, or otherwise known as 2-3 or 2-3-4 trees are a way to fix the problems 
 | --------------- | ------------- | ------------- | ------------- |
 | Worst Case      | O($n \log n$) | O($n \log n$) | O($n \log n$) |
 **Idea**
-The basic idea is, what if instead of having an unbalanced tree we simply overstuffed nodes (sort of like [[Arrays]]). This is a pretty weird idea, but the problem is that eventually we can just end up with a list which has an O(n) traversal time.
+The basic idea is, what if instead of having an unbalanced tree we simply overstuffed nodes (sort of like [[Arrays*]]). This is a pretty weird idea, but the problem is that eventually we can just end up with a list which has an O(n) traversal time.
 
 The way that we fix that is that when a node gets too full, we can just move it up a layer instead.
 

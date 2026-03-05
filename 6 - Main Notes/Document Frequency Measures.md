@@ -13,7 +13,7 @@ $$idf_t = \log_{10} \frac{N}{df_t}$$
 We use $\log N/df_t$ instead of $N/df_t$ to “dampen” the effect of $idf$.
 
 $$idf_t=\ln \frac{N-df+t+0.5}{df_t+0.5}$$
-This version of IDF adds the 0.5 to avoid division by zero or extreme weights, it also makes the IDF more stable for rare terms. This version of IDF could actually be negative though, where highly frequent terms could contribute "negatively" to the search which requires solutions. This could be to remove stop words, normalize all negative idf to zero, or modify the formula to log(1 + {same core}) which is the most popular.
+This version of IDF adds the 0.5 to avoid division by zero or extreme weights, it also makes the IDF more stable for rare terms. This version of IDF could actually be negative though, where highly frequent terms could contribute "negatively" to the search which requires solutions. This could be to remove stop words, normalize all negative IDF to zero, or modify the formula to log(1 + {same core}) which is the most popular.
 
 Example using log 10:
 

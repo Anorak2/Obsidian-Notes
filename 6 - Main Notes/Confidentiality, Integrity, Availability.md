@@ -19,5 +19,5 @@ Other parts of security include:
 - Fairness
 - Non-repudiation
 # References
-[[CAP Theorem]]
+[[Security CAP Theorem]]
 This is basically the same thing

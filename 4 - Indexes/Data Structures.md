@@ -1,5 +1,5 @@
 **Mainly Array Based**
-- [[Arrays]]
+- [[Arrays*]]
 - [[List]]
 - [[Stacks]]
 - [[Disjoint Sets]]

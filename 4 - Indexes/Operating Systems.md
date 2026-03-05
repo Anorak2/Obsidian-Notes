@@ -1,4 +1,4 @@
-[[Boot Sectors]]
+[[OS Boot Sectors*]]
 
 **Basic Structures**
 - [[Evolution of Operating Systems]]
@@ -10,7 +10,7 @@
 - [[Processes]]
 - [[Inter-Process Communication]]
 - [[Threads]]
-- [[Basic Synchronization Control]]
+- [[Peterson's Synchronization Control]]
 - [[Locks and Semaphores]]
 
 - [[Deadlocks]]

@@ -14,4 +14,4 @@ Centralized database systems are ones that run on a single computer system which
 - Reliability problems
 
 # References
-[[CAP Theorem]]
+[[Security CAP Theorem]]

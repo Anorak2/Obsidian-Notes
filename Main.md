@@ -1,26 +1,26 @@
 
-[[Performance Measurement & Reliability]]
-[[Concurrency]]
-[[Software Development]]
+- [[Performance Measurement & Reliability]]
+- [[Concurrency]]
+- [[Software Development]]
 #### Algorithms 
-[[Algorithms]]
-[[High Performance Computing]]
+- [[Algorithms]]
+- [[High Performance Computing]]
 #### Data
-[[Data Structures]]
-[[Databases]]
-[[Data Mining and Machine Learning]]
+- [[Data Structures]]
+- [[Databases]]
+- [[Data Mining and Machine Learning]]
 #### Communication
-[[Networking and Network Security]]
+- [[Networking and Network Security]]
 #### Security
-[[Reverse Engineering]]
-[[Security]]
-[[Software Security Evaluation]]
+- [[Reverse Engineering]]
+- [[Security]]
+- [[Software Security Evaluation]]
 #### Low Level
-[[Operating Systems]]
-[[Computer Architecture]]
+- [[Operating Systems]]
+- [[Computer Architecture]]
 
 **Meta:**
-[[Software Engineering]]
+- [[Software Engineering]]
 
 
 

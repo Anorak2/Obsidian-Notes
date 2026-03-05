@@ -34,7 +34,7 @@ features:
 - Real time data integration
 - Dynamic query translation and integration
 #### Middleware Based Federation
-This means sitting between the application and the databases, providing a federated interface. The middleware handles query routing, data integration, etc. I imagine this as functioning similarly an [[API]].
+This means sitting between the application and the databases, providing a federated interface. The middleware handles query routing, data integration, etc. I imagine this as functioning similarly an [[API Definition]].
 
 features:
 - The middleware handles a bunch of stuff for you

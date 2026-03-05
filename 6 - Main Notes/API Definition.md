@@ -2,8 +2,7 @@
 2024-12-25
 
 Tags: [[Programming]] [[Servers]]
-# API
-
+# API Definition
 An application programming interface is a type of software interface offering a service to other pieces of software, and unlike a user interface it is designed specifically for software to software connection.
 
 #### Categories

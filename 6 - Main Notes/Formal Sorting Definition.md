@@ -22,4 +22,4 @@ We can define an inversion as a pair of elements that are out of order with resp
 
 # References
 
-[[Best Sorting Algorithm]]
+[[Optimal Sorting Algorithm*]]

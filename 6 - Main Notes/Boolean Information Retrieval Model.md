@@ -2,7 +2,7 @@
 2026-02-02
 
 Tags: [[EECS 767]]
-# Boolean Retrieval
+# Boolean Information Retrieval Model
 This is the most basic model possible, we don't care about any fancy notions we simply return items with keyword matching.
 
 ### Overview:

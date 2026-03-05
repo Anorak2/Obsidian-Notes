@@ -6,7 +6,8 @@
   "monospaceFontFamily": "",
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
-    "fix-table-size"
+    "fix-table-size",
+    "mermaid-charts"
   ],
   "nativeMenus": false,
   "showRibbon": false

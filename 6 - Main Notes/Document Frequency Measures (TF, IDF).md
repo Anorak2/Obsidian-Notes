@@ -1,9 +1,8 @@
 
 2026-02-09
 
-Tags: [[EECS 767]]
-# Document Frequency
-## Basic DF and IDF
+Tags: [[EECS 767]] [[Data]] [[Textual Data]]
+# Document Frequency Measures (TF, IDF)
 **Document Frequency:** or $tf_{t,d}$ of term $t$ in document $d$ is defined as the number of times that $t$ occurs in $d$.
 
 However sometimes words have very high frequency, such as "a" or "and", meaning that rare terms will give us more information. This leads to a trade off where the higher the term frequency the more frequent terms, but less useful, and with a dower $df$ there are rare more informative terms.
@@ -30,8 +29,6 @@ Example using log 10:
 This is the most well known weighting scheme in information retrieval, and it increases with the number of terms in the document and with the rarity of terms in the collection
 $$w_{t,d}=tf_{d,f}*idf_t= tf_{t,d}*\log_{10}\frac{N}{df_t}$$
 
-**Variants**
- 
 # References
 - 
 

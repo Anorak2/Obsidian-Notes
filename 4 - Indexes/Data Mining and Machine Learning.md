@@ -21,14 +21,19 @@
 	- [[Sequential Search (Feature Selection)]]
 	- [[Simulated Annealing (Feature Selection)]]
 - [[Types of Data Sets]]
+- [[Dealing with Imbalanced Datasets]] 
 ## Supervised Models
+probabilistic:
 - [[Logistic Regression]]
-- [[Naive Bayes Classifier]]
 - [[Discriminate Analysis Quantifiers]]
+- [[Naive Bayes Classifier]]
+
+Non-probabilistic:
 - [[K nearest Neighbors (kNN)]]
 - [[Support Vector Machines (SVM)]]
 - [[Decision Trees]]
 	- [[Splitting on Decision Trees]]
+
 - [[Strong Learners]]
 	- [[Random Forest]]
 	- [[Model Boosting + AdaBoost]]

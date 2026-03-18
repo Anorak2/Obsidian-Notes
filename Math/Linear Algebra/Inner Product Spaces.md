@@ -1,7 +1,7 @@
 
 [[Linear Algebra Bibliography]]
 
-The [[vector space]] V with an [[Inner Product]] is called an Inner product space
+The [[vector space*]] V with an [[Inner Product]] is called an Inner product space
 
 **Properties**
 Let V be an inner product space, let $u,v \in V$  two vectors and c be a scalar

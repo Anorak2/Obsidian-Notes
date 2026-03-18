@@ -11,7 +11,7 @@ DNS, or Domain Name System, is a distributed database that exists as a hierarchy
 These servers are incredibly important to the internet, they serve as the top level in the DNS system. These servers return the appropriate authoritative name server for the appropriate domain. 
 
 **Top Level Domain Servers (TLD)**
-TLD servers are responsible for all .com, .edu, .org, .net, .edu, and all top level country domains, and they are in charge of routing to all websites inside of their domain.
+TLD servers are responsible for all .com, .edu, .org, .net, and all top level country domains, and they are in charge of routing to all websites inside of their domain.
 
 **Authoritative DNS servers**
 This server belongs to an organization and it is responsible for providing authoritative hostname to IP mappings for that organizations named hosts.
@@ -19,7 +19,12 @@ This server belongs to an organization and it is responsible for providing autho
 **Local DNS Servers**
 These don't belong in any particular place in the hierarchy, and it is maintained by each ISP. When a host makes a DNS query, a query is sent to the local DNS server that has a cache of recent name to address pairs, although this cache can be out of date.
 
+**DNS Zones**
+DNS tree is divided into zones. Each zone is responsible for managing its subtrees. Each zone has its Authoritative Name Servers with domain information stored as a zone record. 
+
 # References
-[[IP v4 Protocol]]
-[[IP v6 Protocol]]
+- [[IP v4 Protocol]]
+- [[IP v6 Protocol]]
+- [[DNS Queries]]
+- [[DNS Security]]
 

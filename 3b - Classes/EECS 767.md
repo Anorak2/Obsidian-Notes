@@ -1,29 +1,29 @@
 
+[[Information Retrieval Basics]]
 
+ **Pre-processing text**
+- [[Tokenization]]
+- [[Statistical Properties of Text (Zipf)]]
+- [[Normalizing Text]]
+- [[Stop Word Removal]]
 
-- [[Information Retrieval Basics]]
+**text algorithms and features**
+- [[Document Frequency Measures (TF, IDF)]]
+- [[BM-25]]
+
+**IR Systems**
 - [[Evaluating Information Retrieval]]
 - [[Boolean Information Retrieval Model]]
 	- add query processing
-- [[Document Frequency Measures]]
 - [[Vector Space Model]]
-	- [[Efficient Cosine Ranking]]
-- [[Tokenization]]
-- [[Normalizing Words]]
-- [[Zipf Distribution]]
-- [[BM-25]]
-- [[TF-IDF]]
-- [[Full IR System]]
-	- [[User Relevance Feedback*]]
-	- [[Search Query Expansion]]
-	- [[Search Personalization*]]
-		- [[Location Sensitive Features]]
-	
+	- [[Efficient Cosine Ranking (*pruning)]]
+- [[Full IR in Traditional Lookup Systems]]
+- [[Full IR in Modern Web Systems]]
 
-- [[IR - Exam 1 Study Guide]]
-
-https://tartarus.org/martin/PorterStemmer/def.txt
-
+ **Other**
+- [[User Relevance Feedback]]
+- [[Search Query Expansion]]
+- [[Search Personalization]]
 
 
 40% final score
@@ -40,3 +40,6 @@ topics in order:
 - vector space model
 - evaluation
 - relevance feedback, query expansion, personalized search
+
+
+

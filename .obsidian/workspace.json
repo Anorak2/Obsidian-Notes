@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5031df22f84b1dfd",
+            "id": "b316942ee5c9c028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Denial of Service Attacks and DDoS Attacks.md",
+                "file": "4 - Indexes/Data Mining and Machine Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Denial of Service Attacks and DDoS Attacks"
+              "title": "Data Mining and Machine Learning"
             }
           },
           {
-            "id": "9f173a8e38d4b766",
+            "id": "7f959b8970aaec23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3b - Classes/Networking and Network Security.md",
+                "file": "6 - Main Notes/Dealing with Imbalanced Datasets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Networking and Network Security"
+              "title": "Dealing with Imbalanced Datasets"
             }
           },
           {
-            "id": "f937d75f8b190a93",
+            "id": "58c69ad300ae03c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Simulated Annealing (Feature Selection).md",
+                "file": "6 - Main Notes/Links to Documentation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Simulated Annealing (Feature Selection)"
+              "title": "Links to Documentation"
+            }
+          },
+          {
+            "id": "158aec34f85710d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Curse ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,8 +157,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,54 +219,54 @@
       "templates:Insert template": false
     }
   },
-  "active": "f1e15c407a0e37c0",
+  "active": "158aec34f85710d4",
   "lastOpenFiles": [
+    "3b - Classes/SOC 104.md",
+    "2 - Source Material/images/Pasted image 20260212230419.png",
+    "2 - Source Material/images/Pasted image 20260309145847.png",
+    "TODO.md",
+    "Main.md",
+    "6 - Main Notes/Graphs.md",
+    "6 - Main Notes/Runtime Complexities.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/Links to Documentation.md",
+    "7 - writing/images/Pasted image 20260313212358.png",
+    "7 - writing/Sociology Photo Essay P1.md",
+    "7 - writing/images",
+    "7 - writing/images/Pasted image 20260313211936.png",
+    "7 - writing/9-4-25    On Familiarity.md",
+    "7 - writing/9-24-25 exercise.md",
+    "7 - writing/0.   Writing.md",
+    "7 - writing",
+    "writing",
+    "-",
+    "7",
+    "6 - Main Notes/Prompt Injection Techniques.md",
+    "6 - Main Notes/BGP Security.md",
+    "Analytics 2.0.md",
+    "README.md",
     "To Study.md",
-    "1 - Rough Notes/Abandonend?/A* Search Algorithm.md",
+    "6 - Main Notes/Simulated Annealing (Feature Selection).md",
+    "6 - Main Notes/Dealing with Imbalanced Datasets.md",
+    "2 - Source Material/images/Pasted image 20260312004046.png",
+    "2 - Source Material/images/Pasted image 20260312003221.png",
+    "4 - Indexes/Data Mining and Machine Learning.md",
+    "3b - Classes/Networking and Network Security.md",
+    "6 - Main Notes/ARP.md",
+    "6 - Main Notes/Denial of Service Attacks and DDoS Attacks.md",
+    "6 - Main Notes/DNS Security.md",
+    "3b - Classes/EECS 767.md",
+    "6 - Main Notes/OSPF attack and defenses*.md",
+    "6 - Main Notes/Evaluating Information Retrieval.md",
+    "2 - Source Material/images/Pasted image 20260309145932.png",
+    "2 - Source Material/images/Pasted image 20260309140349.png",
+    "2 - Source Material/images/Pasted image 20260309135823.png",
     "4913",
     "TODO.md~",
-    "TODO.md",
     "TODO.m",
     "2 - Source Material/images/Pasted image 20251003142419.png",
-    "2 - Source Material/images/Pasted image 20251003141251.png",
-    "1 - Rough Notes/Z notes.md",
-    "1 - Rough Notes/Abandonend?/Boot Loaders.md",
-    "1 - Rough Notes/Abandonend?/Equivalence of Unrestricted Grammars and Turing Machines.md",
-    "1 - Rough Notes/Abandonend?/HTTP in Go.md",
-    "1 - Rough Notes/Abandonend?/Race Conditions.md",
-    "1 - Rough Notes/Abandonend?/Recurrence Relation.md",
-    "1 - Rough Notes/Abandonend?/Relational Databases.md",
-    "1 - Rough Notes/Abandonend?/Stream Ciphers.md",
-    "1 - Rough Notes/Abandonend?/Tables.md",
-    "1 - Rough Notes/Abandonend?/Update Sets.md",
-    "1 - Rough Notes/Abandonend?/Virtualization.md",
-    "1 - Rough Notes/Abandonend?/Master's Theorem.md",
-    "6 - Main Notes/Links to Documentation.md",
-    "1 - Rough Notes/666 Assignment 1.md",
-    "6 - Main Notes/TCP Security.md",
-    "6 - Main Notes/Principle Component Analysis (PCA) (feature transform).md",
-    "6 - Main Notes/Denial of Service Attacks and DDoS Attacks.md",
-    "3b - Classes/Networking and Network Security.md",
-    "4 - Indexes/Data Mining and Machine Learning.md",
-    "6 - Main Notes/Simulated Annealing (Feature Selection).md",
-    "2 - Source Material/images/Pasted image 20260304223910.png",
-    "6 - Main Notes/Dimensionality Reduction.md",
-    "6 - Main Notes/Sequential Search (Feature Selection).md",
-    "6 - Main Notes/Supervised Learning*.md",
-    "2 - Source Material/images/Pasted image 20260222011639.png",
     "Recently Modified and Created.base",
-    "2 - Source Material/images/Pasted image 20260218142344.png",
-    "2 - Source Material/images/Pasted image 20260217165617.png",
     "1 - Rough Notes/666 Assignment 1.pdf",
-    "2 - Source Material/images/Pasted image 20260212231332.png",
-    "2 - Source Material/images/Pasted image 20260212231227.png",
-    "2 - Source Material/images/Pasted image 20260212231056.png",
-    "2 - Source Material/images/Pasted image 20260212231000.png",
-    "7 - essays",
-    "1 - Rough Notes/Homework/Network 8",
-    "1 - Rough Notes/Homework/data mining 4",
-    "1 - Rough Notes/NEt hw",
-    "1 - Rough Notes/Data Mining HW 3",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

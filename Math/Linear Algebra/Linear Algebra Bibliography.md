@@ -36,7 +36,7 @@ c & d \\
 [[Rank]]
 
 [[Vectors in n spaces]]
-[[vector space]]
+[[vector space*]]
 [[Subspaces]]
 [[Eigenvalues]]
 [[Eigen Spaces]]

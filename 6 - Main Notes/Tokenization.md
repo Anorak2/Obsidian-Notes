@@ -1,9 +1,19 @@
 
 2026-02-22
 
-Tags: [[Data Mining and Machine Learning]] [[EECS 767]]
+Tags: [[Data Mining and Machine Learning]] [[EECS 767]] [[Data]]
 # Tokenization
+Tokenization is chopping documents into pieces, throw away “useless” stuff (though in modern times we stopped this". When we are done we are left with individual tokens ex \["Friends", "Countrymen", "Romans"\]. 
 
+## Information Retrieval
+In information retrieval it can be useful to emit certain tokens that don't add a ton of value. However in modern systems we want to keep a lot more than some may think. For example we explicitly want to keep all of the following:
+- words
+- numbers and numeric patterns: dates, versions, error codes
+- URLs, emails, @handles, `#hashtags`
+- code like tokens: snake_case, `camelCase`, dotted.paths, operators
+- emoji/emoticons (often useful in social/content retrieval)
+
+However there are clear issues with tokenization ex, Finland’s capital → Finland? Finlands? Finland’s? Or what about San Franciso, is that one token or two?
 
 ## Keras
 As with most text related applications the data is tokenized by:

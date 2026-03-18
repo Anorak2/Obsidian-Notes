@@ -60,8 +60,9 @@
 - [[Sniffing Network Traffic]]
 - [[Denial of Service Attacks and DDoS Attacks]]
 - [[ARP Attacks*]]
-- [[OSPF attack and defenses]]
+- [[OSPF attack and defenses*]]
 - [[BGP Security]]
+- [[DNS Security]]
 - [[TCP Security]]
 
 Wifi:
@@ -70,3 +71,42 @@ Wifi:
 - [[WPA 3]]
 
 - [[Firewalls]]
+
+Protocols
+– IP (and ICMP)
+– OSPF and BGP
+– TCP and UDP
+– DNS
+■ Security problems
+– Lack of authentication – spoof IP address
+– Lack of integrity – spoof header fields and payload
+– Lack of confidentiality
+– Protocol asymmetries
+
+Given an attack, you should know:
+– Which layer it exploits
+– Which protocol it exploits
+– Which vulnerability it exploits
+– Root causes of the vulnerabilities
+– Its consequences
+– Countermeasure or possible strategies to defend against it
+– Limitations of the defense
+
+Network-layer attack
+– ARP attacks
+– OSPF attacks
+– BGP attacks, e.g., prefix hijacking
+– DNS attacks, e.g., cache poisoning
+■ TCP-layer layer
+– Off-path attacks
+■ DoS attacks
+– Reflection attacks
+– Amplification attacks
+
+Mitigation methods
+– Filtering
+■ Patching existing protocols
+– RPKI and BGPSec
+– DNSSEC
+
+Lectures 3-7

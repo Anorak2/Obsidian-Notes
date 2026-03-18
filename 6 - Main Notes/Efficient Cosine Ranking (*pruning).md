@@ -5,6 +5,9 @@ Tags: [[EECS 767]]
 # Efficient Cosine Ranking
 In a vector space model computing the score can take a large amount of work on the CPU, and generally we have a tight window we are aiming for with Latency. This means that it just isn't possible to exhaustively score every document on every query.
 
+## Pruning
+only consider documents containing at least N parts of the query
+## Efficient
 **Safe Ranking** is when the methods guarantee that the k-docs that are returned are the K absolute highest scoring documents, however if most scenarios like web search it is ok to be non-safe.
 
 To do this we want to find the K docs in the collection "nearest" to the query, which is the K-nearest neighbor problem. Generally this suffers from the curse of dimensionality, making it hard. To simplify our problem we assume no weighting on query terms, assuming each appears once, and then we don't normalize the query. This helps but not too much.

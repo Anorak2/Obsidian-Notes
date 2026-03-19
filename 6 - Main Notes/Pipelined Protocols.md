@@ -19,4 +19,4 @@ The sender can have up to N unacked packets in the pipeline and the receiver sen
 
 The **problem** with selective repeat is that if the receiver sends an ACK for a packet it has no way of knowing if that ACK reached it's target, so the sender may repeatedly send packets the receiver doesn't expect. The **fix** is that the size of the sequence numbers should be at least two times the size of the window size.
 # References
-
+- [[TCP]]

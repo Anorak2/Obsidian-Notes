@@ -1,7 +1,7 @@
 
 2025-02-04
 
-Tags: [[Security]] [[Software Security Evaluation]]
+Tags: [[Software Security]]
 # Basic Reconnaissance
 
 Step 1, open source intelligence gathering
@@ -16,7 +16,7 @@ Step 2, Scanning
 - ```theHarvester -d eecs.ku.edu -l 500 -b all -v -t -n```
 
 # References
-[[Network scanning (Nmap and Nessus)]]
+[[Network + Port scanning (Nmap and Nessus)]]
 
 [[TheHarvester]]
 

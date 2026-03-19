@@ -1,4 +1,4 @@
-Tags: [[Graphs]] [[Algorithms]]
+Tags: [[Graph Datastructure]] [[Algorithms]]
 
 # Spanning Tree and Minimum Spanning Tree
 
@@ -18,9 +18,9 @@ We start from an arbitrary starting node.
 - Repeatedly add the shortest edge that has one node inside of the MST under construction
 - Repeat until V-1 edges
 
-This algorithm works but if we do this naturally then our implementation is pretty inefficient. Instead what we do is we can store the distance to a node, and each time we can relax all of the other nodes after finding the lowest. What is interesting is that Prim's and [[Graphs Shortest Path Problem - Dijkstra's|Dijkstra's]] algorithms are actually the same except that Dijkstra's considers distance from the source and Prim's distance from the tree.
+This algorithm works but if we do this naturally then our implementation is pretty inefficient. Instead what we do is we can store the distance to a node, and each time we can relax all of the other nodes after finding the lowest. What is interesting is that Prim's and [[Dijkstra's Algorithm|Dijkstra's]] algorithms are actually the same except that Dijkstra's considers distance from the source and Prim's distance from the tree.
 # References
 
-[[Graphs]]
+[[Graph Datastructure]]
 
-[[Graphs Shortest Path Problem - Dijkstra's]]
+[[Dijkstra's Algorithm]]

@@ -1,7 +1,7 @@
 
 2025-09-03
 
-Tags: [[Computer Science]] [[Software Security Evaluation]] 
+Tags: [[Computer Science]] [[Software Security]] 
 # Rice's Theorem
 > All non-trivial semantic properties of programs are undecidable
 

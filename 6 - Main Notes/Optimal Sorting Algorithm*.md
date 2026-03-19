@@ -10,7 +10,7 @@ When is [[Radix Sort]] faster?
 - Strings are very similar to eachother
 	- Each comparison costs $\Theta(W)$ time
 
-When is [[Merge Sort]] faster?
+When is [[Merge Sort*]] faster?
 - if strings are highly dissimilar to eachother
 	- each Merge Sort comparison is very fast
 
@@ -20,4 +20,4 @@ if we have 100 strings each with 1000 characters that are identical then Radix s
 
 [[Radix Sort]]
 
-[[Merge Sort]]
+[[Merge Sort*]]

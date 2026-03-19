@@ -33,10 +33,11 @@ if you view the ethernet ports from the front (where you plug it in) then WAN is
 | lan       | enP4p65s0               |
 
 Find the orangepi with `nmap -sN -p 22 172.16.50.*' 
-arp scan
+ARP scan
 `sudo arp-scan --interface= -l`
 
-The dchp server 
+The DHCP server 
 `isc-dhcp-server.service`
 
 ## Ansible
+The ansible configuration files are on the head orangepi 5+, the top one on the stack. The password to the locked vault is `orangepi`

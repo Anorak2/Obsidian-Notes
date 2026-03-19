@@ -22,4 +22,4 @@ Note that this is basically identical to the scientific method and to the Data M
 # References
 [[Scientific Method]]
 
-[[Software Development Life Cycle (SDLC)]]
+[[Software Development Life Cycle (SDLC)*]]

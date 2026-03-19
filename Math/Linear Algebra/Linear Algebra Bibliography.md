@@ -21,7 +21,7 @@ c & d \\
 [[Matrix Multiplication]]
 [[Transpose of a Matrix]]
 ## Determinants
-[[Determinant of 2x2 Matrix]]
+[[Determinant of 2x2 Matrix*]]
 [[Minors of a matrix]]
 [[Co-factors of a Matrix]]
 [[Determinants with Cofactor expansion]]

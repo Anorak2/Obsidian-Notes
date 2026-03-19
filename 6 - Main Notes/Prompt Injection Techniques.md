@@ -1,7 +1,7 @@
 
 2026-03-18
 
-Tags: [[Security]]
+Tags: [[Software Security]]
 # Prompt Injection Techniques
 
 ## Simple

@@ -46,4 +46,4 @@ This approach allows the smaller jobs to "fill in" the cracks, and this algorith
 
 yes we can using approximation schemes
 # References
-[[Multiprocessor Scheduling Notation]]
+[[Multiprocessor Scheduling Notation*]]

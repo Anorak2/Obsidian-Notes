@@ -8,7 +8,7 @@ The main idea here is to store the solutions to sub-problems so that we only nee
 To make sure that a value is only computed once we store the results of calls either top down (memoization) or bottom up (tabulation)
 
 **When to use**
-1. Optimal substructure. This means that we use the optimal results of subproblems to achieve the optimal result of the bigger problem. For example when we're doing [[Graphs Shortest Path Problem - Dijkstra's|Dijkstra's algorithm]] we also need to find the path to every intermediate value between the source node and the destination node.
+1. Optimal substructure. This means that we use the optimal results of subproblems to achieve the optimal result of the bigger problem. For example when we're doing [[Dijkstra's Algorithm|Dijkstra's algorithm]] we also need to find the path to every intermediate value between the source node and the destination node.
 2. Overlapping subproblems: This is when we need to repeatedly solve the same problems, for example the Fibonacci problem we need to calculate n-1 and n-2 to calculate n, and so on.
 
 **Approaches**

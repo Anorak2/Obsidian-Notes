@@ -30,4 +30,4 @@ and we classify by the largest posterior numerator
 
 # References
 - [[Bayes Theorem]]
-- [[Discriminant Analysis Classifiers]]
+- [[Discriminant Analysis Classifiers*]]

@@ -65,5 +65,5 @@ every router contains a forwarding table (aka flow table) with the "match+action
 
 # References
 [[Network Layer Responsibilities]]
-[[IP v4 Protocol]]
+[[IPv4 Protocol]]
 [[Routing Protocols]]

@@ -14,6 +14,4 @@ Solid values will always compare low to gas values, and when two solid values ar
 
 
 # References
-[[Quick Sort]]
-
-[[Quick Sort Variants]]
+- [[Quick Sort]]

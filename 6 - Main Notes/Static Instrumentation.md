@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[Software Security Evaluation]]
+Tags: [[Software Security]]
 # Static Instrumentation
 Static instrumentation tends to be **easier**, often we do this earlier in development in a basic form by using print statements to see if they get hit and executed. Often Static Instrumentation tools are built directly into compilers, including cases like LLVM coverage tools and GCC coverage tools, there is also google's Closure compiler is also relevant here. 
 
@@ -50,4 +50,4 @@ This will generate a file that isn't human readable so we'll use extra tools to 
 
 ![[Pasted image 20251116204848.png]]
 # References
-[[Dynamic Instrumentation]]
+[[Dynamic Instrumentation*]]

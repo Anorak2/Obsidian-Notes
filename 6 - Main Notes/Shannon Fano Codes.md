@@ -10,8 +10,6 @@ We repeat this process of splitting into two equal groups and then recursing dow
 When we finish this process we end up with a Tree with each character as a leaf node, however while Shannon-Fano is good it is actually **not optimal**
 
 # References
-[[Prefix Free Codes]]
-
-[[Tree]]
-
-[[Huffman Coding]]
+- [[Prefix Free Codes]]
+- [[Tree*]]
+- [[Huffman Coding]]

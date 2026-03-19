@@ -1,7 +1,7 @@
 Tags: [[Data Structures]]
 # Binary Search Trees
 
-Binary search trees are pretty well covered but refreshers never hurt. The idea of a BST is that we have a bunch of things, as long as they can be compared, and we want to search through our set and find if an item is in it. We can search efficiently using a [[Tree]]. Also, although the worst case is O(n) when dealing with randomized data we usually generate bushy trees meaning that for a lot of cases we will get O($\log n$) 
+Binary search trees are pretty well covered but refreshers never hurt. The idea of a BST is that we have a bunch of things, as long as they can be compared, and we want to search through our set and find if an item is in it. We can search efficiently using a [[Tree*]]. Also, although the worst case is O(n) when dealing with randomized data we usually generate bushy trees meaning that for a lot of cases we will get O($\log n$) 
 
 |            | Contains    | Insert      | Delete          |
 | ---------- | ----------- | ----------- | --------------- |
@@ -36,4 +36,4 @@ This case is definitely a little harder, but if you remember the properties of a
 
 # References
 
-[[Tree]]
+[[Tree*]]

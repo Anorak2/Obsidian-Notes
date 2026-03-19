@@ -1,6 +1,6 @@
 
 [[Calculus Bibliography]]
-Series are taken by doing a summation of a [[Sequences|Sequence]], and we can take the infinite summation of the series by doing:
+Series are taken by doing a summation of a [[Mathematical Sequences|Sequence]], and we can take the infinite summation of the series by doing:
 
 $$\sum_{n=0}^\infty a_i$$
 

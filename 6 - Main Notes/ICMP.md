@@ -33,7 +33,7 @@ The Internet Context Management Protocol is used by hosts and routers to communi
 **Traceroute:**
 To trace a route the host sends a series of UDP packets, the first with a TTL of 1 and then 2.. so on. When the datagram in the Nth set arrives at the Nth router the datagram is discarded and the router sends a source ICMP message, possibly with the name of the router and the source address.
 # References
-- [[IP v4 Protocol]]
-- [[IP v6 Protocol]]
+- [[IPv4 Protocol]]
+- [[IPv6 Protocol]]
 - [[Routers]]
-- [[IP v4 Protocol]]
+- [[IPv4 Protocol]]

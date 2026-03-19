@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[Software Security Evaluation]] [[Security]] 
+Tags: [[Software Security]] 
 # Buffer Overflows
 A buffer overflow is a type of security exploit where a malicious actor is able to write to memory outside of the allocated buffer. Historically this was often done by bringing your own script by injecting it into the buffer with a NOP sled which would hijack the program's control flow.  There are a number of countermeasures, as listed below, that makes it significantly harder to hijack control flow but the fundamental problem is still present.
 
@@ -23,4 +23,4 @@ CFI is a security technique that was introduced prior to W ^ X becoming more com
 ROP, or return oriented programming, is a technique that is able to bypass every previous method that was mentioned. ROP works by hijacking the call stack and then carefully running sections of code (gadgets) already present in memory. This is incredibly difficult to do anything about because these gadgets when chained together can perform arbitrary operations. For example it's been proven that using components of libc an attacker's options are Turing complete.
 
 # References
-[[Threat Models]]
+[[Threat Models*]]

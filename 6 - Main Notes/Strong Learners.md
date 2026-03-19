@@ -3,7 +3,6 @@
 
 Tags: [[Data Mining and Machine Learning]]
 # Strong Learners
-![[Pasted image 20251113141901.png]]
 Strong learners aren't anything particularly novel, instead a strong learner is the combination of several other weak learners that are combined to form a stronger classifier.
 
 #### Voting

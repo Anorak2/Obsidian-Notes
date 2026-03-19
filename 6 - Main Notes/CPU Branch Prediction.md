@@ -16,6 +16,6 @@ Above is an actual program I tested using Perf stat, all that is done is a minim
 For another, albeit simulated run, of a test program the branch mispredict rate was only 0.6%, although this program was very generous with it's design. This program iterated through a large list with random length in the millions, generated a random int for each index, and then did a static op on each index. 
 
 # References
-- [[CPU Data Path]]
+- [[CPU Data Path*]]
 - [[Multi-Data Path and Pipelining]]
 

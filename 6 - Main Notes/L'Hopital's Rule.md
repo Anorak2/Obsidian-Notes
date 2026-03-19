@@ -2,7 +2,7 @@
 Tags: [[Calculus Bibliography]] [[Math]]
 # L'Hopital's Rule
 
-if you remember the 7 [[Limit indeterminate forms]], there are several which are battles between which one is growing faster.
+if you remember the 7 [[Limit indeterminate forms*]], there are several which are battles between which one is growing faster.
 
 L'Hopital's states that if you have a limit of form $0/0$ or $\infty/\infty$ then you can take the derivative of the top and the bottom as many times as needed to get the limit.
 

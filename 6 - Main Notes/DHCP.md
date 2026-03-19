@@ -25,5 +25,5 @@ The Dynamic Host Control Protocol is how we are able to assign IP addresses to a
 
 
 # References
-[[IP v4 Protocol]]
-[[IP v6 Protocol]]
+[[IPv4 Protocol]]
+[[IPv6 Protocol]]

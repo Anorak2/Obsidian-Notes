@@ -34,4 +34,4 @@ Sometimes coming up with a good guess can be really hard, even though if your gu
 
 
 # References
-[[Merge Sort]]
+[[Merge Sort*]]

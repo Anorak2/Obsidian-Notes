@@ -6,20 +6,20 @@
 [[Plugins and Applications]]
 [[Views]]
 [[Lists]]
-[[Forms]]
-[[Formatters]]
+[[Forms*]]
+[[Formatters*]]
 [[Related Lists]]
 
 **Manage Data**
 [[User Permissions and Access Controls]]
-[[Import Sets]]
+[[Import Sets*]]
 [[Transform Maps and Coalesce Fields]]
 [[Configuration Management Database (CMDB)]]
 
 **Self Service**
 [[Knowledge Bases]]
 [[Service Catalog]]
-[[Flow Designer]]
+[[Flow Designer*]]
 
 **"Enable Productivity"**
 [[Reporting]]

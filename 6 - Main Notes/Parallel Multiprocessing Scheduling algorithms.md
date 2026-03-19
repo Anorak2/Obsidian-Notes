@@ -61,6 +61,6 @@ issues over estimating:
 - may waste resources
 
 # References
-[[Multiprocessor Scheduling Notation]]
+[[Multiprocessor Scheduling Notation*]]
 
 [[Basic Multiprocessor Scheduling Algorithms]]

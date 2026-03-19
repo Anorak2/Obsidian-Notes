@@ -3,20 +3,20 @@
 **Theory**
 - [[Basics of Binary Analysis]]
 - [[Software Build Process and Build Errors]]
-- [[Linux Linking]]
-- [[Reverse Engineering outline]]
-- [[Reversing C++]]
+- [[Linux Linking*]]
+- [[Reverse Engineering outline*]]
+- [[Reverse Engineering* C++*]]
 - [[Basic Anti-reversing Techniques]]
 - [[Binary Level Obfuscation Techniques]]
 
 **Tools**
 - [[Gnu Debugger (GDB)]]
-- [[Tracing]]
+- [[Tracing*]]
 - [[Ghidra Scripting Cheatsheet]]
 - [[Binary Rewriting]]
-- [[LD Preload]]
+- [[Dynamic Lib Hijacking - LD Preload]]
 
-[[6 - Main Notes/Useful commands]]
+[[Useful commands for Reverse Eng]]
 [[Reverse Homework]]
 1. file
 2. ltrace

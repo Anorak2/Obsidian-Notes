@@ -1,7 +1,7 @@
 
 2025-04-25
 
-Tags: [[Security]] [[Operating Systems]] [[Software Security Evaluation]]
+Tags: [[Operating Systems]] [[Software Security]]
 # Rootkits
 What is a root kit? A root kit is malicious software that is designed to run on a target's computer with elevated permissions while staying undetected. 
 

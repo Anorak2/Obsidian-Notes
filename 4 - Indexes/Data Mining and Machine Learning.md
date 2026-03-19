@@ -27,6 +27,7 @@ probabilistic:
 - [[Logistic Regression]]
 - [[Discriminate Analysis Quantifiers]]
 - [[Naive Bayes Classifier]]
+- [[Large Language Models (LLM's)*]]
 
 Non-probabilistic:
 - [[K nearest Neighbors (kNN)]]
@@ -48,11 +49,11 @@ Non-probabilistic:
 - [[Anomaly Detection]]
 ## Neural Networks
 - [[Neural Networks]]
-- [[Deep Learning Classifiers]]
+- [[Deep Learning Classifiers*]]
 	- [[Neural Networks|Deep Belief Network]]
 	- [[Convolutional Neural Networks]]
 	- [[Recurrent Neural Networks (RNN)]]
 - [[Loss Functions]]
 - [[Self Attention Networks (Transformer)]]
-- [[Large Language Models (LLM's)]]
+- [[Large Language Models (LLM's)*]]
 

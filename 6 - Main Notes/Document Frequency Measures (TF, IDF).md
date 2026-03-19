@@ -1,7 +1,7 @@
 
 2026-02-09
 
-Tags: [[EECS 767]] [[Data]] [[Textual Data]]
+Tags: [[EECS 767]] [[Data]] [[Textual Data*]]
 # Document Frequency Measures (TF, IDF)
 **Document Frequency:** or $tf_{t,d}$ of term $t$ in document $d$ is defined as the number of times that $t$ occurs in $d$.
 

@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[Software Security Evaluation]]
+Tags: [[Software Security]]
 # Static analysis
 Static analysis is the process of reviewing code without running it, the simplest version is to just look at the code.  
 

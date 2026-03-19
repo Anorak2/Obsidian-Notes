@@ -13,7 +13,13 @@ you can add -DCORRECT in order to declare a variable from the command line while
 
 we can also add -lm, the l adds a lib and the m is .so so -lm ab -> lib ab.so. It tells gcc to include the math library, and it will look for the library in the library path
 
-gcc -c -fpic mul.c (creates a .o file with more information than usual), gcc -shared -o <.so> <.o>
+creates a .o file with more information than usual
+```javascript
+gcc -c -fpic mul.c )
+```
+```javascript
+gcc -shared -o <.so> <.o>
+```
 
 **Preprocessor**
 This is the front of the chain and it runs before the compiler does, and it outputs a preprocessed .i file. This handles lines that start with a hashtags, like includes and defines.

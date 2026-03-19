@@ -1,7 +1,7 @@
 
 2025-11-16
 
-Tags: [[Software Security Evaluation]] [[Dynamic Analysis]]
+Tags: [[Software Security]] [[Dynamic Analysis]]
 # Fuzzing
 How do we generate good test cases?
 - Cases that exercise unexpected behavior

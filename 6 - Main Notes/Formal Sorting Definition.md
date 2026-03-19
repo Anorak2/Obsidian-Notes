@@ -15,7 +15,7 @@ A sort is said to be stable if the order of equivalent items is preserved,
 which sometimes matters for algorithms like [[Radix Sort]]
 
 **Comparison Based Sorts**
-Sorting algorithms that are based on comparisons such as [[Merge Sort]] and [[Quick Sort]]. What is interesting is that for **any comparison based sorting algorithm, it requires at least an order of N log N for its worst case**
+Sorting algorithms that are based on comparisons such as [[Merge Sort*]] and [[Quick Sort]]. What is interesting is that for **any comparison based sorting algorithm, it requires at least an order of N log N for its worst case**
 
 **Alternative definition**
 We can define an inversion as a pair of elements that are out of order with respect to <, and sorting as a sequence of operations that reduces inversions to 0.

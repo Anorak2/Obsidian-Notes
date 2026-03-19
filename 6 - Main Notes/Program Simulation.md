@@ -15,4 +15,4 @@ In this version it only models with the L1 cache and the combined cache.
 - D stands for data cache
 - LL stands for an aggregate, so LLd is all data caches and LL is aggregate details.
 # References
-
+- [[Profilers]]

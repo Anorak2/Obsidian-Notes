@@ -8,16 +8,16 @@
 - [[Master's Theorem]]
 
 **Graphs**
-- [[Graphs - Kruskal's Algorithm]]
-- [[Graphs Shortest Path Problem - Dijkstra's]]
+- [[Kruskal's Algorithm*]]
+- [[Dijkstra's Algorithm]]
 - [[Graphs Spanning Tree and Min Spanning Tree]]
 
 **Sorting**
 - [[Formal Sorting Definition]]
-- [[Selection Sort]]
-- [[Insertion Sort]]
+- [[Selection Sort*]]
+- [[Insertion Sort*]]
 - [[Heap Sort]]
-- [[Merge Sort]]
+- [[Merge Sort*]]
 - [[Quick Sort]]
 - [[Quick Sort Variants]]
 - [[Counting Sort]]
@@ -31,6 +31,6 @@
 
 **Other**
 - [[Hashing]]
-- [[Longest Paths Problem]]
+- [[Longest Paths Problem*]]
 - [[P=NP?]]
 

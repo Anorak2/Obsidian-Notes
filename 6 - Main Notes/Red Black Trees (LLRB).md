@@ -32,6 +32,5 @@ If we have a temporary 4-node then we can split it by flipping the colors of all
 - Every path from the root to the leaf has the same number of black nodes, and therefore LLRBs are balanced
 
 # References
-[[B-Trees]]
-
-[[Tree]]
+- [[B-Trees]]
+- [[Tree*]]

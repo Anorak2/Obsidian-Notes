@@ -1,6 +1,6 @@
 Tags: [[Algorithms]] [[Sorting]]
 # Quick Sort
-
+## General Version
 Quick sort is, as the name implies, a very fast [[Formal Sorting Definition|sorting algorithm]]. It is based around the idea that we partition elements, which means moving an element (which we will call the pivot) to a position where everything to the left is smaller than it and everything to the right is larger. What is cool is that when we partition an element, the pivot value is in the correct position when the array is fully sorted.
 
 What is interesting is that quick sort is actually the same as sorting using a [[Binary Search Trees|BST]] 
@@ -27,5 +27,22 @@ Some solutions
 	if our depth is over some limit set before then switch to merge sort, this idea is fine but for some reason not often used in practice
 - Preprocess the array, though there is no obvious way to check if quick sort will be slow 
 
+## Variants
+As discussed in [[Quick Sort]] this is one of the fastest algorithms, but practically only if we make good decisions about the Pivot selection, partition algorithm, and how we deal with the worst case
+
+**Tony Hoare's In place Partitioning Scheme**
+- Left pointer loves small items
+- Right pointer loves big items
+- The main idea is that we walk these towards eachother until they find something they don't like.
+	when both pointers stopped, then swap and move the pointers by 1
+- When these pointers cross we are done
+
+This isn't the fastest anymore but I am very partial to it since I found it natural to implement something similar although a little slower.
+
+![[Pasted image 20241210221518.png]]
+
+
+**Using the median**
+It turns out that if we use the exact median, which we can do in O(N) time, we run into the problem of it being much too slow
 # References
-[[Binary Search Trees]]
+- [[Binary Search Trees]]

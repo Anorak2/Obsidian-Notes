@@ -1,11 +1,11 @@
 **Basics**
-- [[two's complement]]
+- [[two's complement*]]
 - [[Integer Overflow]]
-- [[Floating Point]]
+- [[Floating Point Numbers]]
 - [[MIPS ISA]]
 
 **CPU Behavior**
-- [[CPU Data Path]]
+- [[CPU Data Path*]]
 - [[Multi-Data Path and Pipelining]]
 - [[CPU Branch Prediction]]
 

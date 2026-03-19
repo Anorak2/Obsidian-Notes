@@ -34,4 +34,4 @@ the larger the SNR the easier it is extract data from the wireless link. This in
 - B, C hear each other
 - A, C can not hear each other interfering at B
 # References
-[[Multiple Access Protocols]]
+[[Network Multiple Access Protocols]]

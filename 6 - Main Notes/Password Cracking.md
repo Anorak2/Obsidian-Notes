@@ -1,7 +1,7 @@
 
 2025-02-25
 
-Tags: [[Security]] [[Software Security Evaluation]] [[Tools]]
+Tags: [[Software Security]] [[Tools]]
 # Password Cracking
 We all know what passwords are, they are a way to authenticate a user to prove identity to either a system or a service. The problem is that passwords have a finite number of possibilities and with weak passwords especially they are easy to guess. The main problem comes from a trade off where the more secure a password is the harder it is for a human to remember, and we should be using unique passwords for everything but that also make it harder for humans to remember. 
 
@@ -17,8 +17,6 @@ This version works off of a dictionary but we don't just give up after trying on
 **Rainbow Tables**
 These are pre-computed lookup tables for recovering plaintext passwords from a password hash. This has a time-space trade-off since the CPU has much less work to do but now we use more storage.
 # References
-[[Types of Passwords attacks and Defenses]]
-
-[[Hashing]]
-
-[[Using John the Ripper]]
+- [[Types of Passwords attacks and Defenses*]]
+- [[Hashing]]
+- [[Using John the Ripper*]]

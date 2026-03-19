@@ -16,4 +16,4 @@ It also doesn't matter than we convert it back to base 10, since the number in b
 
 # References
 
-[[Hash Tables]]
+[[Hash Tables - Hashmaps]]

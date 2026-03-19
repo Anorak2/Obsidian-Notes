@@ -31,7 +31,32 @@ HTTP 2 is also based on TCP but it keeps a persistent connection between the cli
 ## HTTP 3
 HTTP/3 runs on top of the ```QUIC``` transport protocol which is based on UDP, this is because in a vanilla TCP connection there is no security and also
 
+## Response Codes
+| Class | Meaning                |
+| ----- | ---------------------- |
+| 1xx   | Informational Response |
+| 2xx   | Success                |
+| 3xx   | Redirection            |
+| 4xx   | Client Error           |
+| 5xx   | Server Error           |
 
+| Code |                       | When to use                                                                                                    |
+| ---- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 200  | Ok                    | Standard response for successful queries                                                                       |
+| 201  | Created               | Accepted, resource was created                                                                                 |
+| 202  | Accepted              | Accepted but not created yet                                                                                   |
+| 204  | No content            | Good response but nothing to be returned                                                                       |
+| 301  | Moved Permanently     | Used to be there but now can be found at another URL                                                           |
+| 303  | Redirected            | redirects client to a different URL                                                                            |
+| 400  | Bad Request           | The client sent a malformed HTTP request                                                                       |
+| 401  | Unauthorized          | Similar to 403 but for when auth is required and it<br>has either failed or wasn't provided                    |
+| 403  | Forbidden             | Valid request but the user isn't allowed to perform <br>this action. Ex: you can be logged in but not as admin |
+| 404  | Not Found             |                                                                                                                |
+| 500  | Internal Server Error | Valid request but the server failed to process it                                                              |
+| 501  | Not Implemented       | When the feature hasn't been programmed yet                                                                    |
+| 502  | Bad gateway           | Server was acting as a proxy and there was an <br>upstream error                                               |
+| 503  | Service Unavailable   | Usually temporary, like when the site is overloaded                                                            |
+| 504  | Gateway Timeout       | Server was acting as a proxy and an upstream <br>connection timed out                                          |
 # References
 [[HTTP status codes]]
 

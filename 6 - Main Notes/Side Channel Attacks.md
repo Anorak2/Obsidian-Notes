@@ -1,7 +1,7 @@
 
 2025-09-24
 
-Tags: [[Software Security Evaluation]] [[Security]]
+Tags: [[Software Security]]
 # Side Channel Attacks
 Sometimes we have to deal with unconventional adversaries and threats we don't typically think about. A side channel is one such threat where an adversary is able to glean some type of information about our program. Examples include how hot our computers are (or how heavy the fans are running), electromagnetic emissions, execution time, and certainly others.
 
@@ -58,6 +58,6 @@ One potential way we could fix timing side channels is by combining several prev
 - Block Composition: Store the sum total of instruction times in a block
 - Merge operation: Check that all operations have a comparable execution time
 # References
-[[Threat Models]]
+[[Threat Models*]]
 
 [[Dataflow Frameworks]]

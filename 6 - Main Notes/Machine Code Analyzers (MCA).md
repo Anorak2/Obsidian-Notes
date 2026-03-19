@@ -151,7 +151,7 @@ For example in my test bench I've been using on O0 several bottlenecks were foun
 
 # References
 - [[LLVM Bitcode]]
-- [[CPU Data Path| Data Path (+Information about IPC)]]
+- [[CPU Data Path*| Data Path (+Information about IPC)]]
 - [llvm-mca docs](https://llvm.org/docs/CommandGuide/llvm-mca.html)
 - [Algorithmica](https://en.algorithmica.org/hpc/profiling/mca/)
 - [[Multi-Data Path and Pipelining]]

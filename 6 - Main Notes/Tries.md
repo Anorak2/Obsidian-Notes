@@ -1,7 +1,7 @@
 Tags: [[Data Structures]]
 # Tries
 
-Where as with [[Binary Search Trees|BSTs]] we require that our keys are comparable and with [[Hash Tables]] we require that data is hashable, with Tries we instead require that all of our keys are strings. This enables us to do something pretty cool, we can set each node to only store one letter, and to find if a word is contained in our structure we can traverse these trees. Tries are great for algorithms specific to strings, such as an autocomplete implementation.
+Where as with [[Binary Search Trees|BSTs]] we require that our keys are comparable and with [[Hash Tables - Hashmaps]] we require that data is hashable, with Tries we instead require that all of our keys are strings. This enables us to do something pretty cool, we can set each node to only store one letter, and to find if a word is contained in our structure we can traverse these trees. Tries are great for algorithms specific to strings, such as an autocomplete implementation.
 ![[Pasted image 20241128235554.png]]       ![[Pasted image 20241128235728.png]]
 We can also have tries work as maps, where at the end node of a certain word we could store a value such as a number.
 
@@ -32,6 +32,6 @@ This is where the main appeal of Tries in general comes into play, because with 
 
 A useful application of that prefix algorithm is auto completing words, for example google autocomplete. The problem we reach if we try and do this is that with a very short prefix we generate billions of keys when we only care about say 10. We can address that by having each node store not only its own value but also the value of its best substring, and then we only need to go down branches with high substring scores. An even more efficient thing we can do is called a [[Radix Trie]] where we merge nodes that are redundant.
 # References
-[[Tree]]
+[[Tree*]]
 
 [[Binary Search Trees]]

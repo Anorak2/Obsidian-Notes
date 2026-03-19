@@ -46,7 +46,7 @@ To help mitigate MMU speed issues we can use a TLB, which will cache frequent ad
 We need to be careful with page sizing, if we make it very small then we minimize the amount of wasted space but we now need a very large table. If we make pages big then we have a lot of wasted space, although now the page table is small. A decent balance between the two that is commonly used in practice is 4 Kilobytes, which for a 4 GB and 32 Bit system means 1 million pages.
 
 **Multi Level Paging**
-This is when we don't have the page table directly map to the physical memory, and we instead pass through the outer page table which directs us to another page table. This process is actually very similar to [[Tree|trees]], and given enough iterations we end up with a binary tree. This allows us to save space on the map sizes since we store less redundant information.
+This is when we don't have the page table directly map to the physical memory, and we instead pass through the outer page table which directs us to another page table. This process is actually very similar to [[Tree*|trees]], and given enough iterations we end up with a binary tree. This allows us to save space on the map sizes since we store less redundant information.
 ![[Pasted image 20250409141328.png]]
 
 **Demand Paging**

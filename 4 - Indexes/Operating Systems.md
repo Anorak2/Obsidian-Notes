@@ -8,18 +8,18 @@
 
 **Processes and Threads**
 - [[Processes]]
-- [[Inter-Process Communication]]
+- [[Inter-Process Communication (IPC)]]
 - [[Threads]]
 - [[Peterson's Synchronization Control]]
 - [[Locks and Semaphores]]
 
-- [[Deadlocks]]
+- [[Concurrency Deadlocks]]
 - [[Practical CPU Scheduling Algorithms]]
 
 **Memory** ---------------
 [[Virtual Memory and Paging]]
-[[Virtual Memory 2]]
-[[Kernel Level Virtual Memory]] 
+[[Virtual Memory 2*]]
+[[Kernel Level Virtual Memory*]] 
 
 **Filesystems / Disk Management**
 [[Filesystems and Files]]
@@ -32,6 +32,6 @@
 [[IO devices]]
 
 **Protection / Security**
-[[File Protections and Security]]
+[[File Protections and Security*]]
 
 [[EECS 678 Final]]

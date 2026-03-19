@@ -11,4 +11,4 @@ Something that is interesting is that some prefix-free codes are better than oth
 ![[Pasted image 20241210225758.png]]
 
 # References
-[[Tree]]
+- [[Tree*]]

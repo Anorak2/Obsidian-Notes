@@ -1,7 +1,7 @@
 
 2025-03-24
 
-Tags: [[Security]]
+Tags: [[Software Security]]
 # Not Petya
 
 

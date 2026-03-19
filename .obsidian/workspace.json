@@ -11,6 +11,91 @@
             "id": "b316942ee5c9c028",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Recently Modified and Created.base",
+                "viewName": "unfinished"
+              },
+              "icon": "lucide-table",
+              "title": "Recently Modified and Created"
+            }
+          },
+          {
+            "id": "6d26b6aa54af93f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Adversary to Quicksort.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adversary to Quicksort"
+            }
+          },
+          {
+            "id": "eba4a6dd84cfb7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Databases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Databases"
+            }
+          },
+          {
+            "id": "e964bce7ca2514e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/The Normal Forms (NF).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Normal Forms (NF)"
+            }
+          },
+          {
+            "id": "2bdc2357fdc7c18d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "4 - Indexes/Data Mining and Machine Learning.md",
@@ -30,67 +115,8 @@
               "icon": "lucide-file",
               "title": "Data Mining and Machine Learning"
             }
-          },
-          {
-            "id": "7f959b8970aaec23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Dealing with Imbalanced Datasets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dealing with Imbalanced Datasets"
-            }
-          },
-          {
-            "id": "58c69ad300ae03c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Links to Documentation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Links to Documentation"
-            }
-          },
-          {
-            "id": "158aec34f85710d4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,45 +245,46 @@
       "templates:Insert template": false
     }
   },
-  "active": "158aec34f85710d4",
+  "active": "b316942ee5c9c028",
   "lastOpenFiles": [
-    "3b - Classes/SOC 104.md",
+    "Analytics 2.0.md",
+    "6 - Main Notes/Wireless Network Cracking (WEP).md",
+    "6 - Main Notes/WPA 3.md",
+    "6 - Main Notes/Wireless Networks.md",
+    "6 - Main Notes/Wireless Network Cracking (WPA & WPA2).md",
+    "6 - Main Notes/Why cloud computing.md",
+    "6 - Main Notes/Web Sockets*.md",
+    "6 - Main Notes/Vulnerability Scans.md",
+    "6 - Main Notes/Virtual Memory and Paging.md",
+    "6 - Main Notes/Virtual Memory 2*.md",
+    "6 - Main Notes/Virtual Machines.md",
+    "6 - Main Notes/vertically vs horizontally simple integrals.md",
+    "6 - Main Notes/Vectorization*.md",
+    "6 - Main Notes/vector space*.md",
+    "6 - Main Notes/Vector Space Model.md",
+    "6 - Main Notes/Using John the Ripper*.md",
+    "6 - Main Notes/Useful commands for Reverse Eng.md",
+    "6 - Main Notes/Unstructured Data.md",
+    "6 - Main Notes/Unity Builds*.md",
+    "6 - Main Notes/UDP.md",
+    "6 - Main Notes/Types of Passwords attacks and Defenses*.md",
+    "6 - Main Notes/Types of Data Sets.md",
+    "6 - Main Notes/two's complement*.md",
+    "6 - Main Notes/Trigonometric identities.md",
+    "6 - Main Notes/Tries.md",
+    "6 - Main Notes/Tree*.md",
+    "Recently Modified and Created.base",
     "2 - Source Material/images/Pasted image 20260212230419.png",
     "2 - Source Material/images/Pasted image 20260309145847.png",
-    "TODO.md",
-    "Main.md",
-    "6 - Main Notes/Graphs.md",
-    "6 - Main Notes/Runtime Complexities.md",
-    "6 - Main Notes/Untitled.md",
-    "6 - Main Notes/Links to Documentation.md",
     "7 - writing/images/Pasted image 20260313212358.png",
-    "7 - writing/Sociology Photo Essay P1.md",
     "7 - writing/images",
     "7 - writing/images/Pasted image 20260313211936.png",
-    "7 - writing/9-4-25    On Familiarity.md",
-    "7 - writing/9-24-25 exercise.md",
-    "7 - writing/0.   Writing.md",
     "7 - writing",
     "writing",
     "-",
     "7",
-    "6 - Main Notes/Prompt Injection Techniques.md",
-    "6 - Main Notes/BGP Security.md",
-    "Analytics 2.0.md",
-    "README.md",
-    "To Study.md",
-    "6 - Main Notes/Simulated Annealing (Feature Selection).md",
-    "6 - Main Notes/Dealing with Imbalanced Datasets.md",
     "2 - Source Material/images/Pasted image 20260312004046.png",
     "2 - Source Material/images/Pasted image 20260312003221.png",
-    "4 - Indexes/Data Mining and Machine Learning.md",
-    "3b - Classes/Networking and Network Security.md",
-    "6 - Main Notes/ARP.md",
-    "6 - Main Notes/Denial of Service Attacks and DDoS Attacks.md",
-    "6 - Main Notes/DNS Security.md",
-    "3b - Classes/EECS 767.md",
-    "6 - Main Notes/OSPF attack and defenses*.md",
-    "6 - Main Notes/Evaluating Information Retrieval.md",
     "2 - Source Material/images/Pasted image 20260309145932.png",
     "2 - Source Material/images/Pasted image 20260309140349.png",
     "2 - Source Material/images/Pasted image 20260309135823.png",
@@ -265,7 +292,6 @@
     "TODO.md~",
     "TODO.m",
     "2 - Source Material/images/Pasted image 20251003142419.png",
-    "Recently Modified and Created.base",
     "1 - Rough Notes/666 Assignment 1.pdf",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"

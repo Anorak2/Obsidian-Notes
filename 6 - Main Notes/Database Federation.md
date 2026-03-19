@@ -7,7 +7,7 @@ A federated database is a way of combining multiple databases into a single netw
 
 **Components**
 - Source data and Databases: represents various databases that contain transactional/current data
-- Data Federation: This is a virtual layer that integrates the data from the source databases that allows for users to use the database without needing to know how it works ([[Transparency]])
+- Data Federation: This is a virtual layer that integrates the data from the source databases that allows for users to use the database without needing to know how it works ([[Transparency*]])
 - Data Warehouse and Data Marts: stores historical data for reporting and analysis
 - Business Intelligence: represents the tools and applications used for data reporting, analysis, and reporting.
 

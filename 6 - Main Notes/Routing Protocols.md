@@ -31,6 +31,6 @@ $$D_x(y) \leftarrow min_v(v_{v,x}+D_v(y))$$
 # References
 [[Network Layer Responsibilities]]
 [[Routers]]
-[[Graphs Shortest Path Problem - Dijkstra's]]
+[[Dijkstra's Algorithm]]
 [[OSPF and Intra IP Routing]]
 [[Border Gateway Protocol (BGP)]]

@@ -48,4 +48,4 @@ This provides the same filesystem interface for different types of file systems 
 # References
 [[Directories]]
 
-[[Singly Linked List]]
+[[Singly Linked List*]]

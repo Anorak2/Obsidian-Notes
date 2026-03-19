@@ -1,20 +1,20 @@
 **Mainly Array Based**
 - [[Arrays*]]
-- [[List]]
-- [[Stacks]]
+- [[List Data Structure]]
+- [[Stacks*]]
 - [[Disjoint Sets]]
 - [[Heaps]]
-- [[Hash Tables]]
+- [[Hash Tables - Hashmaps]]
 
 **Node Based Implementations**
-- [[Tree]]
-- [[Singly Linked List]]
-- [[Doubly Linked List]]
+- [[Tree*]]
+- [[Singly Linked List*]]
+- [[Doubly Linked List*]]
 - [[Binary Search Trees]]
 - [[Tree Rotation]]
 - [[B-Trees]]
 
-- [[Graphs]]
+- [[Graph Datastructure]]
 - [[Red Black Trees (LLRB)]]
 - [[Tries]]
 

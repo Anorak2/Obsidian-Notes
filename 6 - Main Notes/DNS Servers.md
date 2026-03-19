@@ -23,8 +23,8 @@ These don't belong in any particular place in the hierarchy, and it is maintaine
 DNS tree is divided into zones. Each zone is responsible for managing its subtrees. Each zone has its Authoritative Name Servers with domain information stored as a zone record. 
 
 # References
-- [[IP v4 Protocol]]
-- [[IP v6 Protocol]]
+- [[IPv4 Protocol]]
+- [[IPv6 Protocol]]
 - [[DNS Queries]]
 - [[DNS Security]]
 

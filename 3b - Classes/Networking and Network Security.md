@@ -8,22 +8,22 @@
 [[Alternative Mail Access Protocols]]
 [[HTTP]]
 [[HTTP status codes]]
-[[P2P Applications]]
-[[Ports]]
-[[Web Sockets]]
+[[P2P Applications*]]
+[[Ports*]]
+[[Web Sockets*]]
 
 [[DNS Servers]]
 [[DNS Queries]]
 
 ## 3 - Transport Layer Protocols
 ---
-[[Ports]]
+[[Ports*]]
 
 [[Reliable Data Transfer (RDT)]]
 [[Pipelined Protocols]]
 [[TCP]]
 [[UDP]]
-[[Congestion Control]]
+[[Network Congestion Control]]
 
 ## 4 - Network Layer - Data Plane
 ---
@@ -31,8 +31,8 @@
 [[Routers]]
 [[Network Address Translation (NAT)]]
 
-[[IP v4 Protocol]]
-[[IP v6 Protocol]]
+[[IPv4 Protocol]]
+[[IPv6 Protocol]]
 
 [[DHCP]]
 [[Network IP assignment]]
@@ -46,17 +46,19 @@
 ## 6 - Link Layer
 ---
 [[Link Layer Error Detection]]
-[[MAC Addresses]]
-[[LAN's]]
+[[MAC Addresses*]]
+[[LAN's*]]
 [[ARP]]
-[[Ethernet]]
+[[Ethernet*]]
 
 ## 7 - Physical Layer
 ---
 [[Wireless Networks]]
-[[Multiple Access Protocols]]
+[[LAN's*]]
+[[Network Multiple Access Protocols]]
+[[Interconnection networks]]
 # Network Security
-- [[Network scanning (Nmap and Nessus)]]
+- [[Network + Port scanning (Nmap and Nessus)]]
 - [[Sniffing Network Traffic]]
 - [[Denial of Service Attacks and DDoS Attacks]]
 - [[ARP Attacks*]]
@@ -70,7 +72,7 @@ Wifi:
 - [[Wireless Network Cracking (WPA & WPA2)]]
 - [[WPA 3]]
 
-- [[Firewalls]]
+- [[Firewalls*]]
 
 Protocols
 – IP (and ICMP)

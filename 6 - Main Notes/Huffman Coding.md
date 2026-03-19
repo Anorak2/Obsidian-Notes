@@ -15,7 +15,7 @@ For simplicity we can just make every right connection a 1, and every left conne
 **Implementing Encoding**
 There are two schools of thought when implementing with a data structure:
 - [[Arrays*|Array]] Based, using each characters number as an index
-- [[Hash Tables|Hash map based]], since we are just doing a Hashmap<Character, BitSequence>
+- [[Hash Tables - Hashmaps|Hash map based]], since we are just doing a Hashmap<Character, BitSequence>
 
 Compared to HashMaps, the array based version is just faster but they use more memory if some characters of the alphabet are unused. 
 
@@ -38,4 +38,4 @@ The first one has problems like what if the file has multiple data types, althou
 
 [[Shannon Fano Codes]]
 
-[[Tree]]
+[[Tree*]]

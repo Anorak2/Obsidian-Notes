@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[Software Security Evaluation]] 
+Tags: [[Software Security]] 
 # Program Slicing
 > What if we want to ignore all data that is "irrelevant" for a particular case? The CDG and PDG show all of the information related to the control flow and and dataflow
 
@@ -20,4 +20,4 @@ This tool is a static slicer for LLVM bitcode.
 - Debugging
 - Scaling heavyweight analysis so that way you have less program to test
 # References
-[[Domination and Control Dependence Graph]]
+- [[Domination and Control Dependence Graph]]

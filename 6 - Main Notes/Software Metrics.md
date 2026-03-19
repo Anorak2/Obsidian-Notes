@@ -30,7 +30,7 @@ Extra Reading:
 https://dl.acm.org/doi/epdf/10.1145/1839379.1839400
 
 # References
-[[Software Development Life Cycle (SDLC)]]
+[[Software Development Life Cycle (SDLC)*]]
 
 https://www.geeksforgeeks.org/software-engineering/software-measurement-and-metrics/
 

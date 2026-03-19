@@ -13,8 +13,8 @@
 - [[Networking and Network Security]]
 #### Security
 - [[Reverse Engineering]]
-- [[Security]]
-- [[Software Security Evaluation]]
+- [[Software Security]]
+- [[Software Security]]
 #### Low Level
 - [[Operating Systems]]
 - [[Computer Architecture]]

@@ -1,7 +1,7 @@
 
 2025-04-24
 
-Tags: [[Security]] [[Software Security Evaluation]]
+Tags: [[Software Security]]
 # Intrusion Detection Systems
 There are many different types of detection systems including:
 - Network Intrusion Detection System
@@ -27,5 +27,4 @@ Snort can generate alerts for any unusual packets discovered in network traffic,
 **Attack Detection**
 Due to the snort rule language and it's compatibility with all OSes, Snort is able to detect any network based attack as long as there is a rule associated with the attack behavior.
 # References
-
-[[Denial of Service Attacks and DDoS Attacks]]
+- [[Denial of Service Attacks and DDoS Attacks]]

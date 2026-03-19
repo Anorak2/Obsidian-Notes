@@ -10,4 +10,4 @@ It can be difficult to notice if an integer overflow is occurring in a program, 
 **Detection**: Compilers can add extra instructions to check for overflows and throw instructions, though several languages (in my experience this includes C and Golang) won't do that since it adds overhead.
 
 # References
-[[two's complement]]
+[[two's complement*]]

@@ -37,6 +37,6 @@ performance:
 # References
 [[Network Layer Responsibilities]]
 [[Routers]]
-[[Graphs Shortest Path Problem - Dijkstra's]]
+[[Dijkstra's Algorithm]]
 [[OSPF and Intra IP Routing]]
 [[Border Gateway Protocol (BGP)]]

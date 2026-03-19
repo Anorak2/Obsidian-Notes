@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Table
+    name: All Note Files
     filters:
       and:
         - file.ext != "jpeg"
@@ -18,3 +18,11 @@ views:
     columnSize:
       file.mtime: 212
       file.ctime: 207
+  - type: table
+    name: unfinished
+    filters:
+      and:
+        - file.ext != "jpeg"
+        - file.ext != "png"
+        - and:
+            - file.name.endsWith("*")

@@ -129,5 +129,5 @@ Other approaches can be seen in [this repository](https://github.com/WillKoehrse
 - [[Neural Networks]]
 - [[Loss Functions]]
 - [[Convolutional Neural Networks]]
-- [[Large Language Models (LLM's)]]
+- [[Large Language Models (LLM's)*]]
 - [[Tokenization]]

@@ -7,4 +7,4 @@ Tags: [[Algorithms]] [[Computer Science]]
 
 # References
 
-[[Graphs]]
+[[Graph Datastructure]]

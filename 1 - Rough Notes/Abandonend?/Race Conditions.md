@@ -6,6 +6,6 @@ Tags: [[Programming]]
 Race conditions are when we have two simultaneous processes that happen to be operating on the same memory locations. This is called a race condition because it is a race to see which one gets there first, and depending on which one does get there first it can change the behavior of the program.
 
 # References
-[[Locking]]
+[[Database Locking*]]
 
-[[Peterson's Algorithm]]
+[[Peterson's Algorithm for Race Conditions]]

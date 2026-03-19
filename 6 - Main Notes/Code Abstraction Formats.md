@@ -1,7 +1,7 @@
 
 2025-08-20
 
-Tags: [[Software Security Evaluation]] [[Code Review]]
+Tags: [[Software Security]] [[Code Review]]
 # Code Abstractions
 
 # Flow Charts

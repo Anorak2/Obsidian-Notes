@@ -8,7 +8,6 @@ While local IP assignment can be done through DHCP it gets more complicated when
 **How are IP's assigned to ISP's?**
 ICANN, or the Internet Corporation for Assigned Names and Numbers allocates IP addresses through regional registries who may then allocate to local registries. ICANN also manages the DNS root zone including the delegations of Top Level Domains such as .com, .edu, etc.
 # References
-[[IP v4 Protocol]]
-
-[[DHCP]]
+- [[IPv4 Protocol]]
+- [[DHCP]]
 

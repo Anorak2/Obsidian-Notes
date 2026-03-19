@@ -54,7 +54,7 @@ Monitors, unlike semaphores, only allow one thread in at a time.
 # References
 [[Peterson's Synchronization Control]]
 
-[[Locking]]
+[[Database Locking*]]
 
 [[Concurrency Control]]
 

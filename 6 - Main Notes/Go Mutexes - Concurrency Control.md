@@ -23,7 +23,7 @@ type Board struct{
 This is a very simple way to lock a structure so that only one thing can access it at a given time. 
 
 # References
-[[Locking]]
+[[Database Locking*]]
 
 [[Concurrency Control]]
 

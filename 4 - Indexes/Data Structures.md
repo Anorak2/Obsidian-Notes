@@ -1,12 +1,12 @@
-**Mainly Array Based**
-- [[Arrays*]]
+**Blocks of Memory**
+- [[Arrays]]
 - [[List Data Structure]]
 - [[Stacks*]]
 - [[Disjoint Sets]]
 - [[Heaps]]
 - [[Hash Tables - Hashmaps]]
 
-**Node Based Implementations**
+**Disjointed Blocks of Memory**
 - [[Tree*]]
 - [[Singly Linked List*]]
 - [[Doubly Linked List*]]

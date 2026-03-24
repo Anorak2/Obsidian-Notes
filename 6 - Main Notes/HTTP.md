@@ -22,7 +22,7 @@ After the method, there is the path to the resource that the command applies to.
 	<!doctype html>  
 	... the rest of the document
 ```
-This is a sample response from the server, it starts with the version and then the [[HTTP status codes|status code]] from the server, and then as a human readable string.
+This is a sample response from the server, it starts with the version and then the status code from the server, and then as a human readable string.
 
 ## HTTP 2
 HTTP 2 is also based on TCP but it keeps a persistent connection between the client and the server the reduce friction. HTTP 2 also adds some other features such as allowing for the server to push packets to the client without the client requesting them first.
@@ -52,14 +52,12 @@ HTTP/3 runs on top of the ```QUIC``` transport protocol which is based on UDP, t
 | 401  | Unauthorized          | Similar to 403 but for when auth is required and it<br>has either failed or wasn't provided                    |
 | 403  | Forbidden             | Valid request but the user isn't allowed to perform <br>this action. Ex: you can be logged in but not as admin |
 | 404  | Not Found             |                                                                                                                |
+| 409  | Conflict              | Could not be completed due to the server side state                                                            |
 | 500  | Internal Server Error | Valid request but the server failed to process it                                                              |
 | 501  | Not Implemented       | When the feature hasn't been programmed yet                                                                    |
 | 502  | Bad gateway           | Server was acting as a proxy and there was an <br>upstream error                                               |
 | 503  | Service Unavailable   | Usually temporary, like when the site is overloaded                                                            |
 | 504  | Gateway Timeout       | Server was acting as a proxy and an upstream <br>connection timed out                                          |
 # References
-[[HTTP status codes]]
-
-[[HTTP in Go]]
-
-[[TCP]]
+- [[HTTP in Go]]
+- [[TCP]]

@@ -35,3 +35,29 @@ gpg --output test.out -d test.gpg
 DNS:
 - `dig`
 - `nslookup`
+
+**Raspberry Pi**
+
+---
+Check that I have the interface up
+```javascript
+ip a
+```
+Check that I have an IP (if direct eth)
+```javascript 
+ip addr show
+```
+If no IP run
+```javascript
+sudo ip addr add 169.254.0.1/16 dev interface 
+```
+---
+Scan the network Manually, or do it automatically below
+```Javascript
+sudo nmap -sn 169.254.0.0/24
+```
+
+If everything else is good this will likely work, depends on `avahi-daemon` however
+```javascript
+ssh pi@raspberrypi.local
+```

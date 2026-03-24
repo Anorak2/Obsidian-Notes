@@ -7,7 +7,7 @@
 [[SMTP]]
 [[Alternative Mail Access Protocols]]
 [[HTTP]]
-[[HTTP status codes]]
+[[HTTP]]
 [[P2P Applications*]]
 [[Ports*]]
 [[Web Sockets*]]

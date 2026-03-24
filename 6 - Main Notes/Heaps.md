@@ -17,7 +17,7 @@ To delete the minimum what we do is we swap the very last element in the heap wi
 Heaps have getSmallest(), getLargest(), and add(x)
 
 **Implementation**
-to implement our data structure we use an [[Arrays*|array]], this is because [[Arrays*]] can actually correctly model a [[Binary Search Trees|BST]] so long as it is complete. We also usually by tradition leave the first element blank so as to make it look a little nicer,
+to implement our data structure we use an [[Arrays|array]], this is because [[Arrays]] can actually correctly model a [[Binary Search Trees|BST]] so long as it is complete. We also usually by tradition leave the first element blank so as to make it look a little nicer,
 
 - parent = index/2
 - left child = index * 2

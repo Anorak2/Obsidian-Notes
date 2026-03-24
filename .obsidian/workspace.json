@@ -11,22 +11,9 @@
             "id": "b316942ee5c9c028",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Recently Modified and Created.base",
-                "viewName": "unfinished"
-              },
-              "icon": "lucide-table",
-              "title": "Recently Modified and Created"
-            }
-          },
-          {
-            "id": "6d26b6aa54af93f6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Adversary to Quicksort.md",
+                "file": "6 - Main Notes/Tree*.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adversary to Quicksort"
+              "title": "Tree*"
             }
           },
           {
-            "id": "eba4a6dd84cfb7d9",
+            "id": "9de080e210898a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Databases.md",
+                "file": "6 - Main Notes/Advanced Encryption Standard (AES)*.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Databases"
+              "title": "Advanced Encryption Standard (AES)*"
             }
           },
           {
-            "id": "e964bce7ca2514e5",
+            "id": "89144e1017b59950",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/The Normal Forms (NF).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -89,34 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Normal Forms (NF)"
-            }
-          },
-          {
-            "id": "2bdc2357fdc7c18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Data Mining and Machine Learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data Mining and Machine Learning"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,35 +209,35 @@
       "templates:Insert template": false
     }
   },
-  "active": "b316942ee5c9c028",
+  "active": "89144e1017b59950",
   "lastOpenFiles": [
+    "TODO.md",
+    "4 - Indexes/Data Mining and Machine Learning.md",
+    "6 - Main Notes/Strong Learners (Ensemble Methods).md",
+    "6 - Main Notes/HTTP.md",
+    "6 - Main Notes/HTTP status codes.md",
+    "6 - Main Notes/Model Boosting + AdaBoost.md",
+    "6 - Main Notes/Tree*.md",
+    "6 - Main Notes/Random Forest.md",
+    "6 - Main Notes/Advanced Encryption Standard (AES)*.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/The Normal Forms (NF).md",
+    "4 - Indexes/Databases.md",
+    "6 - Main Notes/Adversary to Quicksort.md",
+    "4 - Indexes/Useful Commands.md",
+    "4 - Indexes/Software Security.md",
+    "6 - Main Notes/Access Control Lists*.md",
+    "6 - Main Notes/Arrays.md",
+    "3b - Classes/Networking and Network Security.md",
+    "4 - Indexes/Data Structures.md",
+    "6 - Main Notes/Prompt Injection Techniques.md",
+    "Recently Modified and Created.base",
     "Analytics 2.0.md",
     "6 - Main Notes/Wireless Network Cracking (WEP).md",
     "6 - Main Notes/WPA 3.md",
     "6 - Main Notes/Wireless Networks.md",
     "6 - Main Notes/Wireless Network Cracking (WPA & WPA2).md",
     "6 - Main Notes/Why cloud computing.md",
-    "6 - Main Notes/Web Sockets*.md",
-    "6 - Main Notes/Vulnerability Scans.md",
-    "6 - Main Notes/Virtual Memory and Paging.md",
-    "6 - Main Notes/Virtual Memory 2*.md",
-    "6 - Main Notes/Virtual Machines.md",
-    "6 - Main Notes/vertically vs horizontally simple integrals.md",
-    "6 - Main Notes/Vectorization*.md",
-    "6 - Main Notes/vector space*.md",
-    "6 - Main Notes/Vector Space Model.md",
-    "6 - Main Notes/Using John the Ripper*.md",
-    "6 - Main Notes/Useful commands for Reverse Eng.md",
-    "6 - Main Notes/Unstructured Data.md",
-    "6 - Main Notes/Unity Builds*.md",
-    "6 - Main Notes/UDP.md",
-    "6 - Main Notes/Types of Passwords attacks and Defenses*.md",
-    "6 - Main Notes/Types of Data Sets.md",
-    "6 - Main Notes/two's complement*.md",
-    "6 - Main Notes/Trigonometric identities.md",
-    "6 - Main Notes/Tries.md",
-    "6 - Main Notes/Tree*.md",
-    "Recently Modified and Created.base",
     "2 - Source Material/images/Pasted image 20260212230419.png",
     "2 - Source Material/images/Pasted image 20260309145847.png",
     "7 - writing/images/Pasted image 20260313212358.png",

@@ -16,4 +16,4 @@ Adding one further step of randomization gives us extremely randomized trees, or
 
 # References
 - [[Decision Trees]]
-- [[Strong Learners]]
+- [[Strong Learners (Ensemble Methods)]]

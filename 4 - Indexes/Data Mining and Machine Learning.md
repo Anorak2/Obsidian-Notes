@@ -35,18 +35,19 @@ Non-probabilistic:
 - [[Decision Trees]]
 	- [[Splitting on Decision Trees]]
 
-- [[Strong Learners]]
-	- [[Random Forest]]
-	- [[Model Boosting + AdaBoost]]
 - [[Hidden Markov Models (HMM)]]
 ## Unsupervised Models
 - [[Clustering and Clustering Analysis*]]
 - [[K-means Clustering]]
 - [[Hierarchical Clustering]]
 - [[DBSCAN]]
- 
 - [[Association Rule Mining]]
 - [[Anomaly Detection]]
+## Ensemble Learning 
+- [[Strong Learners (Ensemble Methods)]]
+- [[Random Forest]]
+- [[Model Boosting + AdaBoost]]
+
 ## Neural Networks
 - [[Neural Networks]]
 - [[Deep Learning Classifiers*]]

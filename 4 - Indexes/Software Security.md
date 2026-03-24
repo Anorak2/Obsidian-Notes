@@ -1,13 +1,18 @@
 
 # Theoretical
+## Security (Theory)
+- [[Threat Models*]]
+- [[Buffer Overflows]]
+- [[Side Channel Attacks]]
+- [[Advanced Encryption Standard (AES)*]]
 
----
+Ensuring valid state:
+- [[Reference Monitors]]
+- [[Control Flow Integrity]]
 ## LLVM / IR
 - [[LLVM Bitcode]]
 - [[LLVM Memory]]
 - [[LLVM Calls]]
-
----
 ## Limits, Models, Theorems
 - [[CIA Triad]]
 - [[Code Abstraction Formats]]
@@ -16,10 +21,7 @@
 - [[Rice's Theorem]]
 - [[The Halting Problem]]
 
----
 ## Static Analysis
-
-> Dataflow analysis for security, correctness, and program understanding
 ### Control Flow & Structure
 - [[Static analysis]]
 - [[Control Flow Graphs (CFG)]]
@@ -36,8 +38,6 @@
 - [[Mod-Ref Analysis]]
 - [[Class Hierarchy Analysis (CHA) and Rapid Type (RTA)]]
 - [[Points To Analysis, Anderson's + Steensgard's]]
-
----
 ## Dynamic Analysis
 - [[Dynamic Analysis]]
 ### Instrumentation
@@ -52,21 +52,7 @@
 - [[Concolic Execution]]
 - [[SAT Solving]]
 - [[SMT Solving]]
-
----
-## Security (Theory)
-- [[Threat Models*]]
-- [[Buffer Overflows]]
-- [[Side Channel Attacks]]
-
-Ensuring valid state:
-- [[Reference Monitors]]
-- [[Control Flow Integrity]]
-
----
 # Practical
----
-
 ## Recon / Scouting
 - [[TheHarvester]] *
 - [[Basic Reconnaissance*]] *

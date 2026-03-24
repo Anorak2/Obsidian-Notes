@@ -32,4 +32,4 @@ When boosting can fail
 - Can be susceptible to noise
 - When there are a large number of outliers
 # References
-[[Strong Learners]]
+[[Strong Learners (Ensemble Methods)]]

@@ -15,7 +15,7 @@ What is interesting is that quick sort is actually the same as sorting using a [
 Since Quick sort is BST sort, we can run into problems if we blindly pick a pivot since our absolute worse case would be $\Theta(N^2)$ where every value we pick is at the start or the end. The performance depends on how you pick your pivots, how you partition around that pivot, and some other optimizations.
 
 Problems:
-- Bad Ordering (an almost sorted [[Arrays*|array]])
+- Bad Ordering (an almost sorted [[Arrays|array]])
 - Bad Elements (many duplicates)
 
 Some solutions

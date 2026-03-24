@@ -17,5 +17,5 @@ for (int i=0; i<16; i+=4) {
 
 where the CPU is then able to do these operations the fast way.
 # References
-[[Arrays*]]
+[[Arrays]]
 

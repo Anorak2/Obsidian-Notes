@@ -3,7 +3,7 @@ Status:
 Tags: [[Data Structures]]
 # List Data Structure
 
-This is just a version of [[Arrays*]], but supporting a couple "nice to have" features like hiding some of the complexity. 
+This is just a version of [[Arrays]], but supporting a couple "nice to have" features like hiding some of the complexity. 
 
 **Resizing** 
 To resize when an array gets full we just make a new one and copy over the values from the old array, and because we have to copy all of the elements this takes O(N). This means that we don't want to resize very often, but we also don't want to use too much memory. WE can fix this by using geometric resizing where instead of just using a constant addition we make a new array that is size = old_size * factor 
@@ -14,4 +14,4 @@ To resize when an array gets full we just make a new one and copy over the value
 - last item is always size -1 
 
 # References
-[[Arrays*]]
+[[Arrays]]

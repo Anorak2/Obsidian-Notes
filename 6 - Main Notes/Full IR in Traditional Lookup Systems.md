@@ -1,7 +1,7 @@
 
 2026-03-02
 
-Tags: [[EECS 767]]
+Tags: [[Information Retrieval]]
 # Full IR in Traditional Lookup Systems
 This section focuses on traditional document retrieval for cases like libraries
 

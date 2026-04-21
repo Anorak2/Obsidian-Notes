@@ -29,6 +29,6 @@ This solution meets all three requirements since $P0$ and $P1$ can't be in the c
 
 # References
 - [[Race Conditions]]
-- [[Locks and Semaphores]]
+- [[Mutex Locks and Semaphores]]
 - [[Processes]]
 - [[Threads]]

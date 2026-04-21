@@ -20,6 +20,7 @@
 	- [[Principle Component Analysis (PCA) (feature transform)]]
 	- [[Sequential Search (Feature Selection)]]
 	- [[Simulated Annealing (Feature Selection)]]
+	- [[Genetic Algorithm (Feature Selection)]]
 - [[Types of Data Sets]]
 - [[Dealing with Imbalanced Datasets]] 
 ## Supervised Models
@@ -37,17 +38,17 @@ Non-probabilistic:
 
 - [[Hidden Markov Models (HMM)]]
 ## Unsupervised Models
+- [[Association Rule Mining]]
 - [[Clustering and Clustering Analysis*]]
 - [[K-means Clustering]]
 - [[Hierarchical Clustering]]
+- [[Self Organizing Map (SOM)]]
 - [[DBSCAN]]
-- [[Association Rule Mining]]
-- [[Anomaly Detection]]
+- [[Expectation Maximization Algorithm]]
 ## Ensemble Learning 
 - [[Strong Learners (Ensemble Methods)]]
 - [[Random Forest]]
 - [[Model Boosting + AdaBoost]]
-
 ## Neural Networks
 - [[Neural Networks]]
 - [[Deep Learning Classifiers*]]
@@ -57,4 +58,6 @@ Non-probabilistic:
 - [[Loss Functions]]
 - [[Self Attention Networks (Transformer)]]
 - [[Large Language Models (LLM's)*]]
-
+## Other
+[[Generative Adversarial Network (GAN)]]
+[[ML for Information Retrieval]]

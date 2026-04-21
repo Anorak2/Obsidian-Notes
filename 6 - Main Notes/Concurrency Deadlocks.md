@@ -4,7 +4,7 @@
 Tags: [[Operating Systems]] [[Operating Systems]] [[Algorithms]]
 # Concurrency Deadlocks
 
-Deadlocks don't just happen, in fact four conditions need to be met:
+ For a deadlock to happen four conditions need to be met:
 1. Mutual Exclusion, only one process at a time can use a resource
 2. No preemption, release must be voluntary
 3. Hold and wait, a process must be holding at least one resource and waiting to acquire resources held by other processes

@@ -58,57 +58,33 @@
 [[Network Multiple Access Protocols]]
 [[Interconnection networks]]
 # Network Security
-- [[Network + Port scanning (Nmap and Nessus)]]
-- [[Sniffing Network Traffic]]
-- [[Denial of Service Attacks and DDoS Attacks]]
-- [[ARP Attacks*]]
-- [[OSPF attack and defenses*]]
-- [[BGP Security]]
+**Application Layer**
 - [[DNS Security]]
+- [HTTPS Security*]]
+- [[TLS and SSL*]]
+
+**Transport Layer**
 - [[TCP Security]]
 
-Wifi:
-- [[Wireless Network Cracking (WEP)]]
-- [[Wireless Network Cracking (WPA & WPA2)]]
-- [[WPA 3]]
+**Networking Layer**
+- [[Network + Port scanning (Nmap and Nessus)]]
 
-- [[Firewalls*]]
+**Link Layer**
+- [[ARP Attacks*]]
+- [[Sniffing Network Traffic]]
+- Wifi:
+	- [[Wireless Network Cracking (WEP)]]
+	- [[Wireless Network Cracking (WPA & WPA2)]]
+	- [[WPA 3]]
 
-Protocols
-– IP (and ICMP)
-– OSPF and BGP
-– TCP and UDP
-– DNS
-■ Security problems
-– Lack of authentication – spoof IP address
-– Lack of integrity – spoof header fields and payload
-– Lack of confidentiality
-– Protocol asymmetries
+**AS Level**
+- [[OSPF attack and defenses*]]
+- [[BGP Security]]
 
-Given an attack, you should know:
-– Which layer it exploits
-– Which protocol it exploits
-– Which vulnerability it exploits
-– Root causes of the vulnerabilities
-– Its consequences
-– Countermeasure or possible strategies to defend against it
-– Limitations of the defense
+**General Defenses**
+- [[Intrusion Detection Systems (IDS)]]
+- [[Virtual Private Networks (VPN)*]]
+- [[Firewalls]]
 
-Network-layer attack
-– ARP attacks
-– OSPF attacks
-– BGP attacks, e.g., prefix hijacking
-– DNS attacks, e.g., cache poisoning
-■ TCP-layer layer
-– Off-path attacks
-■ DoS attacks
-– Reflection attacks
-– Amplification attacks
-
-Mitigation methods
-– Filtering
-■ Patching existing protocols
-– RPKI and BGPSec
-– DNSSEC
-
-Lectures 3-7
+**General Attacks**
+- [[Denial of Service Attacks and DDoS Attacks]]

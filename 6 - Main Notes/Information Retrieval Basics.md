@@ -1,7 +1,7 @@
 
 2026-01-26
 
-Tags: [[EECS 767]] [[Data]]
+Tags: [[Information Retrieval]] [[Data]]
 # Information Retrieval Basics
  > Information retrieval (IR) is finding material (usually documents) of an unstructured nature (usually text) that satisfies an information need from within large collections (usually stored on computers)
 

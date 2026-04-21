@@ -1,7 +1,7 @@
 
 2026-03-09
 
-Tags: [[EECS 767]] [[Textual Data*]] [[Data]]
+Tags: [[Information Retrieval]] [[Textual Data*]] [[Data]]
 # Normalizing Text
 We need to “normalize” terms in indexed text as well as query terms into the same form since we want to match queries like U.S.A. and USA. This is also relevant in cases like associating " cleanliness" with "cleaning", and "Windows" and "windows". One alternative is to do an asymmetric expansion, so if our user enters "window" we search \["window", "windows", "Windows"\]. Asymmetric expansion is potentially more powerful but also less efficient.
 

@@ -1,7 +1,7 @@
 
 2026-02-09
 
-Tags: [[EECS 767]]
+Tags: [[Information Retrieval]]
 # Vector Space Model
 The vector space model has a t-dimensional vector space with the size of the vocabulary, and terms are the axes (dimensions) of the space. If we have a dictionary of 3,000 entries then our vector space will have 3,000 dimensions. In this space documents are points or vectors $d_1$ = (weight of $t_1$, weight of $t_2$, weight of $t_3$)
 

@@ -74,12 +74,12 @@ Ensuring valid state:
 - [[WPA 3]]
 - [[Denial of Service Attacks and DDoS Attacks]]
 
-- [[Firewalls*]]
+- [[Firewalls]]
 
 ---
 ## Other
 - [[SQL Injections*]]
-- [[Intrusion Detection Systems]]
+- [[Intrusion Detection Systems (IDS)]]
 - [[Rootkits]]
 - [[Exploit]()]()
 

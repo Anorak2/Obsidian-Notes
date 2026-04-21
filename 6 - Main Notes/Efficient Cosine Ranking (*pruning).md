@@ -1,7 +1,7 @@
 
 2026-02-16
 
-Tags: [[EECS 767]]
+Tags: [[Information Retrieval]]
 # Efficient Cosine Ranking
 In a vector space model computing the score can take a large amount of work on the CPU, and generally we have a tight window we are aiming for with Latency. This means that it just isn't possible to exhaustively score every document on every query.
 

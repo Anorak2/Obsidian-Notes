@@ -1,7 +1,7 @@
 
 2026-03-09
 
-Tags: [[EECS 767]] [[Data]] [[Textual Data*]]
+Tags: [[Information Retrieval]] [[Data]] [[Textual Data*]]
 # Stop Word Removal
 With a stop list, you exclude from dictionary entirely the commonest words. Intuition is that they have little semantic content: the, a, and, to, be.  There are a lot of them: ~30% of postings (or more) for top 30 words.
 

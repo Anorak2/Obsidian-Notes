@@ -1,7 +1,7 @@
 
 2025-12-26
 
-Tags: [[Software Engineering]]
+Tags: [[Software Development]]
 # Test Driven Development
 Test driven development is a design practice with the goal of producing more reliable software, with the idea that developers might fit their test cases to the code rather than generate representational test cases. TDD solves this by having the programmer write representative test cases that fail, and then developing software that satisfies those test cases. In "pure" TDD you **only** write the minimum amount of code to satisfy the test cases, i.e. if I only had the case add(2, 5) -> 7 then `return 7` would be "correct" under TDD.
 

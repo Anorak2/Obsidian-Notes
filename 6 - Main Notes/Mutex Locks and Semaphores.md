@@ -3,7 +3,7 @@
 
 Tags: [[Operating Systems]] [[Operating Systems]]
 # High Level Synchronization 
-## Locks
+## Mutex Locks
 Locks are a general solution to the synchronization problem that allows us to protect a critical section, we just need to acquire a lock on enter and release it on exit. On a uni-core system this means that while there is no true concurrency the threads can't be interrupted so we need to disable and enable interrupts when we are done. 
 
 On a multicore processor we need hardware support since just disabling interrupts doesn't work anymore, so we need atomic synchronization instructions: test&set and compare&swap.

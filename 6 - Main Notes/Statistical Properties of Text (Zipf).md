@@ -1,7 +1,7 @@
 
 2026-02-16
 
-Tags: [[EECS 767]] [[Data]]
+Tags: [[Information Retrieval]] [[Data]]
 # Statistical Properties of Text (Zipf)
 When we are analyzing text we'll notice something rather immediately, tokens are not uniformly distributed an they also aren't normally distributed. Rather, they exhibit a Zipf distribution.
 ## Zipf

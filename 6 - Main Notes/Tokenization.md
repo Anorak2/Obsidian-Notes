@@ -1,7 +1,7 @@
 
 2026-02-22
 
-Tags: [[Data Mining and Machine Learning]] [[EECS 767]] [[Data]]
+Tags: [[Data Mining and Machine Learning]] [[Information Retrieval]] [[Data]]
 # Tokenization
 Tokenization is chopping documents into pieces, throw away “useless” stuff (though in modern times we stopped this". When we are done we are left with individual tokens ex \["Friends", "Countrymen", "Romans"\]. 
 

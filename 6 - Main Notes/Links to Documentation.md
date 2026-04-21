@@ -17,6 +17,8 @@ Tags: [[meta notes]]
 - [fastapi example project](https://github.com/fastapi/full-stack-fastapi-template)
 - [FastAPI - Swagger UI](http://localhost:8000/docs)
 
+**Java**
+- [Interview Prerp](https://howtodoinjava.com/java-interview-questions/)
 **Javascript**
 - [Control flow and error handling Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 

@@ -1,7 +1,7 @@
 
 2026-03-09
 
-Tags: [[EECS 767]] 
+Tags: [[Information Retrieval]] 
 # Full IR in Modern Web Systems
 This section focuses on what is currently being done in integrated web IR systems.
 
@@ -79,3 +79,4 @@ In 2025:
 # References
 - [[Vector Space Model]]
 - [[Boolean Information Retrieval Model]]
+- [[Web Crawlers]]

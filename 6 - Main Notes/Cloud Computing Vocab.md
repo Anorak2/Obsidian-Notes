@@ -1,0 +1,26 @@
+
+2026-04-21
+
+Tags: [[Software Development]]
+# Cloud Computing Vocab
+
+| Term               | Defintion                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cloud Computing    | Cloud Computing is a delivery model for services such as storage (files/database), compute power (windows linux etc), networking, and analytics like performance data or telemetry. All of these services are delivered over the internet, but must also include key characteristics.                                                                                                |
+| Scalability        | Cloud gives you a way to scale up either the sizes or amounts of containers/virtual machines. Scaling is a way of adding or removing resources                                                                                                                                                                                                                                       |
+| Elasticity         | A properly designed cloud system allows a service to automatically scale dynamically                                                                                                                                                                                                                                                                                                 |
+| Agility            | The ability to react quickly, this means seconds/minutes/hours as opposed to on premises which can take days to months                                                                                                                                                                                                                                                               |
+| Fault Tolerance    | All of the services we spin up have to run on servers, and if there is an issue with a server or a disk the architecture should prevent data loss and maintain uptime. Fault tolerance is the ability to remain up and running during component and service failures.                                                                                                                |
+| Disaster Recovery  | A disaster is a serious disruption of services caused by natural or human induced causes such as a flood. Disaster recovery means setting up two identical copies of an instance in two different regions with a DNS routing so that users get automatically sent to the working version. Disaster Recovery is the ability to recover from an event that has taken down the service. |
+| High  Availability | This is a simple measure of how often the service is accessible to users, where downtime can either be planned such as patching or bugs. 99% availability means 3 days downtime per year, 99.9% means about 8/9 hours a year, many go for 99.99 or 52 minutes a year.                                                                                                                |
+|
+| --------------- | |
+
+
+| Term                        | Definitions and Use Cases                                                                                                                                                                                                                                                                  |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Infrastructure as a Service | The cloud provider manages the infrastructure, ie networking hardware and virtualization, while you manage the platform and the software. This means OS, middleware, runtime and the data + applications. Often used for migration of workloads, test & development, and storages/backups. |
+| Platform as a Service       | The cloud provider will manage the infrastructure and the platform. This means not just infrastructure but the OS, security patches, and runtime. You only need to build/manage the software, this is used for most cloud software deployments                                             |
+| Software as a Service       | Cloud manager provides everything and you do nothing, this is off the shelf applications like outlook or teams.                                                                                                                                                                            |
+ # References
+- 

@@ -8,12 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b316942ee5c9c028",
+            "id": "87087551809b0d0c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Tree*.md",
+                "file": "6 - Main Notes/Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,17 +28,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Tree*"
+              "title": "Design"
             }
           },
           {
-            "id": "9de080e210898a99",
+            "id": "76dcddb6fbe3cde8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Advanced Encryption Standard (AES)*.md",
+                "file": "8 - Projects/Active/Moovie Night/2. Architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Advanced Encryption Standard (AES)*"
+              "title": "2. Architecture"
             }
           },
           {
-            "id": "89144e1017b59950",
+            "id": "4087b23a7ce5c4ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "4 - Indexes/Software Development.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +78,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Software Development"
+            }
+          },
+          {
+            "id": "e12e6f642a6d632f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Public vs Private Cloud.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Public vs Private Cloud"
+            }
+          },
+          {
+            "id": "f722c6215a515aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Cloud Computing Vocab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing Vocab"
+            }
+          },
+          {
+            "id": "72f22fceeffd2fc3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -107,7 +167,7 @@
             }
           },
           {
-            "id": "f1e15c407a0e37c0",
+            "id": "c1506bd848a8c6d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,54 +269,54 @@
       "templates:Insert template": false
     }
   },
-  "active": "89144e1017b59950",
+  "active": "72f22fceeffd2fc3",
   "lastOpenFiles": [
-    "TODO.md",
-    "4 - Indexes/Data Mining and Machine Learning.md",
-    "6 - Main Notes/Strong Learners (Ensemble Methods).md",
-    "6 - Main Notes/HTTP.md",
-    "6 - Main Notes/HTTP status codes.md",
-    "6 - Main Notes/Model Boosting + AdaBoost.md",
-    "6 - Main Notes/Tree*.md",
-    "6 - Main Notes/Random Forest.md",
-    "6 - Main Notes/Advanced Encryption Standard (AES)*.md",
+    "6 - Main Notes/temp*.md",
+    "8 - Projects/Ideas.md",
+    "2 - Source Material/images/Pasted image 20260330012847.png",
+    "2 - Source Material/images/Pasted image 20250217143005.png",
+    "2 - Source Material/images/Pasted image 20260420123143.png",
+    "7 - writing/Temp.md",
     "6 - Main Notes/Untitled.md",
-    "6 - Main Notes/The Normal Forms (NF).md",
-    "4 - Indexes/Databases.md",
-    "6 - Main Notes/Adversary to Quicksort.md",
-    "4 - Indexes/Useful Commands.md",
-    "4 - Indexes/Software Security.md",
-    "6 - Main Notes/Access Control Lists*.md",
-    "6 - Main Notes/Arrays.md",
+    "2 - Source Material/images/Pasted image 20260420122649.png",
+    "2 - Source Material/images/Pasted image 20260421021548.png",
+    "TODO.md",
+    "6 - Main Notes/Public vs Private Cloud.md",
+    "4 - Indexes/Software Development.md",
+    "6 - Main Notes/Design.md",
+    "6 - Main Notes/Cloud Computing Vocab.md",
+    "8 - Projects/Active/Moovie Night/2. Architecture.md",
+    "8 - Projects/Active/Moovie Night/1. Base Idea.md",
+    "8 - Projects/Archived",
+    "8 - Projects/On Hold",
+    "8 - Projects/Active",
+    "8 - Projects/Active/Moovie Night",
+    "8 - Projects",
+    "6 - Main Notes/Measuring and Analyzing Social Networks.md",
+    "6 - Main Notes/Basic Social Networks.md",
     "3b - Classes/Networking and Network Security.md",
-    "4 - Indexes/Data Structures.md",
-    "6 - Main Notes/Prompt Injection Techniques.md",
-    "Recently Modified and Created.base",
+    "3b - Classes/Information Retrieval.md",
+    "6 - Main Notes/Social Network Search and Recommendations.md",
+    "6 - Main Notes/Full IR in Modern Web Systems.md",
+    "6 - Main Notes/Web Crawlers.md",
+    "6 - Main Notes/Hyperlink-Induced Topic Search (HITS).md",
+    "6 - Main Notes/Intro to Web Link Analysis.md",
+    "6 - Main Notes/Clustering for Information Retrieval.md",
+    "6 - Main Notes/Problem Solving Strategies.md",
     "Analytics 2.0.md",
-    "6 - Main Notes/Wireless Network Cracking (WEP).md",
-    "6 - Main Notes/WPA 3.md",
-    "6 - Main Notes/Wireless Networks.md",
-    "6 - Main Notes/Wireless Network Cracking (WPA & WPA2).md",
-    "6 - Main Notes/Why cloud computing.md",
-    "2 - Source Material/images/Pasted image 20260212230419.png",
-    "2 - Source Material/images/Pasted image 20260309145847.png",
-    "7 - writing/images/Pasted image 20260313212358.png",
+    "6 - Main Notes/Page Rank.md",
+    "2 - Source Material/images/Pasted image 20260420130231.png",
+    "2 - Source Material/images/Pasted image 20260420123133.png",
+    "6 - Main Notes/Links to Documentation.md",
+    "6 - Main Notes/Entra ID*.md",
+    "2 - Source Material/images/Pasted image 20260408210719.png",
+    "2 - Source Material/images/Pasted image 20260408205314.png",
+    "2 - Source Material/images/Pasted image 20260327211938.png",
+    "TLS",
+    "Recently Modified and Created.base",
     "7 - writing/images",
-    "7 - writing/images/Pasted image 20260313211936.png",
     "7 - writing",
     "writing",
-    "-",
-    "7",
-    "2 - Source Material/images/Pasted image 20260312004046.png",
-    "2 - Source Material/images/Pasted image 20260312003221.png",
-    "2 - Source Material/images/Pasted image 20260309145932.png",
-    "2 - Source Material/images/Pasted image 20260309140349.png",
-    "2 - Source Material/images/Pasted image 20260309135823.png",
-    "4913",
-    "TODO.md~",
-    "TODO.m",
-    "2 - Source Material/images/Pasted image 20251003142419.png",
-    "1 - Rough Notes/666 Assignment 1.pdf",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

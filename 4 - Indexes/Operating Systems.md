@@ -11,7 +11,7 @@
 - [[Inter-Process Communication (IPC)]]
 - [[Threads]]
 - [[Peterson's Synchronization Control]]
-- [[Locks and Semaphores]]
+- [[Mutex Locks and Semaphores]]
 
 - [[Concurrency Deadlocks]]
 - [[Practical CPU Scheduling Algorithms]]

@@ -1,7 +1,7 @@
 
 2026-02-02
 
-Tags: [[EECS 767]]
+Tags: [[Information Retrieval]]
 # Evaluating Information Retrieval
 We evaluate information retrieval systems because otherwise everything becomes arbitrary, we can't check for quality and we aren't able to make informed decisions. Ideally we want to be constantly validating the quality of our systems, if it's automated then even better.
 

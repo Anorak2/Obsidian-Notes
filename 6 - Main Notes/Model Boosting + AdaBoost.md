@@ -14,6 +14,7 @@ An iterative procedure to adaptively change distribution of training data by foc
 
 ![[Pasted image 20251216003705.png]]
 
+This approach is successful but in the original method it requires a very large training sample.
 ## AdaBoost
 ![[Pasted image 20251216003811.png]]
 ![[Pasted image 20251216003856.png]]

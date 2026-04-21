@@ -33,7 +33,7 @@ gpg --output test.out -d test.gpg
 - shows the route in real time with autonomous systems numbers
 
 DNS:
-- `dig`
+- `diggpg --cipher-algo AES256 --output test.gpg --symmetric test.out`
 - `nslookup`
 
 **Raspberry Pi**

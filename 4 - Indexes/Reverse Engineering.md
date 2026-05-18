@@ -17,7 +17,6 @@
 - [[Dynamic Lib Hijacking - LD Preload]]
 
 [[Useful commands for Reverse Eng]]
-[[Reverse Homework]]
 1. file
 2. ltrace
 3. strace

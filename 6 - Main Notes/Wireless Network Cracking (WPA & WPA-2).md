@@ -1,7 +1,7 @@
 
 2025-04-24
 
-Tags: [[Networking and Network Security]] [[Software Security]] [[Tools]]
+Tags: [[Networking]] [[Tools]] [[Network Security]]
 # Wireless Network Cracking (WPA & WPA2)
 
 WPA, or Wireless Protected Access is a wireless communication protocol that is much more secure than a protocol like WEP.
@@ -40,6 +40,6 @@ open a root terminal since otherwise this will suck
 
 [[Wireless Network Cracking (WEP)]]
 
-[[WPA 3]]
+[[WPA-3 Security]]
 
 [[Wireless Networks]]

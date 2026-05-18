@@ -70,8 +70,8 @@ Ensuring valid state:
 - [[Sniffing Network Traffic]]
 
 - [[Wireless Network Cracking (WEP)]]
-- [[Wireless Network Cracking (WPA & WPA2)]]
-- [[WPA 3]]
+- [[Wireless Network Cracking (WPA & WPA-2)]]
+- [[WPA-3 Security]]
 - [[Denial of Service Attacks and DDoS Attacks]]
 
 - [[Firewalls]]

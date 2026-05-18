@@ -5,6 +5,30 @@
       "ctime": 1765865922754,
       "path": "Main.md",
       "title": "Bibliography"
+    },
+    {
+      "type": "group",
+      "ctime": 1779083641573,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1779083619404,
+          "path": "4 - Indexes/Software Engineering.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1779083591447,
+          "path": "4 - Indexes/Performance Measurement & Reliability.md",
+          "title": "Software Performance"
+        },
+        {
+          "type": "file",
+          "ctime": 1779083651308,
+          "path": "4 - Indexes/High Performance Computing.md",
+          "title": "HPC"
+        }
+      ],
+      "title": "Software"
     }
   ]
 }

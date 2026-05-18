@@ -1,7 +1,7 @@
 
 2025-12-30
 
-Tags: [[Networking and Network Security]] [[Tools]]
+Tags: [[Networking]] [[Tools]]
 # DIG and nslookup
 
 

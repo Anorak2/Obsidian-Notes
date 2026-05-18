@@ -23,6 +23,7 @@ https://www.ibm.com/docs/en/i/7.5.0?topic=profiling-types
 **Other**
 - [[Assembly Cheatsheet]]
 - [[Malloc and Free*]]
+- [[Website Performance]]
 ## Reliability
 - [[Failover]]
 - [[Chaos Testing]]

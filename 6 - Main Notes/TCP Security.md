@@ -1,7 +1,7 @@
 
 2026-02-18
 
-Tags: [[Networking and Network Security]]
+Tags: [[Networking]] [[Network Security]]
 # TCP Security
 ### On-path Attacks
 The most obvious vector for attacking TCP is by spoofing a packet, since by their nature TCP packets need to be read by the router.

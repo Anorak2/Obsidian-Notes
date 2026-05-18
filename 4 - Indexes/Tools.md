@@ -1,7 +1,7 @@
 ## General CLI
 - [[DIG and nslookup*]]
 - [[Useful commands for Reverse Eng|Useful Reverse Engineering Commands]]
-- [[4 - Indexes/Useful Commands|Useful Commands]]
+- [[Useful Commands|Useful Commands]]
 - [[Git CLI Commands*]]
 - [[Using John the Ripper*]]
 ## Security
@@ -9,4 +9,4 @@
 - [[Metasploit Basics*]]
 - [[Password Cracking]]
 - [[Wireless Network Cracking (WEP)]]
-- [[Wireless Network Cracking (WPA & WPA2)]]
+- [[Wireless Network Cracking (WPA & WPA-2)]]

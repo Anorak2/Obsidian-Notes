@@ -1,7 +1,7 @@
 
 - [[Performance Measurement & Reliability]]
 - [[Concurrency]]
-- [[Software Development]]
+- [[Software Engineering]]
 #### Algorithms 
 - [[Algorithms]]
 - [[High Performance Computing]]
@@ -10,17 +10,14 @@
 - [[Databases]]
 - [[Data Mining and Machine Learning]]
 #### Communication
-- [[Networking and Network Security]]
+- [[Networking]]
+- [[Network Security]]
 #### Security
 - [[Reverse Engineering]]
-- [[Software Security]]
 - [[Software Security]]
 #### Low Level
 - [[Operating Systems]]
 - [[Computer Architecture]]
-
-**Meta:**
-- [[Software Development]]
 
 
 

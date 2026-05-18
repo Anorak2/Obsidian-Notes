@@ -1,7 +1,7 @@
 
 2025-04-24
 
-Tags: [[Software Security]] [[Networking and Network Security]]
+Tags: [[Software Security]] [[Networking]] [[Network Security]]
 # Intrusion Detection Systems
 Fundamentally intrusion is an event that violates the security policy of the system: Physical access, Software vulnerability exploitation, Virus, malware, Social engineering, Password guessing, Network traffic interception, other. Intrusion detection is the process of monitoring and analyzing system events to identify such intrusions. IDS automates the process and uses an audit trail for postmortems.
 

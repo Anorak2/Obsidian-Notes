@@ -1,7 +1,7 @@
 
 2025-04-10
 
-Tags: [[Software Security]] [[Networking and Network Security]]
+Tags: [[Networking]] [[Network Security]]
 # Wireless Network Cracking (WEP)
 ## Security
 WEP is one of the wireless security protocols like WPA and WPA2, and the acronym stands for Wired Equivalent Privacy. This protocol is a security algorithm for IEEE 802.11 wireless networks. WEP uses the stream cipher R4 for confidentiality and the ```CRC-32``` checksum to verify integrity, however WEP has many flaws and has been deprecated.
@@ -19,7 +19,7 @@ we can exploit this vulnerability and crack the network quite easily using ```ai
 4. ```airodump-ng –w [ESSID] –c [Channel] –bssid [BSSID] mon0```, we tell the card to start listening to all of the traffic on a given wireless network and we can write it to a file using ```airodump-ng mon0 –[file-name]```. We want as many packets as we can possibly get, we want at least 10,000 but we may need more.
 5. Now that we have the data captured from the WEP device we can crack the password with ```aircrack-ng [file-name].cap``` 
 # References
-[[Wireless Network Cracking (WPA & WPA2)]]
+[[Wireless Network Cracking (WPA & WPA-2)]]
 
 [[Stream Ciphers]]
 

@@ -1,7 +1,7 @@
 
 2026-02-10
 
-Tags: [[Networking and Network Security]]
+Tags: [[Networking]] [[Network Security]]
 # BGP Security
 BGP is routing protocol in between AS but not everyone agrees on the "best" paths. ISP's want to retain control over routing, and will sometimes make deals to route traffic or will try to avoid others for security or other reasons. We have gotten closer to a global solution but often the problems with BGP aren't technical and are instead related to costs, backwards compatibility, and incremental deployment.
 

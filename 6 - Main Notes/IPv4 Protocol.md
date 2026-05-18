@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[Networking and Network Security]]
+Tags: [[Networking]]
 # IPv4 Protocol
 ![[Pasted image 20251120003312.png]]
 

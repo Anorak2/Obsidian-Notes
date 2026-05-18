@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Software Development]] [[Performance Measurement & Reliability]] 
+Tags: [[Software Engineering]] [[Performance Measurement & Reliability]] 
 # Software Development Life Cycle (SDLC)
 ## Testing Types:
 Common SDLC has the problem where testing occurs only at the very end, which can be problematic. We can help fix this with Software Quality Analysis (SQA) which focuses on the entire SDLC and is proactive rather than reactive.

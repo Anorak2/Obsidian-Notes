@@ -1,7 +1,7 @@
 
 2024-12-24
 
-Tags: [[Programming]] [[Web]] [[Networking and Network Security]]
+Tags: [[Programming]] [[Web]] [[Networking]]
 # HTTP Requests
 ![[Pasted image 20241224154851.png]]
 
@@ -61,3 +61,4 @@ HTTP/3 runs on top of the ```QUIC``` transport protocol which is based on UDP, t
 # References
 - [[HTTP in Go]]
 - [[TCP]]
+- [[Web Cookies]]

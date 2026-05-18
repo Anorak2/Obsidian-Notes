@@ -17,6 +17,9 @@ Tags: [[meta notes]]
 - [fastapi example project](https://github.com/fastapi/full-stack-fastapi-template)
 - [FastAPI - Swagger UI](http://localhost:8000/docs)
 
+**Git**
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
 **Java**
 - [Interview Prerp](https://howtodoinjava.com/java-interview-questions/)
 **Javascript**
@@ -37,6 +40,9 @@ Tags: [[meta notes]]
 
 **Python**
 - [Python Architecture patterns](https://www.cosmicpython.com/book/preface.html)
+
+**Sway**
+- [Sway bar](https://github.com/Alexays/Waybar/wiki/Examples)
 
 **Vue**
 - [PrimeVue docs](https://primevue.org/setup/) 

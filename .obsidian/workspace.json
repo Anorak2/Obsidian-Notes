@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87087551809b0d0c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Design.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Design"
-            }
-          },
-          {
-            "id": "76dcddb6fbe3cde8",
+            "id": "4b9fcbdc8697620f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Projects/Active/Moovie Night/2. Architecture.md",
+                "file": "6 - Main Notes/Internet Censorship.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Architecture"
+              "title": "Internet Censorship"
             }
           },
           {
-            "id": "4087b23a7ce5c4ce",
+            "id": "b5c18000146b9873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Software Development.md",
+                "file": "8 - Projects/Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Development"
+              "title": "Ideas"
             }
           },
           {
-            "id": "e12e6f642a6d632f",
+            "id": "ae6fddd7a569cb24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Public vs Private Cloud.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Public vs Private Cloud"
+              "title": "TODO"
             }
           },
           {
-            "id": "f722c6215a515aad",
+            "id": "87b9263e5837ffd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Cloud Computing Vocab.md",
+                "file": "6 - Main Notes/DNS Security.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,21 +100,66 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing Vocab"
-            }
-          },
-          {
-            "id": "72f22fceeffd2fc3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "DNS Security"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
+      },
+      {
+        "id": "27588de2ab406fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be84e48890353a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Main"
+            }
+          },
+          {
+            "id": "00db6f1beaae6b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Networking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Networking"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,6 +183,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "b8bcb3f1f49be978",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -269,54 +298,54 @@
       "templates:Insert template": false
     }
   },
-  "active": "72f22fceeffd2fc3",
+  "active": "ae6fddd7a569cb24",
   "lastOpenFiles": [
-    "6 - Main Notes/temp*.md",
+    "6 - Main Notes/Network Security.md",
+    "6 - Main Notes/Session Tokens.md",
+    "4 - Indexes/Networking.md",
+    "6 - Main Notes/Web Tracking.md",
+    "6 - Main Notes/Web Cookies.md",
+    "6 - Main Notes/Web Security.md",
+    "6 - Main Notes/Denial of Service Attacks and DDoS Attacks.md",
+    "6 - Main Notes/Internet Censorship.md",
+    "6 - Main Notes/Decentralized Anonymity.md",
+    "6 - Main Notes/Virtual Private Networks (VPN).md",
+    "6 - Main Notes/General Anonymous Communication.md",
+    "6 - Main Notes/Firewalls.md",
+    "6 - Main Notes/Intrusion Detection Systems (IDS).md",
+    "6 - Main Notes/BGP Security.md",
+    "6 - Main Notes/OSPF attack and defenses*.md",
+    "6 - Main Notes/WPA-3 Security.md",
+    "6 - Main Notes/Wireless Network Cracking (WPA & WPA-2).md",
+    "6 - Main Notes/Wireless Network Cracking (WEP).md",
+    "6 - Main Notes/Sniffing Network Traffic.md",
+    "6 - Main Notes/ARP Attacks*.md",
+    "6 - Main Notes/Network + Port scanning (Nmap and Nessus).md",
+    "6 - Main Notes/TCP Security.md",
     "8 - Projects/Ideas.md",
-    "2 - Source Material/images/Pasted image 20260330012847.png",
-    "2 - Source Material/images/Pasted image 20250217143005.png",
-    "2 - Source Material/images/Pasted image 20260420123143.png",
-    "7 - writing/Temp.md",
-    "6 - Main Notes/Untitled.md",
-    "2 - Source Material/images/Pasted image 20260420122649.png",
-    "2 - Source Material/images/Pasted image 20260421021548.png",
-    "TODO.md",
-    "6 - Main Notes/Public vs Private Cloud.md",
-    "4 - Indexes/Software Development.md",
-    "6 - Main Notes/Design.md",
-    "6 - Main Notes/Cloud Computing Vocab.md",
-    "8 - Projects/Active/Moovie Night/2. Architecture.md",
-    "8 - Projects/Active/Moovie Night/1. Base Idea.md",
+    "6 - Main Notes/DNS Security.md",
+    "Main.md",
+    "4 - Indexes/High Performance Computing.md",
+    "8 - Projects/Computer-Enhance",
+    "2 - Source Material/images/Pasted image 20260512012156.png",
+    "2 - Source Material/images/Pasted image 20260511234324.png",
+    "2 - Source Material/images/Pasted image 20260511234257.png",
+    "2 - Source Material/images/Pasted image 20260511233509.png",
+    "2 - Source Material/images/Pasted image 20260511232917.png",
+    "2 - Source Material/images/Pasted image 20260511231921.png",
+    "2 - Source Material/images/Pasted image 20260511230923.png",
+    "2 - Source Material/images/Pasted image 20260511225803.png",
+    "2 - Source Material/images/Pasted image 20260511220340.png",
+    "2 - Source Material/images/Pasted image 20260511213916.png",
     "8 - Projects/Archived",
     "8 - Projects/On Hold",
     "8 - Projects/Active",
     "8 - Projects/Active/Moovie Night",
     "8 - Projects",
-    "6 - Main Notes/Measuring and Analyzing Social Networks.md",
-    "6 - Main Notes/Basic Social Networks.md",
-    "3b - Classes/Networking and Network Security.md",
-    "3b - Classes/Information Retrieval.md",
-    "6 - Main Notes/Social Network Search and Recommendations.md",
-    "6 - Main Notes/Full IR in Modern Web Systems.md",
-    "6 - Main Notes/Web Crawlers.md",
-    "6 - Main Notes/Hyperlink-Induced Topic Search (HITS).md",
-    "6 - Main Notes/Intro to Web Link Analysis.md",
-    "6 - Main Notes/Clustering for Information Retrieval.md",
-    "6 - Main Notes/Problem Solving Strategies.md",
-    "Analytics 2.0.md",
-    "6 - Main Notes/Page Rank.md",
-    "2 - Source Material/images/Pasted image 20260420130231.png",
-    "2 - Source Material/images/Pasted image 20260420123133.png",
-    "6 - Main Notes/Links to Documentation.md",
-    "6 - Main Notes/Entra ID*.md",
-    "2 - Source Material/images/Pasted image 20260408210719.png",
-    "2 - Source Material/images/Pasted image 20260408205314.png",
-    "2 - Source Material/images/Pasted image 20260327211938.png",
     "TLS",
     "Recently Modified and Created.base",
     "7 - writing/images",
     "7 - writing",
-    "writing",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

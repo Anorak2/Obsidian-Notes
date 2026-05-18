@@ -1,7 +1,7 @@
 
 2026-04-21
 
-Tags: [[Software Development]]
+Tags: [[Software Engineering]]
 # Cloud Computing Vocab
 
 | Term               | Defintion                                                                                                                                                                                                                                                                                                                                                                            |

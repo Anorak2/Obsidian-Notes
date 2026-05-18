@@ -16,6 +16,7 @@
 - [[Test Driven Development]]
 - [[Software Measurement Methodology]]
 - [[Software Metrics]]
+- [[Website Performance]]
 
 **Architecture**
 - [[Software Development Life Cycle (SDLC)*]]
@@ -24,4 +25,3 @@
 **Azure**
 - [[Cloud Computing Vocab]]
 - [[Public vs Private Cloud]]
-

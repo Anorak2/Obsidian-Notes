@@ -1,7 +1,7 @@
 
 2025-11-20
 
-Tags: [[Networking and Network Security]]
+Tags: [[Networking]]
 # Border Gateway Protocol (BGP) 
 Border Gateway Protocol is the de-facto inter-domain routing protocol that holds the internet together. allows AS to advertise its existence, and the destinations it can reach, to rest of Internet: “I am here, here is who I can reach, and how”  BGP provides each AS a means to:  
 - eBGP: obtain AS reachability information from neighboring ASes 

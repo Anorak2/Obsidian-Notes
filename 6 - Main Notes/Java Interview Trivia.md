@@ -1,7 +1,7 @@
 
 2026-04-14
 
-Tags:[[Software Development]]
+Tags:[[Software Engineering]]
 # Java Interview Trivia
 [memory management](https://www.geeksforgeeks.org/java/java-memory-management/)
 [good prep list](https://howtodoinjava.com/java-interview-questions/)

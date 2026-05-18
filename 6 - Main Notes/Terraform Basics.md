@@ -1,7 +1,7 @@
 
 2026-03-30
 
-Tags: [[Software Development]]
+Tags: [[Software Engineering]]
 # Terraform Basics
 Infrastructure as Code (IaC) tools allow you to manage infrastructure with configuration files rather than through a graphical user interface. By doing this we can build, change, and manage infrastructure in an auditable, consistent, and repeatable way by defining resource configurations that can be tracked through versions, be reused easily, and shared.
 

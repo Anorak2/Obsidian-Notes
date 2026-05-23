@@ -17,21 +17,18 @@
 - [[Practical CPU Scheduling Algorithms]]
 
 **Memory** ---------------
-[[Virtual Memory and Paging]]
-[[Virtual Memory 2*]]
-[[Kernel Level Virtual Memory*]] 
+- [[Virtual Memory and Paging]]
+- [[Virtual Memory 2*]]
+- [[Kernel Level Virtual Memory*]] 
 
 **Filesystems / Disk Management**
-[[Filesystems and Files]]
-[[Directories]]
-[[FAT and EXT2 Filesystems]]
-
+- [[Filesystems and Files]]
+- [[Directories]]
+- [[FAT and EXT2 Filesystems]]
 
 **Other**
-[[Virtual Machines]]
-[[IO devices]]
+- [[Virtual Machines]]
+- [[IO devices]]
 
 **Protection / Security**
-[[File Protections and Security*]]
-
-[[EECS 678 Final]]
+- [[File Protections and Security*]]

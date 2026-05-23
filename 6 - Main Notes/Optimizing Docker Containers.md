@@ -2,7 +2,7 @@
 
 
 2026-02-23 Credit to Barrett B on this one
-Tags: [[Software Engineering]]
+Tags: [[Software Engineering (SWE)]]
 # Optimizing Docker Containers
 
 ## Layer Caching & General Dockerfile Performance Tips

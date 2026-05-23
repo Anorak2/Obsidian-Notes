@@ -8,154 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b9fcbdc8697620f",
+            "id": "516748611a42625c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "6 - Main Notes/Internet Censorship.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Kanban- Work.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "Internet Censorship"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Kanban- Work"
             }
           },
           {
-            "id": "b5c18000146b9873",
+            "id": "dfa733b54f970334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Projects/Ideas.md",
+                "file": "4 - Indexes/Software Engineering (SWE).md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Software Engineering (SWE)"
             }
           },
           {
-            "id": "ae6fddd7a569cb24",
+            "id": "98fd79dd66e8a331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Kanban- Goals.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "87b9263e5837ffd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/DNS Security.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DNS Security"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "27588de2ab406fca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4be84e48890353a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Main"
-            }
-          },
-          {
-            "id": "00db6f1beaae6b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Networking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Networking"
+              "icon": "lucide-trello",
+              "title": "Kanban- Goals"
             }
           }
         ],
@@ -204,16 +113,7 @@
                 "file": "TODO.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "TODO"
@@ -236,7 +136,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,25 +151,6 @@
         "id": "cb39acc4ea870d75",
         "type": "tabs",
         "children": [
-          {
-            "id": "97737096446c90cd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "3b - Classes/Networking and Network Security.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Networking and Network Security"
-            }
-          },
           {
             "id": "43b2567c604a87a0",
             "type": "leaf",
@@ -295,37 +177,41 @@
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ae6fddd7a569cb24",
+  "active": "dfa733b54f970334",
   "lastOpenFiles": [
-    "6 - Main Notes/Network Security.md",
-    "6 - Main Notes/Session Tokens.md",
-    "4 - Indexes/Networking.md",
-    "6 - Main Notes/Web Tracking.md",
-    "6 - Main Notes/Web Cookies.md",
-    "6 - Main Notes/Web Security.md",
-    "6 - Main Notes/Denial of Service Attacks and DDoS Attacks.md",
-    "6 - Main Notes/Internet Censorship.md",
-    "6 - Main Notes/Decentralized Anonymity.md",
-    "6 - Main Notes/Virtual Private Networks (VPN).md",
-    "6 - Main Notes/General Anonymous Communication.md",
-    "6 - Main Notes/Firewalls.md",
-    "6 - Main Notes/Intrusion Detection Systems (IDS).md",
-    "6 - Main Notes/BGP Security.md",
-    "6 - Main Notes/OSPF attack and defenses*.md",
-    "6 - Main Notes/WPA-3 Security.md",
-    "6 - Main Notes/Wireless Network Cracking (WPA & WPA-2).md",
-    "6 - Main Notes/Wireless Network Cracking (WEP).md",
-    "6 - Main Notes/Sniffing Network Traffic.md",
-    "6 - Main Notes/ARP Attacks*.md",
-    "6 - Main Notes/Network + Port scanning (Nmap and Nessus).md",
-    "6 - Main Notes/TCP Security.md",
-    "8 - Projects/Ideas.md",
-    "6 - Main Notes/DNS Security.md",
+    "6 - Main Notes/SQL C,R,U,D Rows.md",
+    "Kanban- Goals.md",
+    "6 - Main Notes/SQL Working with Tables.md",
+    "4 - Indexes/Software Engineering (SWE).md",
+    "6 - Main Notes/SQL Order of Execution.md",
+    "TODO.md",
+    "Kanban- Work.md",
+    "6 - Main Notes/SQL Joins.md",
+    "6 - Main Notes/SQL Queries (SELECT).md",
+    "6 - Main Notes/SQL Aggregation.md",
+    "6 - Main Notes/SQL Filtering (WHERE).md",
     "Main.md",
-    "4 - Indexes/High Performance Computing.md",
+    "6 - Main Notes/Service Time Distributions.md",
+    "Kanban- Notes.md",
+    "2 - Source Material/images/Pasted image 20260520153151.png",
+    "6 - Main Notes/Web Cookies.md",
+    "3 - Tags/SQL.md",
+    "1 - Rough Notes/Math/EECS 461 - Stats/Statistics Bibliography.md",
+    "1 - Rough Notes/Math/EECS 461 - Stats/Uniform CRV Distribution.md",
+    "6 - Main Notes/Geometric Distribution.md",
+    "1 - Rough Notes/Math/EECS 461 - Stats/Pascal Distribution.md",
+    "6 - Main Notes/Mean, Variance, ST Deviation.md",
+    "6 - Main Notes/Coefficient of Variation.md",
+    "1 - Rough Notes/Math/EECS 461 - Stats/Variance and ST Deviation.md",
+    "6 - Main Notes/Untitled 1.md",
+    "6 - Main Notes/JWT Tokens.md",
+    "6 - Main Notes/Session Tokens.md",
+    "2 - Source Material/images/Pasted image 20260519004057.png",
+    "Recently Modified and Created.base",
     "8 - Projects/Computer-Enhance",
     "2 - Source Material/images/Pasted image 20260512012156.png",
     "2 - Source Material/images/Pasted image 20260511234324.png",
@@ -335,15 +221,12 @@
     "2 - Source Material/images/Pasted image 20260511231921.png",
     "2 - Source Material/images/Pasted image 20260511230923.png",
     "2 - Source Material/images/Pasted image 20260511225803.png",
-    "2 - Source Material/images/Pasted image 20260511220340.png",
-    "2 - Source Material/images/Pasted image 20260511213916.png",
     "8 - Projects/Archived",
     "8 - Projects/On Hold",
     "8 - Projects/Active",
     "8 - Projects/Active/Moovie Night",
     "8 - Projects",
     "TLS",
-    "Recently Modified and Created.base",
     "7 - writing/images",
     "7 - writing",
     "Untitled.canvas",

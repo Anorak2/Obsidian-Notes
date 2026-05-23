@@ -2,8 +2,8 @@
 2026-05-11
 
 Tags: [[Web]] [[Networking]] [[Network Security]]
-# Decentralized Anonymity
-A design proposed by Reiter and Rubin in 1998. It's an overlay network called “crowd” with a group of “jondos” or john does. The idea is to hide the sender among jondos – anyone could send the message to the receiver.
+# Decentralized Anonymity - Onion Routing
+Onion Routing is a design proposed by Reiter and Rubin in 1998. It's an overlay network called “crowd” with a group of “jondos” or john does. The idea is to hide the sender among jondos – anyone could send the message to the receiver.
 
 ##  Basic Crowds
 Two Steps:

@@ -17,7 +17,8 @@ Set-cookie:
 - Domain and path inform the browser about which sites to send this cookie to
 - Secure cookie: can only be sent when the request is made using SSL
 - Expires: The maximum lifetime of the cookie, If not specified, it means for the current session only
-- HttpOnly: cookie can only be sent by browser, but cannot be accessed by Javascript
+- `HttpOnly`: cookie can only be sent by browser, but cannot be accessed by Javascript
+- `Samesite`: can be `[strict, lax, none]` and it helps to enhance security against CSRF attacks. The `strict` value will prevent the cookie from being sent by the browser to the target site in all cross-site browsing contexts, even when following a regular link. Under the strict value if I clicked a link to a website like a private github repository, then github wouldn't be sent the cookie and I wouldn't be able to access the repo. The `lax` value is a balance between security and usability, in that same scenario as above the github website would receive the cookie but not for methods prone to CSRF attacks like `POST`.  `none` offers no such protections.
 
 Client side cookies can be easily set, for example in javascript
 ```document.cookie = “name=value; expires=…; ”```
@@ -50,3 +51,5 @@ Evercookies use multiple storage vectors to store content
 # References
 - [[HTTP]] 
 - [[Session Tokens]]
+- [OWASP: Samesite](https://owasp.org/www-community/SameSite)
+- [[CSRF Attacks*]]

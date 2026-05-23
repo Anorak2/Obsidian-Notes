@@ -28,7 +28,7 @@
 - [[Denial of Service Attacks and DDoS Attacks]]
 - [[General Anonymous Communication]]
 - [[Virtual Private Networks (VPN)]]
-- [[Decentralized Anonymity]]
+- [[Decentralized Anonymity - Onion Routing + TOR]]
 - [[Internet Censorship]]
 
 **Web:**
@@ -36,3 +36,5 @@
 - [[Web Cookies]]
 - [[Session Tokens]]
 - [[Web Tracking]]
+- [[CSRF Attacks*]]
+- [[Oauth2]]

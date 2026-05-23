@@ -27,6 +27,5 @@ Store in browser cookie
 - `Set-Cookie: SessionToken=fduhye63sfdb`
 - Browser sends cookie with every request, even if request not initiated by the user (CSRF attacks)
 
-The solution is to use a combination of these methods
 # References
 - [[Web Cookies]]

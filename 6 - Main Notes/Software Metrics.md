@@ -1,7 +1,7 @@
 
 2025-12-16
 
-Tags: [[Software Engineering]] [[Performance Measurement & Reliability]]
+Tags: [[Software Engineering (SWE)]] [[Performance Measurement & Reliability]]
 # Software Metrics
 A metric is a measurement of the degree to which a property is present in a software system / posses some property. Often metric is used as a synonym to a measurement.
 

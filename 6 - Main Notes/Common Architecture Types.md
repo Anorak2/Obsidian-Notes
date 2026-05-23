@@ -1,7 +1,7 @@
 
 2025-12-17
 
-Tags: [[Programming]] [[Software Engineering]]
+Tags: [[Programming]] [[Software Engineering (SWE)]]
 # Common Architecture Types
 key design factors:
 - Development: Modularity, Testability, Ease of Integration  

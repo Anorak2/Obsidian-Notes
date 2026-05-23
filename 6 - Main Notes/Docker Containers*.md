@@ -1,7 +1,7 @@
 
 2026-02-08
 
-Tags: [[Software Engineering]]
+Tags: [[Software Engineering (SWE)]]
 # Docker Containers
 A container is a running version of an instance, and we can spin up as many containers as we want from a single instance
 

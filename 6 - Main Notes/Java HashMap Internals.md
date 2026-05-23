@@ -1,7 +1,7 @@
 
 2026-04-14
 
-Tags:
+Tags: [[Software Engineering (SWE)]]
 # Java HashMap Internals
 ```java
 class Node<K, V> {

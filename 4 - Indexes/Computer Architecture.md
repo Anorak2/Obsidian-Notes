@@ -1,3 +1,4 @@
+
 **Basics**
 - [[two's complement*]]
 - [[Integer Overflow]]
@@ -5,6 +6,7 @@
 - [[MIPS ISA]]
 
 **CPU Behavior**
+- [[Instruction Decode]]
 - [[CPU Data Path*]]
 - [[Multi-Data Path and Pipelining]]
 - [[CPU Branch Prediction]]
@@ -17,6 +19,3 @@
 - [[Cache Associativity]]
 - [[Cache Policies]]
 - [[Virtual Memory and Paging]]
-
-
-Study lecture 18 practice problem 3

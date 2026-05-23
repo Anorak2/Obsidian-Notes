@@ -58,5 +58,5 @@ $$D=\frac{S^1}{S^0}=\frac{-\sum p_u^1 \times \log p_u^1}{-\sum p_u^0 \times \log
 # References
 - [eff anonymity](https://www.eff.org/issues/anonymity)
 - [[Virtual Private Networks (VPN)]]
-- [[Decentralized Anonymity]]
+- [[Decentralized Anonymity - Onion Routing + TOR]]
 - 

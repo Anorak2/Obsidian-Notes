@@ -1,7 +1,7 @@
 
 2026-02-08
 
-Tags: [[Software Engineering]]
+Tags: [[Software Engineering (SWE)]]
 # Docker Basics
 
 ```Bash

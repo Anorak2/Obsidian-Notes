@@ -1,6 +1,6 @@
 
 [[Statistics Bibliography]]
-This one is related to [[Geometric]] and [[Poisson]], and actually just using a ceiling function will convert this into a geometric DRV
+This one is related to [[Geometric Distribution]] and [[Poisson]], and actually just using a ceiling function will convert this into a geometric DRV
 
 **PDF**
 $f_y(y)=\lambda e^{-\lambda y}$  if $y \geq 0$ 

@@ -34,7 +34,7 @@ void query() {
     // main logic
 }
 ```
-As algorithmica mentions what we are actually doing is a [[Bernoulli]] Distribution until we get a success, which is also called a [[Geometric]] distribution. So instead we could use a geometric distribution with a counter.
+As algorithmica mentions what we are actually doing is a [[Bernoulli]] Distribution until we get a success, which is also called a [[Geometric Distribution]] distribution. So instead we could use a geometric distribution with a counter.
 ```c++
 void query() {
     static next_sample = geometric_distribution(sample_rate);

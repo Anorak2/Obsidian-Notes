@@ -13,7 +13,7 @@
         {
           "type": "file",
           "ctime": 1779083619404,
-          "path": "4 - Indexes/Software Engineering.md"
+          "path": "4 - Indexes/Software Engineering (SWE).md"
         },
         {
           "type": "file",
@@ -28,7 +28,38 @@
           "title": "HPC"
         }
       ],
-      "title": "Software"
+      "title": "Group 1"
+    },
+    {
+      "type": "group",
+      "ctime": 1779084453057,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1779084623824,
+          "path": "4 - Indexes/Operating Systems.md",
+          "title": "Operating Systems"
+        },
+        {
+          "type": "file",
+          "ctime": 1779084581925,
+          "path": "4 - Indexes/Computer Architecture.md",
+          "title": "Architecture"
+        },
+        {
+          "type": "file",
+          "ctime": 1779084392917,
+          "path": "6 - Main Notes/Network Security.md",
+          "title": "Network Security"
+        },
+        {
+          "type": "file",
+          "ctime": 1779084378735,
+          "path": "4 - Indexes/Databases.md",
+          "title": "Databases"
+        }
+      ],
+      "title": "Group 2"
     }
   ]
 }

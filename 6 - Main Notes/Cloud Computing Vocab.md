@@ -1,7 +1,7 @@
 
 2026-04-21
 
-Tags: [[Software Engineering]]
+Tags: [[Software Engineering (SWE)]]
 # Cloud Computing Vocab
 
 | Term               | Defintion                                                                                                                                                                                                                                                                                                                                                                            |

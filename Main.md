@@ -1,7 +1,7 @@
 
 - [[Performance Measurement & Reliability]]
 - [[Concurrency]]
-- [[Software Engineering]]
+- [[Software Engineering (SWE)]]
 #### Algorithms 
 - [[Algorithms]]
 - [[High Performance Computing]]
@@ -9,6 +9,7 @@
 - [[Data Structures]]
 - [[Databases]]
 - [[Data Mining and Machine Learning]]
+- [[Information Retrieval]]
 #### Communication
 - [[Networking]]
 - [[Network Security]]
@@ -18,6 +19,27 @@
 #### Low Level
 - [[Operating Systems]]
 - [[Computer Architecture]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

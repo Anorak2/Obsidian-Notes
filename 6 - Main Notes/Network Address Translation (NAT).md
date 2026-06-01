@@ -20,4 +20,4 @@ NAT router must (transparently):
 #### Controversy
 Port numbers are used to address hosts in NAT but really ports should only be used to address processes, routers also "should" only process up to level 3, and the shortage of IPv4 address "should" be solved by IPv6. However despite all of that NAT is used extensively in home networks and institutional networks.
 # References
-
+- [[Network IP assignment]]

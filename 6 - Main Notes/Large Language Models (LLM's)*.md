@@ -7,4 +7,4 @@ Tags: [[Data Mining and Machine Learning]]
 
 
 # References
-
+- [[Self Attention Networks (Transformer)]]

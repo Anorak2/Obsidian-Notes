@@ -1,4 +1,7 @@
 
+**Design Patterns**
+- [[OOP Design Patterns]]
+
 **DevOps**
 - [[Docker Basics]]
 - [[Docker Images*]]
@@ -9,6 +12,8 @@
 
 **Java**
 - [[Java Interview Trivia]]
+- [[Java Modularity]]
+- [[Java Building]]
 - [[Java Memory Management]]
 - [[Java HashMap Internals]]
 
@@ -38,3 +43,4 @@
 - [[SQL Order of Execution]]
 - [[SQL C,R,U,D Rows]]
 - [[SQL Working with Tables]]
+

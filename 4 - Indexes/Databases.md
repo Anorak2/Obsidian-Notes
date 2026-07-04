@@ -1,6 +1,11 @@
 
+
 [[Good database design principles]]
 [[Purpose of a database*]]
+
+**Database Models**
+- [[Object Relational Databases (ODM)*]]
+- [[Relational Database Model]]
 
 **Normalization**
 - [[Armstrong Axioms]]
@@ -15,17 +20,14 @@
 - [[Database Locking*]]
 - [[The System Log*]]
 - [[Transactions*]]
+
 ****
-**Type of DBs**
-- [[NoSQL Databases*]]
-- [[Object Relational Databases*]]
-- [[Relational Databases]]
-****
+
 **Server Sided**
 - [[Why cloud computing]]
 - [[Three Layer Architecture]]
 - [[Centralized Database Systems]]
-- [[Concurrency Control]]
+- [[Database Concurrency Control]]
 - [[Database Federation]]
 - [[Distributed Databases and Sharding]]
 - [[Security CAP Theorem]]

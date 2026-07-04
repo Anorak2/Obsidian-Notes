@@ -1,6 +1,4 @@
 
-**Design Patterns**
-- [[OOP Design Patterns]]
 
 **DevOps**
 - [[Docker Basics]]
@@ -14,8 +12,8 @@
 - [[Java Interview Trivia]]
 - [[Java Modularity]]
 - [[Java Building]]
-- [[Java Memory Management]]
 - [[Java HashMap Internals]]
+- [[Java Maps]]
 
 **Development**
 - [[Test Driven Development]]
@@ -26,6 +24,9 @@
 **Architecture**
 - [[Software Development Life Cycle (SDLC)*]]
 - [[Common Architecture Types]]
+- [[Common System Design Problems]]
+- [[Service Oriented Architecture(SOA)]]
+- [[Microservice Architecture]]
 
 **Azure**
 - [[Cloud Computing Vocab]]
@@ -33,7 +34,13 @@
 
 **Modeling**
 - [[Service Time Distributions]]
-- 
+
+**Other**
+- [[XML]]
+- [[YAML]]
+- [[JSON]]
+- [[Protocol Buffers (ProtoBuf)]]
+- [[OOP Design Patterns]]
 
 **SQL**
 - [[SQL Queries (SELECT)]]

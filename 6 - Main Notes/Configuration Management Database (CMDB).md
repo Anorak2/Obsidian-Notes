@@ -12,6 +12,6 @@ key tables: cmdb, cmdb_ci, and cmdb_rel_ci
 These can be tangible or intangible devices or applications in the CMDB such as firewalls, computers, email services, and services.
 
 # References
-[[Relational Databases]]
+[[Relational Database Model]]
 
 [[Tables]]

@@ -7,29 +7,29 @@
 - [[Design Patterns- Prototype]]
 
 **Structural Patterns**
-- [ ] adapter
-- [ ] decorator
-- [ ] Composite
-- [ ] Flyweight
-- [ ] Facade
-- [ ] Proxy
-- [ ] bridge
+- [[Design patterns- Adapter]]
+- [[Design patterns- Decorator]]
+- [[Design patterns- Facade]]
+- [[Design pattern- Model View Controller (MVC)]]
+- Composite
+- Flyweight
+-  Proxy
+- bridge
 
 **Behavioral Patterns**
-- [ ] observer
-- [ ] strategy
-- [ ] template method
+- [[Design Patterns- Observer]]
+- [[Design Patterns- Strategy]]
+- [[Design Patterns- Template]]
 
 Other Behavioral:
-- [ ] command
-- [ ] Chain of responsibility
-- [ ] Chain of responsibility
-- [ ] Iterator
-- [ ] state
-- [ ] mediator
-- [ ] memento
-- [ ] visitor
+- command
+- Chain of responsibility
+- Iterator
+- state
+- mediator
+- memento
+- visitor
 
 Others
 - [[SOLID design principles]]
-- [ ] Dependency Injection
+- Dependency Injection

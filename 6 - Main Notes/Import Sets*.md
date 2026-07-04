@@ -6,4 +6,4 @@ An import set is a tool to import data from various data sources, and map that d
 Some best practices for importing include understanding what the data is and planning where it should go ahead of time, and to plan a time to verify your data before importing it. Lastly remove obsolete and inaccurate data (easier said than done...).
 
 # References
-[[Relational Databases]]
+[[Relational Database Model]]

@@ -25,6 +25,6 @@ This is a very simple way to lock a structure so that only one thing can access 
 # References
 [[Database Locking*]]
 
-[[Concurrency Control]]
+[[Database Concurrency Control]]
 
 [[Mutex Locks and Semaphores]]

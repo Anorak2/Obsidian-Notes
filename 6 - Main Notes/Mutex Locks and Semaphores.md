@@ -56,7 +56,7 @@ Monitors, unlike semaphores, only allow one thread in at a time.
 
 [[Database Locking*]]
 
-[[Concurrency Control]]
+[[Database Concurrency Control]]
 
 [[Threads]]
 

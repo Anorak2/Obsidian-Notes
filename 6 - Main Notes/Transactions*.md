@@ -11,6 +11,6 @@ The running transaction is called the active transaction, and when that transact
 When a transaction is committed that means its effect is recorded permanently in the database, whereas an aborted transaction does not affect the database. There's a bunch of types of transaction failures including: Computer failures, transaction or system error, local errors or exception conditions detected by the transaction, disk failure, physical properties or catastrophes. 
 
 # References
-[[Concurrency Control]]
+[[Database Concurrency Control]]
 
 [[Database Locking*]]

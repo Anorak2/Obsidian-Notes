@@ -18,7 +18,7 @@
 [[Ports*]]
 
 [[Reliable Data Transfer (RDT)]]
-[[Pipelined Protocols]]
+[[Packet Pipelined Protocols]]
 [[TCP]]
 [[UDP]]
 [[Network Congestion Control]]
@@ -37,7 +37,7 @@
 - ---
 - [[OSPF and Intra IP Routing]]
 - [[Border Gateway Protocol (BGP)]]
-- [[Routing Protocols]]
+- [[Packet Routing Protocols]]
 - [[ICMP]]
 
 ## 6 - Link Layer

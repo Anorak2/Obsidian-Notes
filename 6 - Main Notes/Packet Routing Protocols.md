@@ -1,8 +1,8 @@
 
 2025-11-20
 
-Tags: [[Networking]]
-# Routing Protocols
+Tags: [[Networking]] [[Protocols]]
+# Packet Routing Protocols
 The goal of routing is to determine a "good" path from the sending host to the receiving host through a network of routers where good means: least "cost", "fastest", "least congested"
 
 **Link Costs:** to path find properly we first need to define the costs from traveling between two nodes. Cost is defined by the network operator: it could always be 1, or inversely related to bandwidth, or inversely related to congestion

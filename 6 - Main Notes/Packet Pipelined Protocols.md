@@ -1,8 +1,8 @@
 
 2025-11-19
 
-Tags: [[Networking]]
-# Pipelined Protocols
+Tags: [[Networking]] [[Protocols]]
+# Packet Pipelined Protocols
 ## Stop and Wait
 --- 
 In this protocol the sender literally waits for the receiver to acknowledge each packet individually before sending the next packet

@@ -80,6 +80,6 @@ When the connection begins, increase the rate exponentially until the first loss
 - [[UDP]]
 - [[Ports*]]
 - [[Reliable Data Transfer (RDT)]]
-- [[Pipelined Protocols]]
+- [[Packet Pipelined Protocols]]
 - [[Network Congestion Control]]
 - [[TCP Security]]

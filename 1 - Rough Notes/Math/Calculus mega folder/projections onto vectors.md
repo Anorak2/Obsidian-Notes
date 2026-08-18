@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 if the [[Vector Definition|vector]] a $\not =$ 0
 $$comp_a b = \frac{a \cdot b}{|a|}$$

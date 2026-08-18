@@ -2,7 +2,7 @@
 
 2025-09-02
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Series Divergence Tests
 
 ## Nth Term Divergence Test
@@ -57,4 +57,4 @@ if R = 1 then the test is inconclusive
 # References
 [[Series]]
 
-[[Calculus Bibliography]]
+[[Mathematics]]

@@ -4,7 +4,7 @@
 - [[Software Engineering (SWE)]]
 #### Algorithms 
 - [[Algorithms]]
-- [[High Performance Computing]]
+- [[High Performance Computing - Computer Enhance]]
 #### Data
 - [[Data Structures]]
 - [[Databases]]

@@ -16,6 +16,9 @@ kanban-plugin: board
 - [ ] [[CPU Data Path*]]
 - [ ] [[TLS and SSL*]]
 - [ ] [[Symmetric Cryptography]]
+- [ ] [[Tree*]]
+- [ ] [[A* Search Algorithm*]]
+- [ ] [[R-Trees*]]
 
 
 ## In Progress
@@ -29,6 +32,7 @@ kanban-plugin: board
 **Complete**
 - [x] [[JWT Tokens]]
 - [x] [[Oauth2]]
+- [x] [[Memcached]]
 
 
 ## Probably Should Do
@@ -37,9 +41,7 @@ kanban-plugin: board
 - [ ] [[ARP Attacks*]]
 - [ ] [[H.264 Video Encoding*]]
 - [ ] [[SSL*]]
-- [ ] [[Tree*]]
 - [ ] [[LAN's*]]
-- [ ] [[A* Search Algorithm]]
 - [ ] [[Ports*]]
 - [ ] [[Tracing*]]
 - [ ] [[Jacobian*]]

@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # linear approximation
 Since derivatives are useful for measuring the rate of change over time we can also use derivatives to locally approximate a complex function. Linear functions are easier to work with and easier to compute and as such can have some applications.
 

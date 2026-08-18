@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 instead of using x and y as the coordinates, we use r and $\theta$ with $\theta$ being the angle and r being the distance from 0. 
 

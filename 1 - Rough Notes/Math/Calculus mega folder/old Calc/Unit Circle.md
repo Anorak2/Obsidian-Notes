@@ -1,4 +1,4 @@
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 ![[unit-circle8_43216_lg-1317123080.gif]]
 

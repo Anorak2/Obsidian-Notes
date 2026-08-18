@@ -1,7 +1,7 @@
 
 2025-02-06
 
-Tags: [[High Performance Computing]] [[Programming]] [[C]]
+Tags: [[High Performance Computing - Computer Enhance]] [[Programming]] [[C]]
 # Parallel Merge Sort in cilk
 Most divide and conquer algorithms have a:
 - Divide 

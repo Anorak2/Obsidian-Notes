@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Cylindrical Coordinates
 Cylindrical coordinates are very similar to [[Polar Coordinates*]] except that cylindrical coordinates are in $R^3$ 
 

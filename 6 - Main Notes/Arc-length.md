@@ -1,5 +1,5 @@
 
-Tags: [[Math]] [[Calculus Bibliography]]
+Tags: [[Math]] [[Mathematics]]
 # Arc-length
 Arc length is the length of a curve in between two points when the curve is smooth.
 

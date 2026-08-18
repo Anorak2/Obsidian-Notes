@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Higher Derivatives
 > A higher derivative is a derivative with form $f^{(n)}$ which denotes taking the derivative of the function, and then taking the derivative of that result n times. Doing this can be super useful, for example in increasing levels of derivation we go from velocity (0) -> acceleration (1) -> jerk (2)
 

@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 similar to the [[Shell Method]] except we use disks and washers when the boxes from the Riemann sum aren't parallel to the axis of revolution
 
 **Disk Method**

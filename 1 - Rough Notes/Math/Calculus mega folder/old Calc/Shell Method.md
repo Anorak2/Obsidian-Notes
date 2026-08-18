@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 similar to [[Disks and Washers]], except we use shells when the boxes (from Riemann sum) are parallel to the axis of revolution.
 

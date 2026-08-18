@@ -1,7 +1,7 @@
 
 2025-05-19
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Improper Integrals, Comparing Integrals
 We deal with these by using everyone's favorite, [[Limits|Limits]]
 

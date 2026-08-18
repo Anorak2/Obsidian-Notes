@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 A vector is a geometric object that has both a length (magnitude) and direction, and vectors can be represented as how to "get" from one point to another point
 

@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Taylor Polynomials
 Some functions are pain to work with, like $e^{x^2}$. We really can't integrate this function using elementary methods. However, polynomials are comparatively easy to work with. They can be integrated as much as we want, and we can easily compute their values. In doing this we can approximate the value of these functions by doing only several orders of Taylor polynomials
 

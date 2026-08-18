@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # L'Hopital's Rule
 
 if you remember the 7 [[Limit indeterminate forms*]], there are several which are battles between which one is growing faster.

@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Mathematical Optimization
 $$\nabla f = (f_x,f_y) = \lambda *\nabla g(x,y) $$
 

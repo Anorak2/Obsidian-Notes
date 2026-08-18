@@ -1,4 +1,4 @@
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 if f is continuous on the interval [a, b] then for every value M between f(a) and f(b) there exists at least one value such that f(c) = M
 

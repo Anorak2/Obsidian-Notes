@@ -1,4 +1,4 @@
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 when you take the square root of a negative number
 

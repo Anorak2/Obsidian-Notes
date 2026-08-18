@@ -1,7 +1,7 @@
 
 2025-05-30
 
-Tags: [[High Performance Computing]] [[Algorithms]]
+Tags: [[High Performance Computing - Computer Enhance]] [[Algorithms]]
 # Fault Tolerance and Checkpointing
 Fault tolerance becomes a problem when we are running very long processes, such as calculating Mersenne primes, that can take hours, days, or months to run. Unfortunately our software is almost never optimal and errors can happen. **Fail Stops** are when we have crashes or hardware faults. **Silent Errors** are when we have silent data corruptions, and these can happen for any number of reasons including even cosmic radiation. Silent errors are particularly troubling because they need to be caught. The main approaches are checkpointing to recover from errors, and replication to just run it multiple times.
 

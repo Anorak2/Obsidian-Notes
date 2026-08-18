@@ -1,5 +1,5 @@
 
-Tags:  [[Calculus Bibliography]] [[Math]]
+Tags:  [[Mathematics]] [[Math]]
 # Multi-variable limits
 To refer to a multi-variable limit we use the notation:
 $$\lim_{(x,y)\to(a,b)} f(x,y) = L$$

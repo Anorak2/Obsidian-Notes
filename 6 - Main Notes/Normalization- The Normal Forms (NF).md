@@ -3,7 +3,7 @@
 
 Tags: [[Databases]]
 # The Normal Forms
-Normalization is a systematic way to organize data, minimize redundancy, improve data integrity, and simplify data maintenance.
+Normalization is a systematic way to organize data, minimize redundancy, improve data integrity, and simplify data maintenance. One such benefit is that by having no data duplication the state across the database is trivially consistent. However normalization comes with trade offs, this includes having an increased number of tables which can lead to slower queries. This is due to the data being "chopped up" into many to one relationships between queries, which has to be reassembled in order to be of use.
 
 **Requirements**
 To do normalization we need to know the primary key, and the functional dependencies between relations. The reason why is the primary key is kind of the basis for examining a relation, and FD's determine the relationships between attributes.

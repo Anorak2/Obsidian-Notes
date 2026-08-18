@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 **Triangle law**
 if we have two [[Vector Definition|vectors]] u and v, and we set v up so that it starts where u ends, u+v is the vector from the start of u to the end of v.
 

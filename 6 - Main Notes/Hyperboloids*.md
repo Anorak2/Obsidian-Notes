@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Hyperboloids
 Hyperboloids can either have one "sheet" or two sheets, where by sheets we mean how many distinct parts there are. If there are two sheets then there will be a gap in graph and if not it will be one connected part.
 

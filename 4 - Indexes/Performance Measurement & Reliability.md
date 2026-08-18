@@ -1,6 +1,9 @@
 
 https://www.ibm.com/docs/en/i/7.5.0?topic=profiling-types
 
+**Basic**
+- [[What is Reliability]]
+
 **Profiling:**
 - [[Designing Software Benchmarks]]
 - [[Profilers]]

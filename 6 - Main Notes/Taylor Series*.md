@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Taylor Series
 Taylor series are based on [[Taylor Polynomials*]] and what we say is that if f is infinitely differentiable at x=c, then the Taylor series is
 $$\sum^\infty_{n=0}\frac{f^n(c)}{n!}(x-c)^n$$

@@ -52,12 +52,8 @@ A monitor is based around having a lock for mutual exclusion and condition varia
 
 Monitors, unlike semaphores, only allow one thread in at a time.
 # References
-[[Peterson's Synchronization Control]]
-
-[[Database Locking*]]
-
-[[Database Concurrency Control]]
-
-[[Threads]]
-
-[[Processes]]
+- [[Peterson's Synchronization Control]]
+- [[Database Locking*]]
+- [[Database Concurrency Control]]
+- [[Threads]]
+- [[Processes]]

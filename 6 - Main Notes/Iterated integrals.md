@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Iterated integrals
 We can calculate the volume of the area under a surface by Using Fubini's theorem which states we can break up an integral into double or triple [[Integrals|integrals]] which we call iterated integrals
 

@@ -1,7 +1,7 @@
 
 2025-05-30
 
-Tags: [[Math]] [[Calculus Bibliography]]
+Tags: [[Math]] [[Mathematics]]
 # Graphing 3D Shapes
 
 ## Elipsoid

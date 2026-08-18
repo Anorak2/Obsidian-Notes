@@ -1,3 +1,4 @@
+
 **Blocks of Memory**
 - [[Arrays]]
 - [[List Data Structure]]
@@ -13,6 +14,8 @@
 - [[Binary Search Trees]]
 - [[Tree Rotation]]
 - [[B-Trees]]
+- [[AVL Trees]]
+- [[R-Trees*]]
 
 - [[Graph Datastructure]]
 - [[Red Black Trees (LLRB)]]

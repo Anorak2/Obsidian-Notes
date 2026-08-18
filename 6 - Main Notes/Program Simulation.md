@@ -1,7 +1,7 @@
 
 2025-12-20
 
-Tags: [[Performance Measurement & Reliability]] [[High Performance Computing]]
+Tags: [[Performance Measurement & Reliability]] [[High Performance Computing - Computer Enhance]]
 # Program Simulation
 In previous approaches we gathered the information from various sources, in this approach we instead just simulate the program so that we can have complete information about the program.
 

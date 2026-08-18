@@ -1,6 +1,6 @@
 2025-09-02
 
-Tags: [[Calculus Bibliography]]
+Tags: [[Mathematics]]
 # vertically vs horizontally simple integrals
 > This topic only exists when we are talking about iterated integrals, and specifically double integrals 
 

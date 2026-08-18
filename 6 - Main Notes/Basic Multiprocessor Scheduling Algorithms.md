@@ -1,7 +1,7 @@
 
 2025-02-06
 
-Tags: [[High Performance Computing]] [[Computer Science]] [[Algorithms]]
+Tags: [[High Performance Computing - Computer Enhance]] [[Computer Science]] [[Algorithms]]
 # Basic Multiprocessor Scheduling Algorithms
 
 Makespan lower bound = Max{the longest process, if we have perfect loading}

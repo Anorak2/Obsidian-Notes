@@ -1,7 +1,7 @@
 
 2025-04-13
 
-Tags: [[Algorithms]] [[High Performance Computing]] [[Computer Science]]
+Tags: [[Algorithms]] [[High Performance Computing - Computer Enhance]] [[Computer Science]]
 # Conflict Based Search
 Conflict based search in it's vanilla form is a way to solve [[Multi Agent Path Finding (MAPF)|MAPF]] optimally using a two layer search. The higher level performs a best first search on a binary constraint tree (CT) where each CT node N contains a set of constraints that are used to coordinate agents and avoid conflicts.
 

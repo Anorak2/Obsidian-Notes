@@ -1,5 +1,5 @@
 
-Tags:  [[Calculus Bibliography]] [[Math]]
+Tags:  [[Mathematics]] [[Math]]
 # Gradient Vector
 The gradient vector $\nabla f$ is equal to the partial derivative for each variable 
 

@@ -1,5 +1,5 @@
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 the line L through the point $P_0$ in the direction of a [[Vector Definition|vector]] v is described by 
 
 the vector parameterization:

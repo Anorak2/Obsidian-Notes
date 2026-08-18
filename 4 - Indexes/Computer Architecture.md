@@ -6,7 +6,7 @@
 - [[MIPS ISA]]
 
 **CPU Behavior**
-- [[Instruction Decode]]
+- [[Instruction Decoding]]
 - [[CPU Data Path*]]
 - [[Multi-Data Path and Pipelining]]
 - [[CPU Branch Prediction]]

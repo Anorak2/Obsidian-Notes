@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]] 
+Tags: [[Mathematics]] [[Math]] 
 
 ## Definition
 > A limit is the value that a function (or sequence) approaches as the argument approaches some value. Limits are the fundamental building blocks of calculus and are used to define Derivatives, Integrals, and More
@@ -41,5 +41,5 @@ When we are talking about what a graph does as $x \to \infty$ is we are talking 
 
 # References
 
-[[Calculus Bibliography]]
+[[Mathematics]]
 

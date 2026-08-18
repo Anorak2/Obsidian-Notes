@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Derivatives
 
 $$f'(x)=\lim_{x \to a} \frac{f(x)-f(a)}{x-a}=\lim\limits_{x \to a} \frac{f(a + h) - f(a)}{h}$$

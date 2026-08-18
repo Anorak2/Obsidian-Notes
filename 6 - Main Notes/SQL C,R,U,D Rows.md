@@ -36,5 +36,9 @@ DELETE FROM mytable
 WHERE condition;
 ```
 A handy shortcut and something to be aware of is that without a `WHERE` statement all rows will be selected. It's also important to test with a `SELECT` first since it is very easy to permanently delete data. 
+
+**Truncating**
+This command deletes all rows from a table while preserving the structure of the table. Unlike DELETE it doesn't log individual row deletions, this makes it faster for large tables but also means that for most databases you can't roll it back after.
+
 # References
 - [[SQL Filtering (WHERE)]]

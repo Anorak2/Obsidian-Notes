@@ -1,4 +1,4 @@
-[[Calculus Bibliography]]
+[[Mathematics]]
 
 we can't always describe functions with y = f(x), since those are kinda bitch-made. So what we can do is express both variables in terms of a third variable called T. That new variable T is called a parameter, and when we give parametric equations for a term we say we have parameterized it. 
 

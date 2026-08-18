@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Jacobian
 The Jacobian is denoted by $Jac(g)$ or by $J(u, v)$ and it is defined by the 2x2 determinate
 

@@ -1,7 +1,7 @@
 
 2025-12-19
 
-Tags: [[Performance Measurement & Reliability]] [[High Performance Computing]]
+Tags: [[Performance Measurement & Reliability]] [[High Performance Computing - Computer Enhance]]
 # Statistical Profiling
 ## What is it?
 First, the downside with instrumentation is both that it can be tedious and that it inherently introduces overhead. Instrumentation can also be frustrating if you are trying to only measure several small portions of the program. One alternative method is statistical profiling, with the idea of at random intervals stopping the execution flow and checking where the current instruction pointer is. Given large enough samples this technique will produce hot-spots since the program will spend longer amounts of time executing there. 

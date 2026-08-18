@@ -1,5 +1,5 @@
 
-Tags: [[Calculus Bibliography]] [[Math]]
+Tags: [[Mathematics]] [[Math]]
 # Geometric Series
 A Geometric sequence is a sequence where $a_n = ar^n$ where a and r are nonzero constants. R is called the common ratio since it applies to every item in the sequence. 
 

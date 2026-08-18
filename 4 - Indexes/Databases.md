@@ -4,14 +4,15 @@
 [[Purpose of a database*]]
 
 **Database Models**
-- [[Object Relational Databases (ODM)*]]
 - [[Relational Database Model]]
+- [[Document Database Model]]
+- [[Graph Database Model]]
 
 **Normalization**
 - [[Armstrong Axioms]]
 - [[Boyce-Codd normal form]]
 - [[Table Decomposition*]]
-- [[The Normal Forms (NF)]]
+- [[Normalization- The Normal Forms (NF)]]
 
 ****
 **Misc local things**

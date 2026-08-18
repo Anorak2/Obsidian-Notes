@@ -16,6 +16,7 @@
 - [[Java Maps]]
 
 **Development**
+- [[naming_things_in_code]]
 - [[Test Driven Development]]
 - [[Software Measurement Methodology]]
 - [[Software Metrics]]
@@ -31,6 +32,9 @@
 **Azure**
 - [[Cloud Computing Vocab]]
 - [[Public vs Private Cloud]]
+
+**Testing**
+- [[Playwright]]
 
 **Modeling**
 - [[Service Time Distributions]]

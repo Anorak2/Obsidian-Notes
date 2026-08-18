@@ -1,4 +1,4 @@
-[[Calculus Bibliography]]
+[[Mathematics]]
 # Rolle's Theorem and the mean value theorem
 ### Rolles Theorem
 If there is a function where it is continuous on [a,b] and is differentiable on (a,b) and f(a) = f(b). Then there must be a value c in (a,b) such that f'(c) = 0. Phrased differently this means that there is a tangent line such that it is tangent to the secant line of (a,b)

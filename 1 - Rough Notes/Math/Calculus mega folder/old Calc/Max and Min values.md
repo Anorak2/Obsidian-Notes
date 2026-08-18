@@ -1,4 +1,4 @@
-[[Calculus Bibliography]]
+[[Mathematics]]
 ### Extrema
 **Extremum**: shorthand word the means either maximum or minimum 
 

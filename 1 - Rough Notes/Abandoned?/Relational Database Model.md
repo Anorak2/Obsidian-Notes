@@ -1,9 +1,11 @@
 
 2024-12-23
 
-Tags: [[Databases]]
+Tags: [[Databases]] [[Designing Data Intensive Applications]]
 # Relational Models
-A relational database is a set of named tables, with data stored in rows. This is by far the most common / popular form of database.
+A relational database is a number of tuples with a defined format, each assigned to a table. This is by far the most popular and influential data model, and it has dominated the industry for an entire ~40 years at time of writing. Relational models are generally very capable, however critics say that strict schemas are restricting. 
+
+In cases where the data has a tree-like dependency of 1-many relationships a document data model may be better, and in cases where everything could be connected to everything (many-many) a graph data model may be better. That said even in those cases relational models are able to proceed, granted with difficulty.
 
 ## Definition
 it defines:
@@ -22,5 +24,17 @@ Formally, a relation (table) is a subset of the Cartesian product of the domains
 - r is a relation defined on these domains, then
 - r ⊆ D1 × D2 × … × Dn
 
+## Drawbacks
+SQL struggles to deal with many to many relationships, since when a database is normalized many awkward joins can be required in order to reassemble the data. If we instead choose to store an entire JSON or XML document inside of a text field then we lose the ability to query this data on the database layer, instead having to handle it at the application layer.
+
+## Convergence with Document Models
+Most relational databases have supported XML since the mid 2000's, including the ability to make local changes to an XML document and query inside an XML document. PostgreSQL has had this ability for JSON since version 9.3 (Released September 2013)
 # References
-[[Structured Data*]]
+- [[Structured Data*]]
+- [[SQL]]
+- [[Normalization- The Normal Forms (NF)]]
+- [[JSON]]
+- [[XML]]
+- [[Document Database Model]]
+- [[Graph Database Model]]
+- [[PostgreSQL]]

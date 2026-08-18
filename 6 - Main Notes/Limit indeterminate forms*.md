@@ -1,7 +1,7 @@
 
 2025-05-19
 
-Tags: [[Math]] [[Calculus Bibliography]]
+Tags: [[Math]] [[Mathematics]]
 # Limit indeterminate forms
 Indeterminate forms are how we refer to limits which may or may not exist and are equal to any value. The form itself does not indicate the value of the limit, and we can actually work around that with [[L'Hopital's Rule]].
 

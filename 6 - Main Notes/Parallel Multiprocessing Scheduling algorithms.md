@@ -1,7 +1,7 @@
 
 2025-02-11
 
-Tags: [[Algorithms]] [[Computer Science]] [[High Performance Computing]]
+Tags: [[Algorithms]] [[Computer Science]] [[High Performance Computing - Computer Enhance]]
 # $P | Size_j  | C_{max}$
 These are jobs where we allow parallelization without preemption, and this is a strongly NP-Hard problem since $P||C_{max}$ is a special case where each m = 1.
 

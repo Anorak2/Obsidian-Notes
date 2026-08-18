@@ -22,6 +22,7 @@
 - [[Common System Design Problems]]
 - [[Service Oriented Architecture(SOA)]]
 - [[Microservice Architecture]]
+- [[Three Layer Architecture]]
 
 **Azure**
 - [[Cloud Computing Vocab]]

@@ -1,7 +1,7 @@
 
 2025-04-29
 
-Tags: [[Software Security]] [[Networking]] [[Network Security]]
+Tags: [[Software Security]] [[Networking]] [[Networking]]
 # Firewalls
 Firewalls are a fundamental part of network security, and realizes access control over traffic. They may also have other capabilities like NAT, logging, flagging (intrusion detection), authentication / VPN, quality of service `QoS`. Notably firewalls can't stop malicious insiders, attacks that don't go through it, protect against novel threats, fully protect against viruses.
 

@@ -22,14 +22,8 @@
 - [[Star and Snowflake Schema]]
 - [[Column Oriented Storage]]
 
-**Data Formats**
-- [[JSON]]
-- [[XML]]
-
 
 [[Message Brokers]]
-
----
 ### Unfiled 
 ```dataview
 LIST

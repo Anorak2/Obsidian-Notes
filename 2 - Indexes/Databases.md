@@ -1,7 +1,7 @@
 
-
-[[Good database design principles]]
-[[Purpose of a database*]]
+**basic**
+- [[Good database design principles]]
+- [[Purpose of a database*]]
 
 **Data Models**
 - [[Relational Database Model]]
@@ -11,14 +11,12 @@
 - [[Object Relational Mapping (ORM)]]
 - [[MapReduce]]
 
-
 **Normalization**
+- [[Normalization- The Normal Forms (NF)]]
 - [[Armstrong Axioms]]
 - [[Boyce-Codd normal form]]
 - [[Table Decomposition*]]
-- [[Normalization- The Normal Forms (NF)]]
 
-****
 **Misc local things**
 - [[Database Languages*]]
 - [[database views*]]
@@ -26,18 +24,17 @@
 - [[The System Log*]]
 - [[Transactions*]]
 
-****
-
-**Server Sided**
+**DB Scaling**
+- [[Distributed Databases and Sharding]]
+- [[Database Federation]]
 - [[Why cloud computing]]
-- [[Three Layer Architecture]]
 - [[Centralized Database Systems]]
 - [[Database Concurrency Control]]
-- [[Database Federation]]
-- [[Distributed Databases and Sharding]]
+
+**DB Security**
 - [[Security CAP Theorem]]
-- [[Transparency*]]
----
+- [[SQL Injections*]]
+
 ### Unfiled
 ```dataview
 LIST

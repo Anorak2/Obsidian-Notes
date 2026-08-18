@@ -1,7 +1,7 @@
 
 2026-05-11
 
-Tags: [[Web]] [[Networking]] [[Network Security]]
+Tags: [[Web]] [[Networking]] [[Networking]]
 # General Anonymous Communication
 Anonymity is The ability to hide the identity of the parties involved in digital communications, not only from third-parties but also from each other. The problem is that internet routing is fully incompatible with anonymity since you need to expose an IP etc.
 

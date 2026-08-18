@@ -11,4 +11,4 @@ These functions also do have restrictions placed on them, they can only use the 
 
 
 # References
-- [[SQL]]
+- [[Languages]]

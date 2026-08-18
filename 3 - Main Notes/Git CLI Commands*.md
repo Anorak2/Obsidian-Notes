@@ -1,7 +1,7 @@
 
 2025-03-15
 
-Tags: [[Programming]] [[Tools]]
+Tags: [[Programming]] 
 # Git CLI
 
 #### Creating a repo in the cli

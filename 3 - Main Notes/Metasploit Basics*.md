@@ -1,7 +1,7 @@
 
 2025-04-27
 
-Tags: [[Software Security]] [[Tools]]
+Tags: [[Software Security]]
 # Metasploit Basics
 
 

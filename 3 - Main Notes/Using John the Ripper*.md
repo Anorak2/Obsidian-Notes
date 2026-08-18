@@ -1,7 +1,7 @@
 
 2025-04-27
 
-Tags: [[Tools]] [[Software Security]]
+Tags: [[Software Security]]
 # Using John the Ripper
 https://www.openwall.com/john/
 

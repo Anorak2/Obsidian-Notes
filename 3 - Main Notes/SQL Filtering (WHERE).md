@@ -1,7 +1,7 @@
 
 2026-05-20
 
-Tags: [[Databases]] [[SQL]] [[Software Engineering (SWE)]]
+Tags: [[Languages]] [[Software Engineering (SWE)]]
 # SQL Filtering (WHERE)
 ## WHERE
 
@@ -71,5 +71,5 @@ If nulls can't be avoided then the following can be used:
 WHERE column IS/IS NOT NULL
 ```
 # References
-- [[SQL]]
+- [[Languages]]
 - [[SQL Queries (SELECT)]]

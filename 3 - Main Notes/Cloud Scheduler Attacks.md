@@ -2,7 +2,7 @@
 2025-02-11
 
 Tags: [[Software Security]] 
-# Cloud  Scheduler Attacks
+# Cloud Scheduler Attacks
 The idea is that the cloud is just someone else's computer, and that to improve efficiency cloud providers will run multiple people's code on the same computer. We can exploit this scheduling algorithm if we try to guess the requirements of our opponents program, by doing this we can get a high collocation rate.
 
 One approach to measuring this would be to use Hetero-Score which takes all of the server attributes into a n dimensional space. Using this approach we can calculate the similarity between two different servers by simply comparing the distance between vectors.

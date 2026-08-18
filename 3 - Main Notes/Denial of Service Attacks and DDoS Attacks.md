@@ -1,7 +1,7 @@
 
 2025-04-01
 
-Tags: [[Networking]] [[Network Security]] [[Software Security]]
+Tags: [[Networking]] [[Networking]] [[Software Security]]
 # Denial of Service Attacks and DDoS Attack
 A denial of service attack is when an attacker aims to disrupt a targets business by preventing legitimate users from being able to access a business. When we have multiple or attackers or bots working to take down a website at the same time that is a DDoS attack. Examples of how we could deny service include flooding a network (the flashiest), attempts to disrupt connections between two machines, attempts to prevent a singular person from connecting, or attempts to prevent a service from connecting.  DoS attacks are interesting because they can be very hard to avoid, and there is no direct benefit other than the victims pain.
 

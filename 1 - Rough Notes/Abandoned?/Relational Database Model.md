@@ -31,7 +31,7 @@ SQL struggles to deal with many to many relationships, since when a database is 
 Most relational databases have supported XML since the mid 2000's, including the ability to make local changes to an XML document and query inside an XML document. PostgreSQL has had this ability for JSON since version 9.3 (Released September 2013)
 # References
 - [[Structured Data*]]
-- [[SQL]]
+- [[Languages]]
 - [[Normalization- The Normal Forms (NF)]]
 - [[JSON]]
 - [[XML]]

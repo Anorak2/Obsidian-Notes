@@ -1,7 +1,7 @@
 
 2025-04-22
 
-Tags: [[Software Security]] [[Software Engineering (SWE)]]
+Tags: [[Software Engineering (SWE)]] [[Performance Measurement & Reliability]]
 # Logging
 We need to log record to store entries for successful and/or failed:
 - User logins and logouts

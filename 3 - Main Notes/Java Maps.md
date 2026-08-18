@@ -1,7 +1,7 @@
 
 2026-06-15
 
-Tags: [[Software Engineering (SWE)]] [[Java]]
+Tags: [[Languages]]
 # Java Maps
 In Short if you need \_\_\__:
 - No order -> `HashMap`

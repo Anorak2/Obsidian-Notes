@@ -1,7 +1,7 @@
 
 2026-05-20
 
-Tags: [[SQL]] [[Databases]]
+Tags: [[Languages]] 
 # SQL Joins
 Using the `JOIN` clause in a query, we can combine row data across two separate tables using this unique key.
 

@@ -1,7 +1,7 @@
 
 2026-05-18
 
-Tags: [[Web Security]] [[Network Security]]
+Tags: [[Web Security]] [[Networking]]
 # Oauth2
 ## Essentials
 1. **Users shouldn't have redirect control:**  Clients and Authorization Server must not expose URLs that forward the user's browser to arbitrary URIs obtained from a query parameter ("open redirectors") which can enable exfiltration of authorization codes and access tokens.

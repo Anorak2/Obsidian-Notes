@@ -1,7 +1,7 @@
 
 2026-05-11
 
-Tags: [[Web]] [[Networking]] [[Network Security]]
+Tags: [[Web]] [[Networking]] [[Networking]]
 # Web Tracking
 ## Deterministic Methods
 #### Web Cookies

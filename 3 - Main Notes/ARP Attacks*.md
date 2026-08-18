@@ -1,7 +1,7 @@
 
 2026-02-10
 
-Tags: [[Networking]] [[Network Security]]
+Tags: [[Networking]] [[Networking]]
 # ARP Attacks
 ARP problems:
 - Stateless: ARP accepts replies without requests

@@ -1,7 +1,7 @@
 
 [[Statistics Bibliography]]
 
-The **general approach** for turning two [[Continuous Random Variables|CRVs]] into one is to find the CDF and then take the derivative
+The **general approach** for turning two [[Continuous Random Variables*|CRVs]] into one is to find the CDF and then take the derivative
 if K = m(G,H)
 
 $$F_K = P[K \leq k]=\int \int F_{GH}(g,h)\space dg \space dh$$

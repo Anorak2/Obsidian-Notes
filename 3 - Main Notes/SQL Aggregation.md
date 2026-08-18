@@ -1,7 +1,7 @@
 
 2026-05-20
 
-Tags: [[SQL]] [[Software Engineering (SWE)]]
+Tags: [[Languages]] [[Software Engineering (SWE)]]
 # SQL Aggregation
 
 ## Functions

@@ -4,63 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "4dbb7e4d15d2d5d3",
+        "id": "46c306ae730c297c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1b862c44d2264c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "5 - Projects/Data Intensive Aplications.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Local graph"
-            }
-          },
-          {
-            "id": "0cd1b91d00a3d8e1",
+            "id": "2b2918a85807f488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Projects/Data Intensive Aplications.md",
+                "file": "2 - Indexes/Databases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data Intensive Aplications"
+              "title": "Databases"
+            }
+          },
+          {
+            "id": "8e8f785ff6d12b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Git CLI Commands*.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Git CLI Commands*"
+            }
+          },
+          {
+            "id": "f5438da493d20f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Indexes/Software Security.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Security"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,54 +164,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0cd1b91d00a3d8e1",
+  "active": "2b2918a85807f488",
   "lastOpenFiles": [
-    "2 - Indexes/Data.md",
+    "1 - Rough Notes/XSS Attacks*.md",
+    "1 - Rough Notes/CSRF Attacks*.md",
+    "4 - writing/Technical Essay Topics.md",
+    "4 - writing/Sociology Photo Essay P1.md",
+    "4 - writing/Readme.md",
     "5 - Projects/Data Intensive Aplications.md",
-    "3 - Main Notes/Problem Solving Strategies.md",
-    "3 - Main Notes/Logistic Regression.md",
-    "3 - Main Notes/A3 Problem Solving.md",
-    "2 - Indexes/Web.md",
-    "3 - Main Notes/Logging*.md",
-    "1 - Rough Notes/Programming/ServiceNow/Knowledge Checks.md",
-    "2 - Indexes/Algorithms.md",
-    "1 - Rough Notes/Programming/ServiceNow/1. Exam Questions.md",
-    "3 - Main Notes/Multi Agent Path Finding (MAPF).md",
-    "2 - Indexes/High Performance Computing.md",
     "2 - Indexes/Computer Architecture.md",
-    "2 - Indexes/Data Structures.md",
-    "3 - Main Notes/XML.md",
+    "2 - Indexes/Algorithms.md",
+    "2 - Indexes/Web.md",
     "2 - Indexes/Software Engineering (SWE).md",
-    "3 - Main Notes/YAML.md",
-    "3 - Main Notes/Protocol Buffers (ProtoBuf).md",
-    "3 - Main Notes/JSON.md",
-    "_meta/Index Health.md",
-    "2 - Indexes/Data Systems.md",
-    "2 - Indexes/ServiceNow.md",
+    "3 - Main Notes/Useful Commands.md",
+    "2 - Indexes/Tools.md",
+    "3 - Main Notes/Using John the Ripper*.md",
+    "3 - Main Notes/Git CLI Commands*.md",
+    "2 - Indexes/Programming.md",
+    "1 - Rough Notes/Abandoned?/DIG and nslookup*.md",
+    "3 - Main Notes/Useful commands for Reverse Eng.md",
+    "2 - Indexes/Software Security.md",
+    "3 - Main Notes/Wireless Network Cracking (WPA & WPA-2).md",
+    "3 - Main Notes/Password Cracking.md",
+    "3 - Main Notes/Metasploit Basics*.md",
+    "3 - Main Notes/Ghidra Scripting Cheatsheet.md",
     "5 - Projects/Muratori.md",
-    "3 - Main Notes/Instruction Decoding.md",
-    "3 - Main Notes/8086 Assembly.md",
-    "2 - Indexes/Data Mining and Machine Learning.md",
-    "5 - Projects",
-    "3 - Main Notes",
-    "2 - Indexes",
+    "2 - Indexes/Data Structures.md",
+    "2 - Indexes/Data Systems.md",
+    "2 - Indexes/Data.md",
+    "_meta/Recently Modified and Created.base",
     "_meta/templates",
-    "_meta/images/Pasted image 20230215132554.png",
-    "_meta/images/Untitled.png",
-    "_meta/images",
     "_meta/images/screenshot-2026-04-27-22 13 53.png",
     "_meta/images/screenshot-2026-04-27-22 11 03.png",
+    "_meta/images/Untitled.png",
     "_meta/images/Screenshot-2026-04-27-23 43 19.png",
     "_meta/images/Screenshot-2026-04-27-23 13 19.png",
     "_meta/images/Screenshot-2026-04-27-23 12 37.png",
     "_meta/images/Screenshot from 2026-01-08 16-33-10.png",
     "_meta/images/Screenshot from 2025-12-20 00-30-18.png",
     "_meta/images/Screenshot from 2025-12-19 23-21-06.png",
-    "_meta",
-    "_meta/Recently Modified and Created.base",
-    "2 - Source Material/Designing Data Intensive Applications",
-    "8 - Projects/Computer-Enhance",
-    "8 - Projects/Archived",
+    "_meta/images/Screenshot from 2025-09-29 20-42-07.png",
+    "_meta/images",
+    "5 - Projects",
+    "3 - Main Notes",
+    "2 - Indexes",
+    "Recently Modified and Created.base",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

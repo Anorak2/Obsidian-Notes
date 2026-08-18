@@ -3,14 +3,19 @@ views:
     name: All Note Files
     filters:
       and:
-        - file.ext != "jpeg"
+        - file.folder != "5 - Projects"
+        - file.folder != "_meta"
         - file.ext != "png"
+        - file.ext != "jpeg"
+        - file.folder == "3 - Main Notes"
     order:
       - file.name
       - file.mtime
       - file.ctime
       - file.size
     sort:
+      - property: file.size
+        direction: ASC
       - property: file.ctime
         direction: DESC
       - property: file.mtime

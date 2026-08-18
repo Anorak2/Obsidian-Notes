@@ -17,7 +17,7 @@
 - [[Discrete Uniform]]
 
 **Types of Continuous Random Variables**
-- [[Continuous Random Variables]]
+- [[Continuous Random Variables*]]
 - [[Uniform CRV Distribution]]
 - [[Exponential CRV]]
 - [[Erlang CRV]]

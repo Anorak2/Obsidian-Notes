@@ -1,7 +1,7 @@
 
 2026-05-11
 
-Tags: [[Web]] [[Networking]] [[Network Security]]
+Tags: [[Web]] [[Networking]] [[Networking]]
 # Internet Censorship
 >“Censorship, the suppression of words, images, or ideas that are "offensive," happens whenever some people succeed in imposing their personal political or moral values on others. Censorship can be carried out by the government as well as private pressure groups. Censorship by the government is unconstitutional.”
 > The ACLU

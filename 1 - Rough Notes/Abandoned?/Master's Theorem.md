@@ -3,7 +3,7 @@
 
 Tags: [[Algorithms]] [[Computer Science]]
 # Master's Theorem
-When we are categorizing algorithms it can be difficult to find the runtime complexity for recursive algorithms. We can however easily express recursive algorithms in terms of a [[Recurrence Relation]].
+When we are categorizing algorithms it can be difficult to find the runtime complexity for recursive algorithms. We can however easily express recursive algorithms in terms of a [[Recurrence Relation*]].
 
 This specifically works for recursive relations of the form:  $T(n) =aT(n/b) + \theta(n^k\log^pn)$
 

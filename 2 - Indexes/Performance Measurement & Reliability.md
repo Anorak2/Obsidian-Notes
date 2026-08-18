@@ -1,8 +1,10 @@
 
-https://www.ibm.com/docs/en/i/7.5.0?topic=profiling-types
-
+## Performance
 **Basic**
 - [[What is Reliability]]
+- [[What is Maintainability]]
+- [[What is Scalability]]
+- [[Software Metrics]]
 
 **Profiling:**
 - [[Designing Software Benchmarks]]
@@ -30,6 +32,8 @@ https://www.ibm.com/docs/en/i/7.5.0?topic=profiling-types
 ## Reliability
 - [[Failover]]
 - [[Chaos Testing]]
+- [[Logging*]]
+
 ---
 ## Unfiled 
 ```dataview

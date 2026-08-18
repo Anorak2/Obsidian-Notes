@@ -32,6 +32,7 @@
 
 **Protection / Security**
 - [[File Protections and Security*]]
+- [[Rootkits]]
 ---
 ### Unfiled 
 ```dataview

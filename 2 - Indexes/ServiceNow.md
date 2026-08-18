@@ -6,7 +6,7 @@
 - [[Instances]]
 - [[Plugins and Applications]]
 - [[Views]]
-- [[Lists]]
+- [[Lists*]]
 - [[Forms*]]
 - [[Formatters*]]
 - [[Related Lists]]

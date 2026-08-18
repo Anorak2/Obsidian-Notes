@@ -1,7 +1,7 @@
 
 2026-05-22
 
-Tags: [[SQL]] [[Software Engineering (SWE)]]
+Tags: [[Languages]] [[Software Engineering (SWE)]]
 # SQL Working with Tables
 ## Datatypes and Constraints
 

@@ -26,6 +26,12 @@
 - [[YAML]]
 - [[JSON]]
 - [[Protocol Buffers (ProtoBuf)]]
+- [[HTTP]]
+- [[SMTP]]
+- [[TCP]]
+- [[UDP]]
+- [[IPv4 Protocol]]
+- [[IPv6 Protocol]]
 
 **Performance of data structures**
 - [[Runtime Complexities]]

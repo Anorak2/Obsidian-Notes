@@ -9,21 +9,27 @@
 - [[Malloc and Free*]]
 - [[Hashtag and Double Hashtag in C]]
 
-## Java
+## Golang
+**language**
+- [[Go Mutexes - Concurrency Control]]
+- [[HTTP in Go]]
 
+## Java
 - [[Java Interview Trivia]]
 - [[Java Modularity]]
 - [[Java Building]]
 - [[Java HashMap Internals]]
 - [[Java Maps]]
 
-
-## Golang
-
-**language**
-- [[Go Mutexes - Concurrency Control]]
-- [[HTTP in Go]]
-
+## SQL
+- [[SQL Joins]]
+- [[SQL Aggregation]]
+- [[SQL C,R,U,D Rows]]
+- [[SQL Filtering (WHERE)]]
+- [[SQL Injections*]]
+- [[SQL Order of Execution]]
+- [[SQL Queries (SELECT)]]
+- [[SQL Working with Tables]]
 ## Unfiled 
 ```dataview
 LIST

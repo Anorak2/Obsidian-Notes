@@ -1,7 +1,8 @@
 
 2026-05-28
 
-Tags: [[Software Engineering (SWE)]] [[Java]]
+
+Tags: [[Languages]]
 # Java Modules
 ## Classes
 Classes are the OOP primitives that are able to give encapsulation, abstraction, polymorphism, and inheritance. 

@@ -1,7 +1,7 @@
 
 2025-01-13
 
-Tags: [[Programming]]  [[Databases]]
+Tags: [[Programming]]  [[Databases]] [[Software Engineering (SWE)]]
 # Three Layer Architecture
 The basic idea behind a three layer structure is that we want to limit the permissions of users and design our software in a scalable way.
 

@@ -1,7 +1,7 @@
 
 2026-05-11
 
-Tags: [[Web]] [[Networking]] [[Network Security]]
+Tags: [[Web]] [[Networking]] [[Networking]]
 # Web Cookies
 HTTP is a stateless protocol, so use cookies to add/maintain state where a cookie is a file created by a website to store information in the browser.  When a browser first connects to a web server, it has no cookie for that server. When web server responds, it includes a Set-Cookie header that defines a cookie. Each cookie is a name-value pair. When browser connects to the web server again, it includes the cookie <name, value> pairs contain information that the server can use to connect related requests.
 

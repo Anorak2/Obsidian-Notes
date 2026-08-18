@@ -20,6 +20,5 @@ Note that this is basically identical to the scientific method and to the Data M
 - Give software products and processes a quantitative basis for evaluation.
 - Enable the ongoing improvement of software development practices.
 # References
-[[Scientific Method]]
-
-[[Software Development Life Cycle (SDLC)*]]
+- [[Scientific Method]]
+- [[Software Development Life Cycle (SDLC)*]]

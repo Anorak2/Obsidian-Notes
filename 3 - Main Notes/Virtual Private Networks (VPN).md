@@ -1,7 +1,7 @@
 
 2026-03-26
 
-Tags: [[Networking]] [[Network Security]]
+Tags: [[Networking]] [[Networking]]
 # Virtual Private Networks (VPN)
 A virtual private private network is a way to tunnel your traffic to a different network so that it is as if your network traffic originated there. This solves two fundamental problems; how to protect network traffic when the user is on an insecure LAN, and how does an organization connect sites that are geographically separated? A VPN solves this by providing secure access to private network over public links with Confidentiality,  Integrity, Mutual authentication. VPN's are also easy to implement with SSL, SOCKS, or VPN software
 ## Types of VPNs

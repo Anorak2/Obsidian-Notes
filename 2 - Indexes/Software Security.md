@@ -6,11 +6,11 @@
 - [[Side Channel Attacks]]
 - [[Advanced Encryption Standard (AES)*]]
 
-Ensuring valid state:
+**Ensuring valid state:**
 - [[Reference Monitors]]
 - [[Control Flow Integrity]]
 
-LLVM / IR
+**LLVM / IR**
 - [[LLVM Bitcode]]
 - [[LLVM Memory]]
 - [[LLVM Calls]]
@@ -41,6 +41,7 @@ LLVM / IR
 - [[Points To Analysis, Anderson's + Steensgard's]]
 ### Dynamic Analysis
 - [[Dynamic Analysis]]
+- [[Fuzzing]]
 
 **Instrumentation**
 - [[Program Instrumentation]]
@@ -55,6 +56,10 @@ LLVM / IR
 - [[SAT Solving]]
 - [[SMT Solving]]
 ## Practical
+**general**
+- [[CIA Triad]]
+- [[Classes of threat*]]
+
  **Recon / Scouting**
 - [[TheHarvester]] *
 - [[Basic Reconnaissance*]] *
@@ -63,6 +68,7 @@ LLVM / IR
  **Password Attacks**
 - [[Password Cracking]]
 - [[Using John the Ripper*]] ~
+- [[Types of Passwords attacks and Defenses*]]
 
  **Networks and Wifi**
 - [[Basic Networking Terminology]]
@@ -74,20 +80,25 @@ LLVM / IR
 - [[Denial of Service Attacks and DDoS Attacks]]
 - [[Firewalls]]
 
-**Other**
-- [[SQL Injections*]]
-- [[Intrusion Detection Systems (IDS)]]
-- [[Rootkits]]
-- [[Exploit Definition]]
-- [[CIA Triad]]
-- [[Classes of threat*]]
+**Performing Attacks**
+- [[Metasploit Basics*]]
+- [[Password Cracking]]
 - [[Types of Passwords attacks and Defenses*]]
-- [[Access Control Lists*]]
-- [[Stream Ciphers]]
-- [[Symmetric Cryptography]]
+- [[Wireless Network Cracking (WEP)]]
+- [[Wireless Network Cracking (WPA & WPA-2)]]
+- [[SQL Injections*]]
+- [[Prompt Injection Techniques]]
+- [[Rootkits]]
+- [[Cloud Scheduler Attacks]]
 
+**Prevention**
+- [[Intrusion Detection Systems (IDS)]]
+- [[Exploit Definition]]
+- [[Access Control Lists*]]
+- [[Stream Ciphers*]]
+- [[Symmetric Cryptography]]
+- [[File Protections and Security*]]
 ## Reverse Engineering
-``` less program >& txt```
 
 **Theory**
 - [[Basics of Binary Analysis]]
@@ -111,8 +122,6 @@ LLVM / IR
 3. strace
 4. strings
 5. ghidra
-
-"\x7fELF"
 
 ## Unfiled
 ```dataview

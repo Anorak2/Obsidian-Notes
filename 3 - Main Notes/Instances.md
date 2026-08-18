@@ -1,4 +1,4 @@
-Tags: [[Virtualization]], [[ServiceNow]]
+Tags: [[Virtualization*]], [[ServiceNow]]
 # Instances
 
 An instance is a copy of a ServiceNow environment that is specific to a customer, and there are a couple different types like prod and non prod environments. There is a **Baseline implementation**, or just the default, which is what all instances look like before configuration.

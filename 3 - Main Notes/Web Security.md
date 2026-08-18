@@ -1,7 +1,7 @@
 
 2026-05-11
 
-Tags: [[Networking]] [[Network Security]]
+Tags: [[Networking]] [[Networking]]
 # Web Security
 ## Basic Review
 ![[Pasted image 20260511184910.png]]

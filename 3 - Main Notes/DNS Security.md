@@ -1,7 +1,7 @@
 
 2026-03-05
 
-Tags: [[Networking]] [[Network Security]]
+Tags: [[Networking]] [[Networking]]
 # DNS Security
 As a review we need DNS to resolve hostnames (`myweb.com`) to individual servers (ex 192.168.1.17), for more see [[DNS Servers]] and [[DNS Queries]]. 
 

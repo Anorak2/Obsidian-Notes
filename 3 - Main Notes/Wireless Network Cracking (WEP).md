@@ -1,7 +1,7 @@
 
 2025-04-10
 
-Tags: [[Networking]] [[Network Security]]
+Tags: [[Networking]] [[Networking]]
 # Wireless Network Cracking (WEP)
 ## Security
 WEP is one of the wireless security protocols like WPA and WPA2, and the acronym stands for Wired Equivalent Privacy. This protocol is a security algorithm for IEEE 802.11 wireless networks. WEP uses the stream cipher R4 for confidentiality and the ```CRC-32``` checksum to verify integrity, however WEP has many flaws and has been deprecated.
@@ -21,8 +21,8 @@ we can exploit this vulnerability and crack the network quite easily using ```ai
 # References
 [[Wireless Network Cracking (WPA & WPA-2)]]
 
-[[Stream Ciphers]]
+[[Stream Ciphers*]]
 
-[[Pigeonhole Principle]]
+[[Pigeonhole Principle*]]
 
 [[Wireless Networks]]

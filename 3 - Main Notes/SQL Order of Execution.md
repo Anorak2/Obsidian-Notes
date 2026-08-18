@@ -1,7 +1,7 @@
 
 2026-05-22
 
-Tags: [[SQL]] [[Software Engineering (SWE)]]
+Tags: [[Languages]] [[Software Engineering (SWE)]]
 # SQL Order of Execution
 1. FROM and JOIN
 The `FROM` clause, and subsequent `JOIN`s are first executed to determine the total working set of data that is being queried. This includes sub-queries in this clause, and can cause temporary tables to be created under the hood containing all the columns and rows of the tables being joined.

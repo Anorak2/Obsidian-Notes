@@ -1,4 +1,4 @@
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Selection Sort
 
 Selection sort is a [[Formal Sorting Definition|sorting algorithm]] that works by looping through each element and adding it from an unsorted portion of the array to a sorted portion of the array.

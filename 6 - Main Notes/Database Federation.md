@@ -1,7 +1,7 @@
 
 2025-01-08
 
-Tags: [[Databases]] [[Servers]]
+Tags: [[Databases]] 
 # Database Federation
 A federated database is a way of combining multiple databases into a single network rather than having a single monolithic database. Some key benefits include scalability and performance by enabling workloads to be shared across multiple locations
 

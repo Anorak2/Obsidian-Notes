@@ -1,4 +1,4 @@
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Formal Sorting Definition
 
 an ordering relation < for keys a, b, c has the following properties:

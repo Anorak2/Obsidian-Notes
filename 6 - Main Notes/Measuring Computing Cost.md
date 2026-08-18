@@ -1,4 +1,4 @@
-Tags: [[Algorithms]] [[3 - Tags/Optimization|Optimization]]
+Tags: [[Algorithms]] 
 # Measuring Computing Cost
 ### Technique 1 - Time it
 Just measure it, log the time before executing the program and after it finished running.

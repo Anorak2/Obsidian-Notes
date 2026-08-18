@@ -1,7 +1,7 @@
 
 2024-12-27
 
-Tags: [[Algorithms]] [[Open Problems]] [[Computer Science]]
+Tags: [[Algorithms]]  [[Computer Science]]
 # Longest Paths Problem
 
 The problem is that say we have a weighted [[Graph Datastructure|graph]], that can be directed, how do we find the longest path tree from S to every other vertex. The path must also be simple which means no cycles are allowed.

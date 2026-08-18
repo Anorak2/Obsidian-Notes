@@ -1,7 +1,7 @@
 
 2024-12-28
 
-Tags: [[Algorithms]] [[Sorting]] [[Computer Science]]
+Tags: [[Algorithms]]  [[Computer Science]]
 # Adversary to Quicksort
 
 The way to defeat quicksort is by creating an input such that when we do our quicksort on the array we end up with bad pivots, resulting in an unbalanced call tree and a quadratic time complexity.

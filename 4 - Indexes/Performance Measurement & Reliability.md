@@ -30,3 +30,11 @@ https://www.ibm.com/docs/en/i/7.5.0?topic=profiling-types
 ## Reliability
 - [[Failover]]
 - [[Chaos Testing]]
+---
+### ⚠ Unfiled — tagged this index but not placed above
+```dataview
+LIST
+FROM [[]]
+WHERE !contains(this.file.outlinks, file.link) AND contains(file.folder, "Main Notes")
+SORT file.name ASC
+```

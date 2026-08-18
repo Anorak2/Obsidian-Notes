@@ -1,6 +1,6 @@
 2025-01-11
 
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Radix Sort
 Radix sort is a way of (kind of) having a constant time sorting algorithm, it's fundamentally based on the idea of having an [[Formal Languages|alphabet]] with strings consisting of symbols from the alphabet. Radix sort works by leveraging the position of elements in memory, and using a stable sorting algorithm so that we don't write over our results.
 

@@ -1,4 +1,4 @@
-Tags: [[Data Structures]] [[Algorithms]] [[3 - Tags/Optimization|Optimization]]
+Tags: [[Data Structures]] [[Algorithms]] 
 # Runtime Complexities
 **Data Structures**
 

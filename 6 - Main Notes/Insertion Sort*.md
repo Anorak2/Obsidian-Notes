@@ -1,6 +1,6 @@
 Status: 
 
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Insertion Sort
 
 Insertion sort is another [[Formal Sorting Definition|sorting algorithm]] that works by maintaining a sorted section and adding from the input to that sorted section until finished.

@@ -1,6 +1,6 @@
 Status: 
 
-Tags: [[Algorithms]] [[Sorting]] [[3 - Tags/Optimization|Optimization]]
+Tags: [[Algorithms]]  
 # Optimal Sorting Algorithm
 
 What is the best sorting algorithm? it depends

@@ -1,7 +1,7 @@
 
 2025-02-03
 
-Tags: [[kernel]] [[Operating Systems]] [[Operating Systems]]
+Tags:  [[Operating Systems]] [[Operating Systems]]
 # OS Structures
 ### MS DOS
 - Written to provide the most functionality in the least space

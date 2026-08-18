@@ -1,4 +1,4 @@
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Merge Sort
 
 Merge sort is a recursive [[Formal Sorting Definition|sorting]] algorithm that is based around the idea that it is easy to merge two lists that are already sorted. The algorithm has a $\Theta(n \log n )$ runtime, and a space complexity of $\Theta(n)$ when using an auxiliary array. It is possible to do an in place merge sort but the algorithm is very complicated and performance takes a noticeable hit.

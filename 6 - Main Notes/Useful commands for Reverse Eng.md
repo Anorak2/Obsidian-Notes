@@ -1,7 +1,7 @@
 
 2025-03-13
 
-Tags: [[Reverse Engineering]] [[linux]]
+Tags: [[Reverse Engineering]] 
 # Useful commands for Reverse Eng
 **file**
 file [flags]  file_name/s

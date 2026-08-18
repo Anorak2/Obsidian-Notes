@@ -1,7 +1,7 @@
 
 2025-02-01
 
-Tags: [[Operating Systems]] [[kernel]]
+Tags: [[Operating Systems]] [[Tag]]
 # Boot Loaders
 
 

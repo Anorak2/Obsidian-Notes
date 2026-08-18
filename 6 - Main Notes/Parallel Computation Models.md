@@ -1,7 +1,7 @@
 
 2025-01-24
 
-Tags: [[High Performance Computing - Computer Enhance]] [[Computer Science]] [[3 - Tags/Optimization|Optimization]]
+Tags: [[High Performance Computing - Computer Enhance]] [[Computer Science]] 
 # Parallel Computation Models
 
 ### PRAM

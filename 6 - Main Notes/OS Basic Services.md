@@ -1,7 +1,7 @@
 
 2025-01-31
 
-Tags: [[Operating Systems]] [[Operating Systems]] [[kernel]]
+Tags: [[Operating Systems]] [[Operating Systems]] 
 # OS Basic Services
 File system service:
 - Read/write/delete/search files and directories

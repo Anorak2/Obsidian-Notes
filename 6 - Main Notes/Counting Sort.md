@@ -1,4 +1,4 @@
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Counting Sort
 
 Counting sort is a type of [[Formal Sorting Definition|sorting algorithm]] that works by exploiting space, we can do this by creating a bunch of buckets for elements and putting items into their appropriate bucket. We can use counting sort to sort N elements in $O(N)$ time.

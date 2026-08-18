@@ -2,7 +2,7 @@
 
 2026-07-01
 
-Tags: [[Protocols]] [[Software Engineering (SWE)]]
+Tags:  [[Software Engineering (SWE)]]
 # JavaScript Object Notation
 JSON is a lightweight, relatively fast format that is native to javascript and is commonly used in web projects or by API's. This is because it has wide support and is human readable, allowing for easy debugging.
 

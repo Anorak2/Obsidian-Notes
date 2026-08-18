@@ -1,7 +1,7 @@
 
 2025-02-04
 
-Tags: [[Programming]] [[Assembly]]
+Tags: [[Programming]] 
 # Assembly Cheatsheet 
 ```mov src, dst``` : dst = src
 ```push src``` : add to top of stack

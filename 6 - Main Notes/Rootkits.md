@@ -26,4 +26,4 @@ The only things we can really do are kind of just basic cybersecurity things
 These are only so effective though, and when it comes to a highly sophisticated kernel level root kit there really isn't anything you can do. the way you actually can mitigate a root kit is by reinstalling the OS and re-image the os and hard drive. Using clonezilla won't work for bootloader or firmware level root kits though. 
 
 # References
-[[kernel]]
+

@@ -1,6 +1,6 @@
 Status: 
 
-Tags: [[Algorithms]] [[Open Problems]]
+Tags: [[Algorithms]] 
 # P=NP
 P=NP Is based around the idea that we can have Efficiently Solvable problems (p), and problems for which a "yes" answer is efficiently verifiable (NP). Specifically the question at hand is whether the set of set of non-polynomial problems with a polynomial amount of information can be reduced to a polynomial runtime.
 ![[Pasted image 20251116231729.png]]

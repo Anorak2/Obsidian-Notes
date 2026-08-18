@@ -1,7 +1,7 @@
 
 2025-01-28
 
-Tags: [[Operating Systems]] [[kernel]]
+Tags: [[Operating Systems]] 
 # OS Boot Sectors
 A boot sector is a very small section of code that tells the BIOS how to load the operating system properly. This code is essentially the first domino in the chain for booting up properly. It can be a couple of different sizes, such as 512 or 4096 bytes and it can come in a couple of different versions such as MBR or GPT.
 

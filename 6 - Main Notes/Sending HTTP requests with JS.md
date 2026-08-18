@@ -1,7 +1,7 @@
 
 2024-12-27
 
-Tags: [[Javascript]] [[Web]]
+Tags:  [[Web]]
 # Sending HTTP requests with JS
 ```
 fetch("https://jsonplaceholder.typicode.com/todos",

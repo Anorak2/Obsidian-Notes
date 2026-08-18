@@ -1,7 +1,7 @@
 
 2025-01-24
 
-Tags: [[High Performance Computing - Computer Enhance]] [[3 - Tags/Optimization|Optimization]] [[Computer Science]]
+Tags: [[High Performance Computing - Computer Enhance]]  [[Computer Science]]
 # Gustafson's Law
 Gustafson's law, rather than Amdahl's, is about weak scaling. This is where adding more processors doesn't make the runtime faster for a fixed problem, but we can get around that by increasing the scale of the problem as we increase the amount of processors used.
 

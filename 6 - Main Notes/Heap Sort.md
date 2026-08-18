@@ -1,6 +1,6 @@
 Status: 
 
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Heap Sort
 
 Rather than scanning the entire [[Arrays|array]] for an element like [[Selection Sort*]] we can maintain a [[Heaps|heap]] to ensure that our selection is fast. The overall runtime for this algorithm is actually $O(n \log n)$, and while the Naive implementation takes O(n) memory we can fix that by doing an in place heap sort.

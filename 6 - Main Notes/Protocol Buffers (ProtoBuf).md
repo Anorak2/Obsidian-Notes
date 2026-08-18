@@ -1,7 +1,7 @@
 
 2026-07-01
 
-Tags: [[Software Engineering (SWE)]] [[Protocols]]
+Tags: [[Software Engineering (SWE)]] 
 # Protocol Buffers (ProtoBuf)
 Protocol Buffers is a method to efficiently serialize structured data developed by Google. They are language neutral, platform neutral, and extensible. It is like JSON but smaller and faster, and it generates native language bindings.
 

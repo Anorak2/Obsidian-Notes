@@ -1,7 +1,7 @@
 
 2025-02-03
 
-Tags: [[linux]] [[Reverse Engineering]]
+Tags:  [[Reverse Engineering]]
 # Linux Linking
 Both soft and hard links function like pointers do in programming languages, links in UNIX point to a file or directory. Links function like a shortcut to a file and they allow more than one file name to refer to the same file.
 

@@ -1,7 +1,7 @@
 
 2025-07-29
 
-Tags: [[C]] [[Programming]] [[Compilers]]
+Tags: [[C]] [[Programming]] 
 # Stringizing Operator (#)
 
 The **#** operator in C is called the stringizing operator  and it allows us to convert an argument into a string literal, which causes the actual argument to be enclosed in double quotation marks by the preprocessor. For example given ```#define PRINT_STRING(x) printf(#x)```, and we could then call our macro by doing: ```PRINT_STRING(Hello!);``` and it is completely valid.

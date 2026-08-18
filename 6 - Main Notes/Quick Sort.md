@@ -1,4 +1,4 @@
-Tags: [[Algorithms]] [[Sorting]]
+Tags: [[Algorithms]] 
 # Quick Sort
 ## General Version
 Quick sort is, as the name implies, a very fast [[Formal Sorting Definition|sorting algorithm]]. It is based around the idea that we partition elements, which means moving an element (which we will call the pivot) to a position where everything to the left is smaller than it and everything to the right is larger. What is cool is that when we partition an element, the pivot value is in the correct position when the array is fully sorted.

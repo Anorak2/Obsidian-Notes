@@ -1,7 +1,7 @@
 
 2024-12-27
 
-Tags:[[Programming]] [[3 - Tags/Optimization|Optimization]] [[Compilers]]
+Tags:[[Programming]]  
 # Vectorization
 
 The idea behind this is that most modern CPU's have either vector or SIMD instruction sets that allow for the same operation to occur simultaneously on multiple pieces of data, such as two four or eight. This will often be done by the compiler without you even realizing it, and it involves unrolling a loop into something like:

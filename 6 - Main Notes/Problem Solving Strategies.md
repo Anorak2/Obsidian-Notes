@@ -1,7 +1,7 @@
 
 2025-12-25
 
-Tags: [[Other]]
+Tags: 
 # Problem Solving Strategies
 ## Representation and Search
 ![[Pasted image 20251225014209.png]]

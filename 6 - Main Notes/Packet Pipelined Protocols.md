@@ -1,7 +1,7 @@
 
 2025-11-19
 
-Tags: [[Networking]] [[Protocols]]
+Tags: [[Networking]] 
 # Packet Pipelined Protocols
 ## Stop and Wait
 --- 

@@ -1,7 +1,7 @@
 
 2024-12-28
 
-Tags: [[Programming]] [[Golang]]
+Tags: [[Programming]] 
 # Go Mutexes - Concurrency Control
 
 Mutexes are a way inside of Go to handle problems that show up due to multiple routines accessing the same data, and this is a way to implement the classic types of locking from database.

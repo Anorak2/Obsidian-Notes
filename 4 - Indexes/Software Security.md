@@ -91,3 +91,11 @@ Ensuring valid state:
 
 [[Stream Ciphers]]
 [[Symmetric Cryptography]]
+---
+### ⚠ Unfiled — tagged this index but not placed above
+```dataview
+LIST
+FROM [[]]
+WHERE !contains(this.file.outlinks, file.link) AND contains(file.folder, "Main Notes")
+SORT file.name ASC
+```

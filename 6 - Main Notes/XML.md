@@ -1,7 +1,7 @@
 
 2026-07-01
 
-Tags: [[Software Engineering (SWE)]] [[Protocols]]
+Tags: [[Software Engineering (SWE)]] 
 # Extensible Markup Language
 XML is a markup language used for storing, transmitting, and reconstructing data. It is used for encoding documents that are both human readable and machine readable. It's design goals are to emphasize simplicity, generality, and usability across the internet.
 

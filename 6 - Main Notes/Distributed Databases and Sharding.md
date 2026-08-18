@@ -1,4 +1,4 @@
-Tags: [[Databases]] [[Servers]]
+Tags: [[Databases]] 
 # Distributed Databases
 
 By distributing our databases this means that we can store and process data over a connected system of computers at different sites. This is nice because a [[Centralized Database Systems|Centralized System]] has issues as it scales, but using a distributed network we can get more reliability and better performance within a local area.

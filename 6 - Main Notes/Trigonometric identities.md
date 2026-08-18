@@ -3,7 +3,7 @@
 
 2025-05-30
 
-Tags: [[Math]] [[Trigonometry]]
+Tags: [[Math]] 
 # Trigonometric identities
 
 #### Pythagorean identities

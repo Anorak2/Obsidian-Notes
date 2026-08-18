@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - writing/Technical Essay Topics.md",
+                "file": "4 - writing/Technical Essay Topics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,71 +23,8 @@
               "icon": "lucide-file",
               "title": "Technical Essay Topics"
             }
-          },
-          {
-            "id": "da2ee609ed1b4f3e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Designing Data Intensive Applications.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Designing Data Intensive Applications"
-            }
-          },
-          {
-            "id": "e828766137d118dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/Web.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Web"
-            }
-          },
-          {
-            "id": "f1885ad7d18dfd4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Software Engineering (SWE).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Software Engineering (SWE)"
-            }
-          },
-          {
-            "id": "a88f9ef4811cabc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Instruction Decoding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Instruction Decoding"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,54 +138,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e828766137d118dd",
+  "active": "9dd8613c934de8df",
   "lastOpenFiles": [
-    "3 - Tags/Tag.md",
-    "3 - Tags/Optimization.md",
-    "3 - Tags/Open Problems.md",
-    "3 - Tags/Javascript.md",
-    "3 - Tags/Golang.md",
-    "3 - Tags/Compilers.md",
-    "3 - Tags/Code Review.md",
-    "3 - Tags/Assembly.md",
-    "3 - Tags/Web.md",
-    "3 - Tags/Programming.md",
-    "3 - Tags/kernel.md",
-    "3 - Tags/Other.md",
-    "3 - Tags/meta notes.md",
-    "3 - Tags/linux.md",
-    "3 - Tags/Protocols.md",
-    "3 - Tags/Trigonometry.md",
-    "3 - Tags/Servers.md",
-    "3 - Tags/Sorting.md",
-    "Index Health.md",
-    "4 - Indexes/Data Structures.md",
-    "4 - Indexes/Designing Data Intensive Applications.md",
-    "4 - Indexes/Algorithms.md",
-    "4 - Indexes/Computer Architecture.md",
-    "4 - Indexes/Reverse Engineering.md",
-    "4 - Indexes/OOP Design Patterns.md",
-    "4 - Indexes/Operating Systems.md",
-    "2 - Source Material/images/Pasted image 20260717174140.png",
-    "2 - Source Material/images/Pasted image 20260717003948.png",
+    "3 - Main Notes/vertically vs horizontally simple integrals.md",
+    "3 - Main Notes/vector space*.md",
+    "3 - Main Notes/two's complement*.md",
+    "3 - Main Notes/naming_things_in_code.md",
+    "3 - Main Notes/linear approximation*.md",
+    "3 - Main Notes/dot product.md",
+    "3 - Main Notes/database views*.md",
+    "3 - Main Notes/YAML.md",
+    "3 - Main Notes/XML.md",
+    "3 - Main Notes/Wireless Networks.md",
+    "3 - Main Notes/Wireless Network Cracking (WPA & WPA-2).md",
+    "3 - Main Notes/Wireless Network Cracking (WEP).md",
+    "3 - Main Notes/Why cloud computing.md",
+    "3 - Main Notes/What is Scalability.md",
+    "3 - Main Notes/What is Reliability.md",
+    "3 - Main Notes/What is Maintainability.md",
+    "3 - Main Notes/Website Performance.md",
+    "3 - Main Notes/Web Tracking.md",
+    "3 - Main Notes/Web Sockets*.md",
+    "3 - Main Notes/Web Security.md",
+    "3 - Main Notes/Web Crawlers.md",
+    "3 - Main Notes/Web Cookies.md",
+    "3 - Main Notes/WPA-3 Security.md",
+    "3 - Main Notes/Vulnerability Scans.md",
+    "3 - Main Notes/Virtual Private Networks (VPN).md",
+    "3 - Main Notes/Virtual Memory and Paging.md",
+    "3 - Main Notes",
+    "2 - Indexes",
+    "_meta/templates",
+    "_meta/images/Pasted image 20230215132554.png",
+    "_meta/images/Untitled.png",
+    "_meta/images",
+    "_meta/images/screenshot-2026-04-27-22 13 53.png",
+    "_meta/images/screenshot-2026-04-27-22 11 03.png",
+    "_meta/images/Screenshot-2026-04-27-23 43 19.png",
+    "_meta/images/Screenshot-2026-04-27-23 13 19.png",
+    "_meta/images/Screenshot-2026-04-27-23 12 37.png",
+    "_meta/images/Screenshot from 2026-01-08 16-33-10.png",
+    "_meta/images/Screenshot from 2025-12-20 00-30-18.png",
+    "_meta/images/Screenshot from 2025-12-19 23-21-06.png",
+    "_meta",
+    "Untitled",
+    "_meta/Recently Modified and Created.base",
     "2 - Source Material/Designing Data Intensive Applications",
-    "2 - Source Material/images/Pasted image 20260701144127.png",
-    "2 - Source Material/images/Pasted image 20260611171635.png",
-    "2 - Source Material/images/Pasted image 20260601164533.png",
-    "2 - Source Material/images/Pasted image 20260601162941.png",
-    "2 - Source Material/images/Pasted image 20260601161814.png",
-    "2 - Source Material/images/Pasted image 20260530154738.png",
-    "2 - Source Material/images/Pasted image 20260529192457.png",
-    "2 - Source Material/images/Pasted image 20260529191050.png",
-    "Recently Modified and Created.base",
     "8 - Projects/Computer-Enhance",
     "8 - Projects/Archived",
-    "8 - Projects/On Hold",
-    "8 - Projects/Active",
-    "8 - Projects/Active/Moovie Night",
-    "8 - Projects",
-    "TLS",
-    "7 - writing/images",
     "Untitled.canvas",
     "Math/EECS 461 - Stats/Untitled.canvas"
   ]

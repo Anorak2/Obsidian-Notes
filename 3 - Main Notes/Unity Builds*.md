@@ -1,7 +1,7 @@
 
 2025-12-26
 
-Tags: [[Programming]] [[C]]
+Tags: [[Programming]] [[Languages]]
 # Unity Builds
 The idea behind a unity build is to just ignore all of the bs that can occur with many header types and instead form a single file that can be compiled. The simplest version would just be to include each file as such. 
 ```c

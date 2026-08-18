@@ -1,7 +1,7 @@
 
 2025-12-26
 
-Tags: [[C]] [[Programming]] [[Performance Measurement & Reliability]]
+Tags: [[Languages]] [[Programming]] [[Performance Measurement & Reliability]]
 # Malloc and Free
 
 

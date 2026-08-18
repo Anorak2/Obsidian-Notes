@@ -1,7 +1,7 @@
 
 2025-02-06
 
-Tags: [[Math]] [[Programming]] [[Computer Science]] [[High Performance Computing - Computer Enhance]] [[Algorithms]]
+Tags: [[Mathematics]] [[Programming]] [[Computer Science]] [[High Performance Computing]] [[Algorithms]]
 # Matrix Multiplication Algorithms
 ## Approach 1 - Simple For Loop
 ```

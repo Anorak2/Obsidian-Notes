@@ -1,7 +1,7 @@
 
 2026-05-29
 
-Tags: [[Java]] [[OOP Design Patterns]] [[Software Engineering (SWE)]]
+Tags: [[Java]] [[Software Engineering (SWE)]] [[Software Engineering (SWE)]]
 # SOLID design principles
 The solid principles are a set of design guidelines popularized by Uncle Bob in the early 2000's.
 

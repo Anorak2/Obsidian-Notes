@@ -1,7 +1,7 @@
 
 2025-12-19
 
-Tags: [[High Performance Computing - Computer Enhance]] [[Performance Measurement & Reliability]]
+Tags: [[High Performance Computing]] [[Performance Measurement & Reliability]]
 # Profilers
 When you run into performance issues in a program, the easiest way to diagnose these issues is often with a profiler. While these are great general tools, they still operate on various levels of granularity and their results must be interpreted correctly.
 

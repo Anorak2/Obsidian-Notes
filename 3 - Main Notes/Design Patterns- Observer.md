@@ -1,7 +1,7 @@
 
 2026-06-03
 
-Tags: [[Software Engineering (SWE)]] [[Java]] [[OOP Design Patterns]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design Patterns- Observer
 Observer Design Pattern is a behavioral pattern that creates a one-to-many relationship between a subject and its observers. When the subject's state changes, all dependent observers are notified and updated automatically, ensuring synchronized communication.
 

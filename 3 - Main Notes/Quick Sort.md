@@ -1,3 +1,4 @@
+
 Tags: [[Algorithms]] 
 # Quick Sort
 ## General Version

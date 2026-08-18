@@ -21,11 +21,17 @@
 - [[Red Black Trees (LLRB)]]
 - [[Tries]]
 
+**Data Formats**
+- [[XML]]
+- [[YAML]]
+- [[JSON]]
+- [[Protocol Buffers (ProtoBuf)]]
+
 **Performance of data structures**
 - [[Runtime Complexities]]
 
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled 
 ```dataview
 LIST
 FROM [[]]

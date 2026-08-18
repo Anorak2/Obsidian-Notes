@@ -1,7 +1,7 @@
 
 2026-05-29
 
-Tags: [[Software Engineering (SWE)]] [[Java]] [[OOP Design Patterns]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design Pattern- Factory
 The factory design pattern is a very common OOP creational pattern. It works by defining an interface for creating objects on the parent level, and subclasses can then override these methods. The key here is that because subclasses override the factory methods there is flexible object creation, and it allows for improved maintainability and adaptability. A simple real world analogy is placing an order at a restaurant to a waiter who then takes it to the kitchen and decides who prepares it.
 

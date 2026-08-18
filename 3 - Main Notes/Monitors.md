@@ -1,7 +1,7 @@
 
 2026-04-14
 
-Tags: [[High Performance Computing - Computer Enhance]] [[Software Engineering (SWE)]]
+Tags: [[High Performance Computing]] [[Software Engineering (SWE)]]
 # Monitors
 Monitors are a high-level synchronization mechanism that simplify process and thread synchronization. They are built on top of locks and are mostly used in multithreading systems. Unlike semaphores, where the programmer must explicitly call wait() and signal(), monitors combine both the shared data and operations on that data inside of a single structure, making synchronization safer and easier to manage. 
 

@@ -1,7 +1,7 @@
 
 2026-07-12
 
-Tags: [[Performance Measurement & Reliability]] [[Designing Data Intensive Applications]]
+Tags: [[Performance Measurement & Reliability]] [[Data Systems]]
 # What is Scalability
 Load can be described with a few numbers which we call load parameters. The best choice of parameters depends on the architecture of your system. Perhaps it’s requests per second to a webserver, ratio of reads to writes in a database, the number of simultaneously active users in a chat room, the hit rate on a cache, or something else. Perhaps the average case is what matters for you, or perhaps your bottleneck is dominated by a small number of extreme cases.
 

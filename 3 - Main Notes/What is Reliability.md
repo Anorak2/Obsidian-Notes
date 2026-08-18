@@ -1,7 +1,7 @@
 
 2026-07-12
 
-Tags: [[Performance Measurement & Reliability]] [[Designing Data Intensive Applications]]
+Tags: [[Performance Measurement & Reliability]] [[Data Systems]]
 # What is Reliability
 
 Typically we expect software to:

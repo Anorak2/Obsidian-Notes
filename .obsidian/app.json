@@ -11,9 +11,9 @@
     "downscalePercent": 90
   },
   "newFileLocation": "folder",
-  "newFileFolderPath": "6 - Main Notes",
+  "newFileFolderPath": "3 - Main Notes",
   "autoPairMarkdown": false,
   "showLineNumber": false,
   "spellcheck": true,
-  "attachmentFolderPath": "2 - Source Material/images"
+  "attachmentFolderPath": "_meta/images"
 }

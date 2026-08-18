@@ -29,11 +29,7 @@ Speed up: $S_p = \frac{T_1}{T_P}$, efficiency: $E_P=\frac{S_P}{P}$, cost: $C_P =
 - [[Communication Patterns]]*
 - [[Parallel Sorting*]]*
 
-**CPU and Assembly**
-- [[Instruction Decoding]]
-- 
----
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled
 ```dataview
 LIST
 FROM [[]]

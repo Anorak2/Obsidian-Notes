@@ -1,6 +1,6 @@
 
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Derivatives and Limits of Trig Functions
 Key Limits are listed below, these limits will show up all the time for a number of reasons and can also be seen in a variety of different forms.
 

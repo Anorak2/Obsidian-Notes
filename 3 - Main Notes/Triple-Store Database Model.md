@@ -1,7 +1,7 @@
 
 2026-07-16
 
-Tags: [[Designing Data Intensive Applications]] [[Data]] [[Databases]]
+Tags: [[Data Systems]] [[Data]] [[Databases]]
 # Triple-Store Database Model
 This model is functionally equivalent to the graph model, however it instead stores data in a simple textual format with each row having a (Subject, Predicate, Object). This Object can either be a primitive datatype or another node in the graph.
 

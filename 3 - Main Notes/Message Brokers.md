@@ -1,7 +1,7 @@
 
 2026-08-09
 
-Tags: [[Designing Data Intensive Applications]]
+Tags: [[Data Systems]]
 # Message Brokers
 The simplest way for two different services to communicate is with a direct call, such as an HTTP request. This works well up until the other service is slow or unavailable which causes problems. Since this is a very common problem a message broker creates a queue capable of holding onto these requests. This allows the downstream service to handle them as fast as it can and no requests are lost.
 

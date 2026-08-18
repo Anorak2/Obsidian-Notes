@@ -1,7 +1,7 @@
 
 2026-07-01
 
-Tags:
+Tags: [[Data Structures]] 
 # YAML
 YAML is very human readable when compared to alternatives like JSON or XML. Comments are supported, and there are rich data types allowed. XML also supports anchors and references. The cons include indentation sensitive, slower parsing than JSON, complex specification.
 

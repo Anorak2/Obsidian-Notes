@@ -1,7 +1,7 @@
 
 2026-07-12
 
-Tags: [[Performance Measurement & Reliability]] [[Designing Data Intensive Applications]]
+Tags: [[Performance Measurement & Reliability]] [[Data Systems]]
 # What is Maintainability
 This is a difficult term to describe, but generally the following key points are sufficient:
 - Operability. Make it easy for operations teams to keep the system running smoothly.

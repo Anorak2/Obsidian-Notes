@@ -3,7 +3,7 @@ $$ \begin{bmatrix}
 a & b \\
 c & d \\
 \end{bmatrix} $$
-[[Math]]
+[[Mathematics]]
 ## Matrix Basics
 [[Matrix Definition]]
 [[Solving Matrices]]

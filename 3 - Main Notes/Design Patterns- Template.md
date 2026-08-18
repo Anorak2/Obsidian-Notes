@@ -1,7 +1,7 @@
 
 2026-06-11
 
-Tags: [[Software Engineering (SWE)]] [[OOP Design Patterns]]
+Tags: [[Software Engineering (SWE)]] [[Software Engineering (SWE)]]
 # Design Patterns- Template
 The Template Design Pattern is a behavioral design pattern that defines the overall structure (skeleton) of an algorithm in a base class. It allows subclasses to redefine or customize specific steps of the algorithm without changing its core structure. Importantly steps can also be either optional or mandatory, and the Abstract Class can also provide default implementations of methods.
 ![[Pasted image 20260611171635.png]]

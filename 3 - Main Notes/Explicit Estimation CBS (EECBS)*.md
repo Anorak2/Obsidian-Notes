@@ -1,7 +1,7 @@
 
 2025-04-13
 
-Tags:[[Algorithms]] [[High Performance Computing - Computer Enhance]] [[Computer Science]]
+Tags:[[Algorithms]] [[High Performance Computing]] [[Computer Science]]
 # Explicit Estimation CBS (EECBS)
 
 **Explicit Error Estimation**

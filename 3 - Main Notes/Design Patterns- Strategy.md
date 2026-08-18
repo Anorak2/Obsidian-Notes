@@ -1,7 +1,7 @@
 
 2026-06-03
 
-Tags: [[OOP Design Patterns]] [[Java]] [[Software Engineering (SWE)]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design Patterns- Strategy
 The Strategy Design Pattern is a behavioral pattern that defines a group of related algorithms, encapsulates each one in a separate class, and makes them interchangeable. It allows the algorithm to vary independently from the client that uses it, enabling behavior changes at runtime without altering existing code. The key here is that there are different ways to solve the problem, but that each of the strategies has to solve the same problem.
 

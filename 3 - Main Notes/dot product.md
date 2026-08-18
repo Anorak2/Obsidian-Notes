@@ -1,5 +1,5 @@
 
-Tags: [[Math]] [[Mathematics]]
+Tags: [[Mathematics]] [[Mathematics]]
 # dot product
 The dot product of two [[Vector Definition|vectors]] $a = \lt a_1, a_2, a_3 \gt$ and $b = \lt b_1, b_2, b_3 \gt$ is equal to 
 

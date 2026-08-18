@@ -1,6 +1,6 @@
 
-# Theoretical
-## Security (Theory)
+## Theoretical
+**Security (Theory)**
 - [[Threat Models*]]
 - [[Buffer Overflows]]
 - [[Side Channel Attacks]]
@@ -9,11 +9,13 @@
 Ensuring valid state:
 - [[Reference Monitors]]
 - [[Control Flow Integrity]]
-## LLVM / IR
+
+LLVM / IR
 - [[LLVM Bitcode]]
 - [[LLVM Memory]]
 - [[LLVM Calls]]
-## Limits, Models, Theorems
+
+**Limits, Models, Theorems**
 - [[CIA Triad]]
 - [[Code Abstraction Formats]]
 - [[Attribute Types]] *
@@ -21,78 +23,98 @@ Ensuring valid state:
 - [[Rice's Theorem]]
 - [[The Halting Problem]]
 
-## Static Analysis
-### Control Flow & Structure
+### Static Analysis
+**Control Flow & Structure**
 - [[Static analysis]]
 - [[Control Flow Graphs (CFG)]]
 - [[Poset*]]
 - [[Lattices]]
 - [[Dataflow Frameworks]]
 - [[Securing Information Flow]]
-
 - [[Domination and Control Dependence Graph]]
 - [[Control Dependence Graph (CDG) and Data Dependence Graph (DDG)]]
 - [[Program Slicing]]
 
-### Interprocedural State
+ **Interprocedural State**
 - [[Mod-Ref Analysis]]
 - [[Class Hierarchy Analysis (CHA) and Rapid Type (RTA)]]
 - [[Points To Analysis, Anderson's + Steensgard's]]
-## Dynamic Analysis
+### Dynamic Analysis
 - [[Dynamic Analysis]]
-### Instrumentation
+
+**Instrumentation**
 - [[Program Instrumentation]]
 - [[Static Instrumentation]]
 - [[Dynamic Instrumentation*]]
 - [[Reference Monitors]]
 - [[Control Flow Integrity]]
 
-### Beyond Execution Tracing
+**Beyond Execution Tracing**
 - [[Symbolic Execution]]
 - [[Concolic Execution]]
 - [[SAT Solving]]
 - [[SMT Solving]]
-# Practical
-## Recon / Scouting
+## Practical
+ **Recon / Scouting**
 - [[TheHarvester]] *
 - [[Basic Reconnaissance*]] *
 - [[Vulnerability Scans]] *
 
----
-## Password Attacks
+ **Password Attacks**
 - [[Password Cracking]]
 - [[Using John the Ripper*]] ~
 
----
-## Network-Based
+ **Networks and Wifi**
 - [[Basic Networking Terminology]]
 - [[Network + Port scanning (Nmap and Nessus)]]
 - [[Sniffing Network Traffic]]
-
 - [[Wireless Network Cracking (WEP)]]
 - [[Wireless Network Cracking (WPA & WPA-2)]]
 - [[WPA-3 Security]]
 - [[Denial of Service Attacks and DDoS Attacks]]
-
 - [[Firewalls]]
 
----
-## Other
+**Other**
 - [[SQL Injections*]]
 - [[Intrusion Detection Systems (IDS)]]
 - [[Rootkits]]
-- [[Exploit]()]()
+- [[Exploit Definition]]
+- [[CIA Triad]]
+- [[Classes of threat*]]
+- [[Types of Passwords attacks and Defenses*]]
+- [[Access Control Lists*]]
+- [[Stream Ciphers]]
+- [[Symmetric Cryptography]]
 
-[[CIA Triad]]
-[[Classes of threat*]]
-[[Types of Passwords attacks and Defenses*]]
-[[Access Control Lists*]]
+## Reverse Engineering
+``` less program >& txt```
 
+**Theory**
+- [[Basics of Binary Analysis]]
+- [[Software Build Process and Build Errors]]
+- [[Linux Linking*]]
+- [[Reverse Engineering outline*]]
+- [[Reverse Engineering* C++*]]
+- [[Basic Anti-reversing Techniques]]
+- [[Binary Level Obfuscation Techniques]]
 
-[[Stream Ciphers]]
-[[Symmetric Cryptography]]
----
-### ⚠ Unfiled — tagged this index but not placed above
+**Tools**
+- [[Gnu Debugger (GDB)]]
+- [[Tracing*]]
+- [[Ghidra Scripting Cheatsheet]]
+- [[Binary Rewriting]]
+- [[Dynamic Lib Hijacking - LD Preload]]
+
+[[Useful commands for Reverse Eng]]
+1. file
+2. ltrace
+3. strace
+4. strings
+5. ghidra
+
+"\x7fELF"
+
+## Unfiled
 ```dataview
 LIST
 FROM [[]]

@@ -1,7 +1,7 @@
 
 2025-01-08
 
-Tags: [[Computer Science]] [[Math]] [[Algorithms]]
+Tags: [[Computer Science]] [[Mathematics]] [[Algorithms]]
 # Recurrence Relations
 A recurrence is an equation or inequality that describes a function in terms of its value on smaller inputs. A recurrence is very useful for many different scenarios, for example a recurrence relation that describes Merge Sort in terms of Big O notation.
 $$

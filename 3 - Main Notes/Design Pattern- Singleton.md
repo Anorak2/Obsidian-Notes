@@ -1,7 +1,7 @@
 
 2026-05-28
 
-Tags: [[Software Engineering (SWE)]] [[Java]] [[OOP Design Patterns]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design Pattern- Singleton
 The Singleton Design Pattern ensures that a class has only one instance and provides a global access point to it. It is used when we want centralized control of resources, such as managing database connections, configuration settings or logging.
 

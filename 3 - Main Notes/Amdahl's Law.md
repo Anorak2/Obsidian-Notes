@@ -1,7 +1,7 @@
 
 2025-01-24
 
-Tags: [[High Performance Computing - Computer Enhance]]  [[Computer Science]]
+Tags: [[High Performance Computing]]  [[Computer Science]]
 # Amdahl's Law
 Amdahl's law deals with any code with a parallelizable section of code, and a serial section of code. The law states that adding more processors (scaling) can make the program faster but we are always capped by the runtime of the serial section
 $$S_p =\frac{T_1}{T_p}=\frac{1}{f+\frac{(1-f)}{p}} \leq \frac{1}{f}$$

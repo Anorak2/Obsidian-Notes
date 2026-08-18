@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Integrals
 An Integral is a way to measure the area of the function "under the curve", with the parts of the function above the x-axis counting as positive and the parts below counting as negative.  
 

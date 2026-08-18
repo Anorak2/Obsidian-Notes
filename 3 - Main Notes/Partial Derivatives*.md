@@ -1,5 +1,5 @@
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Partial Derivatives
 Partial derivatives are very very similar to normal derivatives, many other derivative techniques apply. The main difference is that for a partial, we choose a single variable to act as a variable, and we treat everything else (including other variables) as constants
 

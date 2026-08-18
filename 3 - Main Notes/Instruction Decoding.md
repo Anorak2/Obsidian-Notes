@@ -1,7 +1,7 @@
 
 2026-07-23
 
-Tags: [[Computer Architecture]] [[High Performance Computing - Computer Enhance]]
+Tags: [[Computer Architecture]] [[High Performance Computing]]
 # 8086 Instruction Decoding
 On the 8086 CPU registers were 16 bits and each register of course has a name (ax, bx, cx). When doing something memory was loaded into the register, some operation was performed, and then the data was put back into memory. This is the basis of modern CPU architecture, but instruction decoding is essential since otherwise the computer doesn't know what it needs to do.
 

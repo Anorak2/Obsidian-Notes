@@ -1,7 +1,7 @@
 
 2025-05-13
 
-Tags: [[Reverse Engineering]]
+Tags: [[Software Security]]
 # Basic Anti-reversing Techniques
 This is done to confuse disassembly tools, detect debuggers, and to make static analysis harder. We only focus on two techniques at the start, Packers and Obfuscators.
 

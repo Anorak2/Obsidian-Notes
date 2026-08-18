@@ -1,7 +1,7 @@
 
 2025-05-30
 
-Tags: [[High Performance Computing - Computer Enhance]] [[Algorithms]]
+Tags: [[High Performance Computing]] [[Algorithms]]
 # Optimal Checkpointing Strategies
 
 Assumptions

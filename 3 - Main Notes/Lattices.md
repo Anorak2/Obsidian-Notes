@@ -1,7 +1,7 @@
 
 2025-09-29
 
-Tags: [[Software Security]] [[Math]] [[Computer Science]]
+Tags: [[Software Security]] [[Mathematics]] [[Computer Science]]
 # Lattices
 A lattice is a [[Poset*]] in which each pair of elements has:
 - A least upper bound (the join)

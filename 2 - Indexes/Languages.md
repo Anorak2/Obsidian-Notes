@@ -11,8 +11,23 @@
 
 ## Java
 
+- [[Java Interview Trivia]]
+- [[Java Modularity]]
+- [[Java Building]]
+- [[Java HashMap Internals]]
+- [[Java Maps]]
+
+
 ## Golang
 
 **language**
 - [[Go Mutexes - Concurrency Control]]
 - [[HTTP in Go]]
+
+## Unfiled 
+```dataview
+LIST
+FROM [[]]
+WHERE !contains(this.file.outlinks, file.link) AND contains(file.folder, "Main Notes")
+SORT file.name ASC
+```

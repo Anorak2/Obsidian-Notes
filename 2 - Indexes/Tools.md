@@ -11,7 +11,7 @@
 - [[Wireless Network Cracking (WEP)]]
 - [[Wireless Network Cracking (WPA & WPA-2)]]
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled 
 ```dataview
 LIST
 FROM [[]]

@@ -1,7 +1,7 @@
 
 2024-12-23
 
-Tags: [[Databases]] [[Designing Data Intensive Applications]]
+Tags: [[Databases]] [[Data Systems]]
 # Relational Models
 A relational database is a number of tuples with a defined format, each assigned to a table. This is by far the most popular and influential data model, and it has dominated the industry for an entire ~40 years at time of writing. Relational models are generally very capable, however critics say that strict schemas are restricting. 
 

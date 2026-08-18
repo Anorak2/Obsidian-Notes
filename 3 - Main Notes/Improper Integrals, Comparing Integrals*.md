@@ -1,7 +1,7 @@
 
 2025-05-19
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Improper Integrals, Comparing Integrals
 We deal with these by using everyone's favorite, [[Limits|Limits]]
 

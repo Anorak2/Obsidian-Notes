@@ -1,4 +1,4 @@
-[[Math]]
+[[Mathematics]]
 ## Section One
 **Basics**
 - [[Probability axioms]]

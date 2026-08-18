@@ -1,5 +1,5 @@
 
-Tags: [[Computer Science]] [[Math]]
+Tags: [[Computer Science]] [[Mathematics]]
 
 [[basic definitions]]
 [[Formal Languages]]

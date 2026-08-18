@@ -1,4 +1,8 @@
-# Calculus
+
+- [[Discrete math Bibliography]]
+- [[Linear Algebra Bibliography]]
+- [[Statistics Bibliography]]
+## Calculus
 #### Limits
 - [[Limits]]
 - [[Limit indeterminate forms*]]
@@ -49,7 +53,7 @@
 - [[Vector Properties]]
 
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+## Unfiled 
 ```dataview
 LIST
 FROM [[]]

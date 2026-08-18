@@ -80,7 +80,7 @@ topics in order:
 - relevance feedback, query expansion, personalized search
 
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled 
 ```dataview
 LIST
 FROM [[]]

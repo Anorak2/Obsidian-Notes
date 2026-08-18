@@ -1,7 +1,7 @@
 
 2026-07-12
 
-Tags: [[Databases]] [[Data]] [[Designing Data Intensive Applications]]
+Tags: [[Databases]] [[Data]] [[Data Systems]]
 # Document Database Model
 The document model is the newest attempt to replace the relational database model, and is representative of the nosql camp. It excels when data has a tree of 1-many relationships. It also does well with loose schemas, and when joins are less common.
 

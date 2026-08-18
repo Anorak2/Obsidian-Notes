@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Power Series
 a power [[Series]] is an infinite series with a center that is a constant c. Essentially power series are infinite polynomials 
 

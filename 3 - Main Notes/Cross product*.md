@@ -1,5 +1,5 @@
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Cross product
 to find the cross product of two vectors, say $\lt a, b, c \gt$ cross $\lt u, v, w \gt$ you would start by forming a matrix where the first row is set to i, j, k, the second row is the first vector and the third row is the second vector.
 

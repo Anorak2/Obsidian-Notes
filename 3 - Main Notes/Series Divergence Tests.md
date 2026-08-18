@@ -2,7 +2,7 @@
 
 2025-09-02
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Series Divergence Tests
 
 ## Nth Term Divergence Test

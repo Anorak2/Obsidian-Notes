@@ -1,7 +1,7 @@
 
 2026-07-16
 
-Tags: [[Designing Data Intensive Applications]] [[Data]] [[Algorithms]] [[Data Structures]]
+Tags: [[Data Systems]] [[Data]] [[Algorithms]] [[Data Structures]]
 # LSM Trees
 LSM Trees are typically used in databases that prioritize high write throughput, and we can accomplish this by using a series of append only files so that we are never performing a random write. This model keeps layers in different layers of accessibility, from locations held in an in-map memory to values held some segments further. This model is used in several different databases such as `LevelDB` and `RocksDB`, and Cassandra and `HBase` are both similar to this idea. 
 

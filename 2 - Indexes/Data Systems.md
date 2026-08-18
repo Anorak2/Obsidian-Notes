@@ -1,20 +1,11 @@
 
-HW:
-- [ ] ADD
-- [ ] SUB
-- [ ] CMP
-all three versions of each
-
-Conditional jumps, all of these are just a simple opcode and an 8 byte signed displacement
-- [ ] JNZ
-
 **Fundamental Ideas**
 - [[What is Reliability]]
 - [[What is Scalability]]
 - [[What is Maintainability]]
 - [[Data Warehousing]]
 
-**Data Models**
+**Database Models**
 - [[Relational Database Model]]
 - [[Document Database Model]]
 - [[Graph Database Model]]
@@ -37,8 +28,9 @@ Conditional jumps, all of these are just a simple opcode and an 8 byte signed di
 
 
 [[Message Brokers]]
+
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled 
 ```dataview
 LIST
 FROM [[]]

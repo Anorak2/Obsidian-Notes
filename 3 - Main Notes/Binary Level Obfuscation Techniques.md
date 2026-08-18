@@ -1,7 +1,7 @@
 
 2025-05-13
 
-Tags: [[Reverse Engineering]]
+Tags: [[Software Security]]
 # Binary Level Obfuscation Techniques
 Obfuscation at the binary level manipulates machine code to confuse disassemblers, debuggers, and reverse engineers.
 

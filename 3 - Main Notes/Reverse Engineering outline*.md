@@ -1,7 +1,7 @@
 
 2025-02-28
 
-Tags: [[Reverse Engineering]] 
+Tags: [[Software Security]] 
 # Reverse Engineering outline
 Common Static Analysis tools:
 - file, head, ldd, xdd, nm, strings, objdump

@@ -35,6 +35,5 @@ r_sq = model.score(x, y)
 ```
 
 # References
-- [[Problem Solving Strategies]]
 - [[Loss Functions|gradient descent]]
 

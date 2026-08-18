@@ -59,11 +59,11 @@ Non-probabilistic:
 - [[Self Attention Networks (Transformer)]]
 - [[Large Language Models (LLM's)*]]
 ## Other
-[[Generative Adversarial Network (GAN)]]
-[[ML for Information Retrieval]]
+- [[Generative Adversarial Network (GAN)]]
+- [[ML for Information Retrieval]]
 
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+## Unfiled 
 ```dataview
 LIST
 FROM [[]]

@@ -1,7 +1,7 @@
 
 2025-02-06
 
-Tags: [[High Performance Computing - Computer Enhance]]
+Tags: [[High Performance Computing]]
 # Multiprocessor Scheduling Notation
 
 **Rigid Jobs**

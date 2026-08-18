@@ -19,6 +19,7 @@
 - [[Heap Sort]]
 - [[Merge Sort*]]
 - [[Quick Sort]]
+	- [[Adversary to Quicksort]]
 - [[Quick Sort Variants]]
 - [[Counting Sort]]
 - [[Radix Sort]]
@@ -36,7 +37,7 @@
 
 
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled 
 ```dataview
 LIST
 FROM [[]]

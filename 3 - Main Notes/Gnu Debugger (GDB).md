@@ -1,7 +1,7 @@
 
 2025-05-13
 
-Tags: [[Reverse Engineering]] [[EECS 678 Final]] [[Programming]] [[Processes]]
+Tags: [[Software Security]] [[EECS 678 Final]] [[Programming]] [[Processes]]
 # Gnu Debugger (GDB)
 ```b *0xADDR``` 
 	to set a break point at an arbitrary point in memory

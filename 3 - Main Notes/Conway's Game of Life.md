@@ -2,7 +2,7 @@
 
 2024-12-24
 
-Tags: [[Math]] [[Computer Science]]
+Tags: [[Mathematics]] [[Computer Science]]
 # Conway's Game of Life
 
 Conway's game of life was invented by John Conway and is a game designed around building cellular automata that interact using simple, deterministic behavior. What makes Conway's game of life interesting is the way simple machines can balloon to a surprising level of complexity, Conway's game of life is also notably Turing complete and as a result many interesting machines have been created.

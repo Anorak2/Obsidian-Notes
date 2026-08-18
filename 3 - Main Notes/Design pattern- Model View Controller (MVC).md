@@ -1,7 +1,7 @@
 
 2026-07-01
 
-Tags: [[OOP Design Patterns]] [[Java]]
+Tags: [[Software Engineering (SWE)]] [[Java]]
 # Design pattern- Model View Controller (MVC)
 The MVC (Model–View–Controller) design pattern divides an application into three separate components: Model, View, and Controller. This separation of concerns improves code organization, maintainability, and scalability. Each component handles a specific responsibility, making the application easier to modify and extend.
 

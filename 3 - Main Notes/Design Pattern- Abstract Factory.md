@@ -1,7 +1,7 @@
 
 2026-05-29
 
-Tags: [[Software Engineering (SWE)]] [[Java]] [[OOP Design Patterns]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design Pattern- Abstract Factory
 The Abstract Factory Pattern is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. This means that it is basically a factory factory.
 ![[Pasted image 20260529184135.png]]

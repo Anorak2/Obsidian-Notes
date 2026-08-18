@@ -2,7 +2,7 @@
 
 2026-05-19
 
-Tags: [[Statistics Bibliography]] [[Math]]
+Tags: [[Statistics Bibliography]] [[Mathematics]]
 # Geometric Distribution
 What geometric does is count the number of events until we see a 1, this is also actually just a special case of the Pascal Distribution where k = 1
 

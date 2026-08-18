@@ -1,7 +1,7 @@
 
 2025-05-13
 
-Tags: [[Reverse Engineering]]
+Tags: [[Software Security]]
 # Dynamic Lib Hijacking - LD Preload
 This is a way to do function hijacking since LD_PRELOAD allows users to provide their own definitions for dynamic symbols, and we can load these symbols before a library can load it's symbols.
 ```

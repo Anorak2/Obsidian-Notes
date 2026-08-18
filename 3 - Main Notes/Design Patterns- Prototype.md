@@ -1,7 +1,7 @@
 
 2026-05-30
 
-Tags: [[Java]] [[Software Engineering (SWE)]] [[OOP Design Patterns]]
+Tags: [[Java]] [[Software Engineering (SWE)]] [[Software Engineering (SWE)]]
 # Design Patterns- Prototype
 The prototype pattern is required when object creation is a time-consuming, and costly operation, so we create objects with the existing object itself  by copying the existing ones. The cloned object can modify only the required properties, avoiding unnecessary changes to the original object.
 

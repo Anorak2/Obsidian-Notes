@@ -1,7 +1,7 @@
 
 2026-06-01
 
-Tags: [[OOP Design Patterns]] [[Java]] [[Software Engineering (SWE)]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design patterns- Facade
 This pattern provides a simple and unified interface to a complex subsystem. It hides the internal complexity of the system, making it easier to use and maintain. The Facade Pattern achieves this by introducing a facade object that acts as a single entry point.
 

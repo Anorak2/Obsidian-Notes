@@ -1,7 +1,7 @@
 
 2026-07-17
 
-Tags: [[Designing Data Intensive Applications]] [[Data]]
+Tags: [[Data Systems]] [[Data]]
 # B-Trees vs LSM Trees
 Fundamentally the difference between the two structures is whether we choose append only logging or update in place. Both keep logs, for B-Trees all data must be written twice, first to a Write Ahead Log (WAL), and then to the tree in order to maintain resiliency in case of sudden power failure/shutdown. LSM Trees aren't above this either though, since log structured implementations rewrite data multiple times due to the merging process.
 

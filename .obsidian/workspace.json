@@ -4,27 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8c066f6f9c0ae1",
+        "id": "4dbb7e4d15d2d5d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ddebeb1e38b10229",
+            "id": "7a1b862c44d2264c",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "5 - Projects/Data Intensive Aplications.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          },
+          {
+            "id": "0cd1b91d00a3d8e1",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - writing/Technical Essay Topics.md",
+                "file": "5 - Projects/Data Intensive Aplications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Technical Essay Topics"
+              "title": "Data Intensive Aplications"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +93,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -66,15 +105,10 @@
             "id": "c1506bd848a8c6d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "New tab"
             }
           },
           {
@@ -83,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spaces",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,34 +172,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9dd8613c934de8df",
+  "active": "0cd1b91d00a3d8e1",
   "lastOpenFiles": [
-    "3 - Main Notes/vertically vs horizontally simple integrals.md",
-    "3 - Main Notes/vector space*.md",
-    "3 - Main Notes/two's complement*.md",
-    "3 - Main Notes/naming_things_in_code.md",
-    "3 - Main Notes/linear approximation*.md",
-    "3 - Main Notes/dot product.md",
-    "3 - Main Notes/database views*.md",
-    "3 - Main Notes/YAML.md",
+    "2 - Indexes/Data.md",
+    "5 - Projects/Data Intensive Aplications.md",
+    "3 - Main Notes/Problem Solving Strategies.md",
+    "3 - Main Notes/Logistic Regression.md",
+    "3 - Main Notes/A3 Problem Solving.md",
+    "2 - Indexes/Web.md",
+    "3 - Main Notes/Logging*.md",
+    "1 - Rough Notes/Programming/ServiceNow/Knowledge Checks.md",
+    "2 - Indexes/Algorithms.md",
+    "1 - Rough Notes/Programming/ServiceNow/1. Exam Questions.md",
+    "3 - Main Notes/Multi Agent Path Finding (MAPF).md",
+    "2 - Indexes/High Performance Computing.md",
+    "2 - Indexes/Computer Architecture.md",
+    "2 - Indexes/Data Structures.md",
     "3 - Main Notes/XML.md",
-    "3 - Main Notes/Wireless Networks.md",
-    "3 - Main Notes/Wireless Network Cracking (WPA & WPA-2).md",
-    "3 - Main Notes/Wireless Network Cracking (WEP).md",
-    "3 - Main Notes/Why cloud computing.md",
-    "3 - Main Notes/What is Scalability.md",
-    "3 - Main Notes/What is Reliability.md",
-    "3 - Main Notes/What is Maintainability.md",
-    "3 - Main Notes/Website Performance.md",
-    "3 - Main Notes/Web Tracking.md",
-    "3 - Main Notes/Web Sockets*.md",
-    "3 - Main Notes/Web Security.md",
-    "3 - Main Notes/Web Crawlers.md",
-    "3 - Main Notes/Web Cookies.md",
-    "3 - Main Notes/WPA-3 Security.md",
-    "3 - Main Notes/Vulnerability Scans.md",
-    "3 - Main Notes/Virtual Private Networks (VPN).md",
-    "3 - Main Notes/Virtual Memory and Paging.md",
+    "2 - Indexes/Software Engineering (SWE).md",
+    "3 - Main Notes/YAML.md",
+    "3 - Main Notes/Protocol Buffers (ProtoBuf).md",
+    "3 - Main Notes/JSON.md",
+    "_meta/Index Health.md",
+    "2 - Indexes/Data Systems.md",
+    "2 - Indexes/ServiceNow.md",
+    "5 - Projects/Muratori.md",
+    "3 - Main Notes/Instruction Decoding.md",
+    "3 - Main Notes/8086 Assembly.md",
+    "2 - Indexes/Data Mining and Machine Learning.md",
+    "5 - Projects",
     "3 - Main Notes",
     "2 - Indexes",
     "_meta/templates",
@@ -181,7 +216,6 @@
     "_meta/images/Screenshot from 2025-12-20 00-30-18.png",
     "_meta/images/Screenshot from 2025-12-19 23-21-06.png",
     "_meta",
-    "Untitled",
     "_meta/Recently Modified and Created.base",
     "2 - Source Material/Designing Data Intensive Applications",
     "8 - Projects/Computer-Enhance",

@@ -1,5 +1,5 @@
 
-Tags: [[Mathematics]] [[Math]] 
+Tags: [[Mathematics]] [[Mathematics]] 
 
 ## Definition
 > A limit is the value that a function (or sequence) approaches as the argument approaches some value. Limits are the fundamental building blocks of calculus and are used to define Derivatives, Integrals, and More

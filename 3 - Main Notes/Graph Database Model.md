@@ -1,7 +1,7 @@
 
 2026-07-13
 
-Tags: [[Designing Data Intensive Applications]] [[Databases]] [[Data]]
+Tags: [[Data Systems]] [[Databases]] [[Data]]
 # Graph Database Model
 The graph data model excels at modeling highly connected data, and data with many different forms of relationships or complex connections between nodes. A graph is simple composed of nodes which are arbitrary points, and vertices which are able to connect these nodes. Common examples of use-cases include social graphs, the connections between web pages, and road networks. There are many useful algorithms that can operate on these graphs, including Dijkstra's algorithm, A*, and many more.
 

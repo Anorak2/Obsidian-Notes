@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Linear Algebra Bibliography]] [[Mathematics]] [[Math]]
+Tags: [[Linear Algebra Bibliography]] [[Mathematics]] [[Mathematics]]
 # Determinant of 2x2 Matrix
 $$
 det\begin{bmatrix}

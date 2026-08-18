@@ -1,7 +1,7 @@
 
 2025-04-21
 
-Tags: [[Software Security]] [[Reverse Engineering]]
+Tags: [[Software Security]] [[Software Security]]
 # Binary Rewriting
 Binary rewriting is where we change a compiled binary program by altering, inserting, or deleting instructions so that we can manipulate its behavior. Doing this even has numerous non-malicious applications like doing virtualization, hardening, debugging, or optimization.
 

@@ -1,7 +1,7 @@
 
 2025-05-30
 
-Tags: [[Math]] [[Mathematics]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Graphing 3D Shapes
 
 ## Elipsoid

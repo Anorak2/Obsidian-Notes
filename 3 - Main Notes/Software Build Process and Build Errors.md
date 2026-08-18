@@ -1,7 +1,7 @@
 
 2025-01-27
 
-Tags: [[Reverse Engineering]] 
+Tags: [[Software Security]] 
 # Software Build Process and Build Errors
 ```c
 gcc -E  --> Preprocessor, but don't compile

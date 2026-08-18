@@ -1,7 +1,7 @@
 
 2026-06-01
 
-Tags: [[Software Engineering (SWE)]] [[Java]] [[OOP Design Patterns]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design patterns- Decorator
 This pattern lets you dynamically add behavior to individual objects without changing other objects of the same class. It uses decorator classes to wrap concrete components, making functionality more flexible and reusable.
 

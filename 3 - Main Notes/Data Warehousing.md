@@ -1,7 +1,7 @@
 
 2026-07-17
 
-Tags: [[Designing Data Intensive Applications]]
+Tags: [[Data Systems]]
 # Data Warehousing
 Large enterprises can have dozens of different systems that each have their own data-stores and teams to maintain them, and often these systems behave fully independently of eachother. These teams typically don't want to let analysts onto their systems since they often run expensive queries that scan large parts of the dataset, harming the performance of the system. To solve this problem a separate database called a data warehouse was invented.
 

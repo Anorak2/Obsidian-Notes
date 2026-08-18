@@ -1,7 +1,7 @@
 
 2025-09-02
 
-Tags: [[Mathematics]] [[Math]]
+Tags: [[Mathematics]] [[Mathematics]]
 # Mathematical Sequences
 A sequence is a list of numbers written in a specific order, and a sequence doesn't have to start at a specific value such as 1 or 0. Sequences are also functions that only take in ascending integers as their inputs.
 

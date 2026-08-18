@@ -3,10 +3,14 @@
 [[Good database design principles]]
 [[Purpose of a database*]]
 
-**Database Models**
+**Data Models**
 - [[Relational Database Model]]
 - [[Document Database Model]]
 - [[Graph Database Model]]
+- [[Triple-Store Database Model]]
+- [[Object Relational Mapping (ORM)]]
+- [[MapReduce]]
+
 
 **Normalization**
 - [[Armstrong Axioms]]
@@ -34,7 +38,7 @@
 - [[Security CAP Theorem]]
 - [[Transparency*]]
 ---
-### ⚠ Unfiled — tagged this index but not placed above
+### Unfiled
 ```dataview
 LIST
 FROM [[]]

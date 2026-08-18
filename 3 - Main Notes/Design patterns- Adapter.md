@@ -1,7 +1,7 @@
 
 2026-06-01
 
-Tags: [[OOP Design Patterns]] [[Java]] [[Software Engineering (SWE)]]
+Tags: [[Software Engineering (SWE)]] [[Java]] [[Software Engineering (SWE)]]
 # Design patterns- Adapter
 Adapter Design Pattern is a structural pattern that acts as a bridge between two incompatible interfaces, allowing them to work together. It is especially useful for integrating legacy code or third-party libraries into a new system. It can be either through a  Class Adapter (using inheritance) and Object Adapter (using composition).
 

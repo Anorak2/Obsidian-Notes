@@ -1,7 +1,7 @@
 
 2026-07-17
 
-Tags: [[Designing Data Intensive Applications]] [[Data]] [[Data Structures]]
+Tags: [[Data Systems]] [[Data]] [[Data Structures]]
 # Star and Snowflake Schema
 ## Star Schema
 At the center of this schema is what is called a **fact table.** Each row of the table represents an event that occurred at some time, such as a customers purchase. Usually facts are captured individually since that provides the most flexibility for analysis, but in large organizations this could mean petabytes of fact tables. 
